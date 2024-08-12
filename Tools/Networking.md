@@ -11,7 +11,8 @@
 | Chisel | BlackSuit, Royal, AvosLocker |
 | Cloudflared | BlackSuit, Royal, Akira |
 | OpenSSH | BlackSuit, Royal, Akira |
-| Ligolo | AvosLocker |
-| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider |
+| Ligolo | AvosLocker, LockBit |
+| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider, LockBit |
 | Plink | BlackCat, PLAY, LockBit |
 | Tailscale | Scattered Spider |
+| TinyMet | CL0P |
