@@ -28,4 +28,4 @@
 | 11 August 2022 | Medusa | [CISA Alert aa22-181a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-181a) |
 | 9 March 2022 | Conti | [CISA Alert aa21-265a](https://www.cisa.gov/news-events/alerts/2021/09/22/conti-ransomware) |
 | 18 October 2021 | BlackMatter | [CISA Alert aa21-291a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-291a) |
-| 8 July 2023 | DarkSide | [CISA Alert aa21-131a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-131a) |
+| 8 July 2021 | DarkSide | [CISA Alert aa21-131a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-131a) |
