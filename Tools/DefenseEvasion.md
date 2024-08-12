@@ -8,4 +8,13 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Backstab | Black Basta, LockBit | 
+| Defender Control | LockBit |
+| Eraser | BlackSuit, Royal |
+| GMER | BlackSuit, Royal, PLAY, LockBit |
+| IOBit | PLAY |
+| PCHunter | LockBit |
+| PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit |
+| ProcessHacker | Phobos, LockBit |
+| TDSSKiller | LockBit |
+| Universal Virus Sniffer | Phobos |
