@@ -13,6 +13,7 @@
 | 18 December 2023 | PLAY | [CISA Alert aa23-352a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a) |
 | 12 December 2023 | Karakurt | [CISA Alert aa22-152a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a) |
 | 21 November 2023 | LockBit | [CISA Alert aa23-325a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) |
+| 16 November 2023 | Scattered Spider | [CISA Alert aa23-320a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a) |
 | 15 November 2023 | Rhysida | [CISA Alert aa23-319a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a)
 | 11 October 2023 | AvosLocker | [CISA Alert aa23-284a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-284a) |
 | 20 September 2023 | Snatch | [CISA Alert aa23-263a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-263a) |
