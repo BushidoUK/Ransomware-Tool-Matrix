@@ -9,7 +9,8 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Dropbox | BlackCat |
-| FileZilla | Akira, Karakurt |
-| MEGA | Akira, Phobos, BlackCat, Karakurt |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt |
-| WinSCP | Akira, Phobos, PLAY |
+| FileZilla | Akira, Karakurt, AvosLocker, LockBit |
+| FreeFileSync | LockBit |
+| MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti |
+| WinSCP | Akira, Phobos, PLAY, LockBit |
