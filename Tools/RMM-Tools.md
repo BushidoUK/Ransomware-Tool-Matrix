@@ -8,4 +8,12 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Action1 | LockBit |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida |
+| Atera | BlackSuit, Royal |
+| FixMeIt | LockBit |
+| LogMeIn | BlackSuit, Royal |
+| ScreenConnect | Black Basta, BlackCat, LockBit |
+| SimpleHelp | BlackCat |
+| Splashtop | Black Basta, LockBit |
+| ZohoAssist | LockBit |
