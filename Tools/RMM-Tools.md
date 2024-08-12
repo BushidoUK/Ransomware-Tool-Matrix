@@ -15,6 +15,7 @@
 | Fleetdeck | Scattered Spider |
 | Level.io | Scattered Spider |
 | LogMeIn | BlackSuit, Royal |
+| MobaXterm | BlackSuit, Royal, Akira |
 | Pulseway | Scattered Spider |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider |
 | SimpleHelp | BlackCat |
