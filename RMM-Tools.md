@@ -6,6 +6,6 @@
 > [!IMPORTANT]
 > By operating through legitimate RMM channels, attackers can evade detection by blending in with regular IT activities and potentially bypass security measures due to the elevated privileges these tools provide.
 
-| RMM Tool Name | Threat Group Usage |
+| Tool Name | Threat Group Usage |
 |---|---|
 | | |
