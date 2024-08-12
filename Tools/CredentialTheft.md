@@ -22,4 +22,5 @@
 | PasswordFox | LockBit |
 | ProcDump | LockBit |
 | RDP Recognizer | BianLian |
+| Router Scan | Conti |
 | SecretsDump | Rhysida |
