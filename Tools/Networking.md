@@ -8,4 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Chisel | BlackSuit, Royal |
+| Cloudflared | BlackSuit, Royal, Akira |
+| OpenSSH | BlackSuit, Royal, Akira |
+| Ngrok | Akira |
