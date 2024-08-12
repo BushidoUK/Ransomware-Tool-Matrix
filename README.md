@@ -11,4 +11,5 @@
 - [List of Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatGroups.md)
 - [RMM Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/RMM-Tools.md)
 - [Exfiltration Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Exfiltration.md)
-- [Credential Theft](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/CredentialTheft.md)
+- [Credential Theft Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/CredentialTheft.md)
+- [Defense Evasion Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/DefenseEvasion.md)
