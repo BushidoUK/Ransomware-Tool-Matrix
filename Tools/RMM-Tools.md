@@ -9,11 +9,13 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida |
-| Atera | BlackSuit, Royal |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian |
 | FixMeIt | LockBit |
 | LogMeIn | BlackSuit, Royal |
 | ScreenConnect | Black Basta, BlackCat, LockBit |
 | SimpleHelp | BlackCat |
-| Splashtop | Black Basta, LockBit |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian |
+| TacticalRMM | AvosLocker |
+| TeamViewer | LockBit, BianLian |
 | ZohoAssist | LockBit |
