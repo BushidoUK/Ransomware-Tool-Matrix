@@ -12,10 +12,13 @@
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian |
 | FixMeIt | LockBit |
+| Fleetdeck | Scattered Spider |
+| Level.io | Scattered Spider |
 | LogMeIn | BlackSuit, Royal |
-| ScreenConnect | Black Basta, BlackCat, LockBit |
+| Pulseway | Scattered Spider |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider |
 | SimpleHelp | BlackCat |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian |
-| TacticalRMM | AvosLocker |
-| TeamViewer | LockBit, BianLian |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider |
+| TacticalRMM | AvosLocker, Scattered Spider |
+| TeamViewer | LockBit, BianLian, Scattered Spider |
 | ZohoAssist | LockBit |
