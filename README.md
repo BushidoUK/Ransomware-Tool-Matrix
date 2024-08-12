@@ -8,5 +8,5 @@
 > - As a checklist of tools to identify patterns of behaviour between certain ransomware affiliates
 
 ## Resources
-- List of Threat Groups
+- [List of Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatGroups.md)
 - [RMM Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/RMM-Tools.md)
