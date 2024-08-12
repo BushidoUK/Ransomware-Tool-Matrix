@@ -8,12 +8,18 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| LaZagne | Akira |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY |
+| LaZagne | Akira, AvosLocker, LockBit |
+| LostMyPassword | LockBit |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti |
 | NirSoft Dialupass | BlackSuit, Royal |
+| NirSoft ExtPassword | LockBit |
 | NirSoft IE PassView | BlackSuit, Royal |
 | NirSoft Mail PassView | BlackSuit, Royal |
 | NirSoft Netpass | BlackSuit, Royal |
 | NirSoft Router PassView | BlackSuit, Royal |
 | NirSoft Remote Desktop PassView | Phobos |
 | NirSoft WebBrowserPassView | Phobos |
+| PasswordFox | LockBit |
+| ProcDump | LockBit |
+| RDP Recognizer | BianLian |
+| SecretsDump | Rhysida |
