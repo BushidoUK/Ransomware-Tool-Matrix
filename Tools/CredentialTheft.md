@@ -8,4 +8,12 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| LaZagne | Akira |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY |
+| NirSoft Dialupass | BlackSuit, Royal |
+| NirSoft IE PassView | BlackSuit, Royal |
+| NirSoft Mail PassView | BlackSuit, Royal |
+| NirSoft Netpass | BlackSuit, Royal |
+| NirSoft Router PassView | BlackSuit, Royal |
+| NirSoft Remote Desktop PassView | Phobos |
+| NirSoft WebBrowserPassView | Phobos |
