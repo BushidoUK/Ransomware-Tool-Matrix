@@ -8,7 +8,10 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Chisel | BlackSuit, Royal |
+| Chisel | BlackSuit, Royal, AvosLocker |
 | Cloudflared | BlackSuit, Royal, Akira |
 | OpenSSH | BlackSuit, Royal, Akira |
-| Ngrok | Akira |
+| Ligolo | AvosLocker |
+| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider |
+| Plink | BlackCat, PLAY, LockBit |
+| Tailscale | Scattered Spider |
