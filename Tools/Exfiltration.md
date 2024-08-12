@@ -8,4 +8,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Dropbox | BlackCat |
+| FileZilla | Akira, Karakurt |
+| MEGA | Akira, Phobos, BlackCat, Karakurt |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt |
+| WinSCP | Akira, Phobos, PLAY |
