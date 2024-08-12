@@ -14,3 +14,4 @@
 - [Credential Theft Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/CredentialTheft.md)
 - [Defense Evasion Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/DefenseEvasion.md)
 - [Networking Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Networking.md)
+- [Discovery Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/DiscoveryEnum.md)
