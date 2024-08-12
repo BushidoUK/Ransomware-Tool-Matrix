@@ -8,4 +8,9 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| AdFind | BlackSuit, Royal |
+| Advanced IP Scanner | BlackSuit, Royal, Akira |
+| Angry IP Scanner | Phobos |
+| Net | Akira |
+| SharpShares | BlackSuit, Royal |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira |
