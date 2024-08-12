@@ -10,3 +10,4 @@
 ## Resources
 - [List of Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatGroups.md)
 - [RMM Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/RMM-Tools.md)
+- [Exfiltration Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Exfiltration.md)
