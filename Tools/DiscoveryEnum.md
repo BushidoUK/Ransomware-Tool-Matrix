@@ -8,9 +8,16 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal |
-| Advanced IP Scanner | BlackSuit, Royal, Akira |
+| AdFind | BlackSuit, Royal, PLAY, LockBit |
+| Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit |
+| Advanced Port Scanner| LockBit, BianLian |
 | Angry IP Scanner | Phobos |
-| Net | Akira |
-| SharpShares | BlackSuit, Royal |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira |
+| AWS Systems Manager Inventory | Scattered Spider |
+| Bloodhound | LockBit |
+| Net | Akira, Rhysida |
+| Nltest | PLAY, Rhysida |
+| PingCastle | BianLian |
+| Seabelt | LockBit |
+| ServiceControl (sc.exe) | Snatch |
+| SharpShares | BlackSuit, Royal, BianLian |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian |
