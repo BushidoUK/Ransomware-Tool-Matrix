@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| PsExec | |
-| | |
+| PsExec | BlackSuit, Royal, Black Basta |
+| BITSAdmin | Black Basta |
 | | |
 | | |
