@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | |
-| Brute Ratel C4 | |
+| Cobalt Strike | BlackSuit, Royal |
+| Brute Ratel C4 | BlackSuit, Royal |
 | Sliver | |
 | Impacket | |
