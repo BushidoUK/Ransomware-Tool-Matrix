@@ -8,7 +8,7 @@
 > - As a checklist of tools to identify patterns of behaviour between certain ransomware affiliates
 
 ## Resources
-- [List of Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatGroups.md)
+- [List of CISA Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/CISAThreatGroups.md)
 - [RMM Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/RMM-Tools.md)
 - [Exfiltration Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Exfiltration.md)
 - [Credential Theft Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/CredentialTheft.md)
