@@ -12,15 +12,13 @@
 | 27 February 2024 | ALPHV/BlackCat | [CISA Alert aa23-353a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-353a) |
 | 18 December 2023 | PLAY | [CISA Alert aa23-352a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-352a) |
 | 12 December 2023 | Karakurt | [CISA Alert aa22-152a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-152a) |
-| 21 November 2023 | LockBit | [CISA Alert aa23-325a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) |
 | 16 November 2023 | Scattered Spider | [CISA Alert aa23-320a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a) |
 | 15 November 2023 | Rhysida | [CISA Alert aa23-319a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-319a)
 | 11 October 2023 | AvosLocker | [CISA Alert aa23-284a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-284a) |
 | 20 September 2023 | Snatch | [CISA Alert aa23-263a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-263a) |
-| 14 June 2023 | LockBit | [CISA Alert aa23-165a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a) |
 | 7 June 2023 | CL0P | [CISA Alert aa23-158a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-158a) |
 | 16 May 2023 | BianLian | [CISA Alert aa23-136a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-136a) |
-| 16 March 2023 | LockBit | [CISA Alert aa23-075a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a) |
+| 16 March 2023 | LockBit | [CISA Alert aa23-075a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-075a) / [CISA Alert aa23-165a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-165a) / [CISA Alert aa23-325a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) |
 | 5 January 2023 | Cuba | [CISA Alert aa22-335a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-335a) |
 | 25 November 2022 | Hive | [CISA Alert aa22-321a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-321a) |
 | 26 October 2022 | Daixin | [CISA Alert aa22-294a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa22-294a) |
