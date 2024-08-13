@@ -17,6 +17,7 @@
 | LogMeIn | BlackSuit, Royal |
 | MobaXterm | BlackSuit, Royal, Akira |
 | Pulseway | Scattered Spider |
+| RustDesk | Akira |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider |
