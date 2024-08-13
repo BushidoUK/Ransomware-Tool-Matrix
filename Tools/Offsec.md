@@ -8,4 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| | |
+| Cobalt Strike | |
+| Brute Ratel C4 | |
+| Sliver | |
+| Impacket | |
