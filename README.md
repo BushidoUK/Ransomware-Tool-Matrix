@@ -15,3 +15,5 @@
 - [Defense Evasion Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/DefenseEvasion.md)
 - [Networking Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Networking.md)
 - [Discovery Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/DiscoveryEnum.md)
+- [Offensive Security Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Offsec.md)
+- [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
