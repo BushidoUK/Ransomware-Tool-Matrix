@@ -9,19 +9,19 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider |
 | Level.io | Scattered Spider |
-| LogMeIn | BlackSuit, Royal |
+| LogMeIn | BlackSuit, Royal, Trigona |
 | MobaXterm | BlackSuit, Royal, Akira |
 | Pulseway | Scattered Spider |
 | RSAT | Quantum |
 | RustDesk | Akira |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive, Quantum, Conti |
 | TacticalRMM | AvosLocker, Scattered Spider |
-| TeamViewer | LockBit, BianLian, Scattered Spider |
+| TeamViewer | LockBit, BianLian, Scattered Spider, Trigona |
 | ZohoAssist | LockBit |
