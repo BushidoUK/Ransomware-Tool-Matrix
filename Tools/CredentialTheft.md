@@ -24,3 +24,4 @@
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
+| SharpChrome | Conti |
