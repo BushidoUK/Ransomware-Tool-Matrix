@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk |
+| Cobalt Strike | BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive |
