@@ -10,7 +10,7 @@
 |---|---|
 | LaZagne | Akira, AvosLocker, LockBit |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker |
 | NirSoft Dialupass | BlackSuit, Royal |
 | NirSoft ExtPassword | LockBit |
 | NirSoft IE PassView | BlackSuit, Royal |
@@ -20,7 +20,7 @@
 | NirSoft Remote Desktop PassView | Phobos |
 | NirSoft WebBrowserPassView | Phobos |
 | PasswordFox | LockBit |
-| ProcDump | LockBit, Conti, Quantum, PYSA |
+| ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
