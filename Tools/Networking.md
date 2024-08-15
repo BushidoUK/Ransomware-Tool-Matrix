@@ -15,4 +15,5 @@
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider, LockBit |
 | Plink | BlackCat, PLAY, LockBit |
 | Tailscale | Scattered Spider |
+| Termite | Cuba |
 | TinyMet | CL0P |
