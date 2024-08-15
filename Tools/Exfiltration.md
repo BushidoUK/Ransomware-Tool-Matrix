@@ -11,9 +11,9 @@
 | Dropbox | BlackCat |
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa |
 | FreeFileSync | LockBit |
-| MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive, Trigona |
+| MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive, Trigona, Quantum |
 | PrivatLab | Hive |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum |
 | Sendspace | Hive |
 | UFile | Hive |
 | WinSCP | Akira, Phobos, PLAY, LockBit |
