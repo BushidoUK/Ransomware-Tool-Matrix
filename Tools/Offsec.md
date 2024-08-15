@@ -12,6 +12,7 @@
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive |
+| Koadic | PYSA |
 | Metasploit | LockBit, Bassterlord, Conti, Hive |
 | Meterpreter | Cuba, Conti, Hive |
 | PowerShell Empire | Vice Society, Conti, PYSA |
