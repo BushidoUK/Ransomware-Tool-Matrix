@@ -13,7 +13,7 @@
 | FreeFileSync | LockBit |
 | MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive |
 | PrivatLab | Hive |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker |
 | Sendspace | Hive |
 | UFile | Hive |
 | WinSCP | Akira, Phobos, PLAY, LockBit |
