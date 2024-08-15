@@ -11,15 +11,21 @@
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle |
 | LostMyPassword | LockBit |
 | Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle |
-| NirSoft Dialupass | BlackSuit, Royal |
+| NirSoft BulletsPassView | GoGoogle |
+| NirSoft ChromePass | GoGoogle |
+| NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
 | NirSoft ExtPassword | LockBit |
-| NirSoft IE PassView | BlackSuit, Royal |
-| NirSoft Mail PassView | BlackSuit, Royal |
-| NirSoft Netpass | BlackSuit, Royal |
-| NirSoft Router PassView | BlackSuit, Royal |
-| NirSoft Remote Desktop PassView | Phobos, GoGoogle |
-| NirSoft WebBrowserPassView | Phobos |
-| PasswordFox | LockBit |
+| NirSoft IEPassView (iepv) | BlackSuit, Royal, GoGoogle |
+| NirSoft MailPassView | BlackSuit, Royal, GoGoogle |
+| NirSoft Netpass | BlackSuit, Royal, GoGoogle |
+| NirSoft OperaPassView| |
+| NirSoft RouterPassView | BlackSuit, Royal, GoGoogle |
+| NirSoft RemoteDesktopPassView (rdpv) | Phobos, GoGoogle |
+| NirSoft SniffPass | GoGoogle |
+| NirSoft VNCPassView | GoGoogle |
+| NirSoft WebBrowserPassView | Phobos, GoGoogle |
+| NirSoft WirelessKeyView | GoGoogle |
+| PasswordFox | LockBit, GoGoogle |
 | ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
