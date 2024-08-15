@@ -14,7 +14,7 @@
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive |
 | Metasploit | LockBit, Bassterlord, Conti, Hive |
 | Meterpreter | Cuba, Conti, Hive |
-| PowerShell Empire | Vice Society, Conti |
+| PowerShell Empire | Vice Society, Conti, PYSA |
 | PowerSploit | Conti |
 | PowerView | Rhyside |
 | Rubeus | Conti, Diavol |
