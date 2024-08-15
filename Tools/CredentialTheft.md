@@ -8,9 +8,9 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| LaZagne | Akira, AvosLocker, LockBit, GoGoogle |
+| LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle, 8BASE |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
@@ -22,11 +22,11 @@
 | NirSoft RouterPassView | BlackSuit, Royal, GoGoogle |
 | NirSoft RemoteDesktopPassView (rdpv) | Phobos, GoGoogle |
 | NirSoft SniffPass | GoGoogle |
-| NirSoft VNCPassView | GoGoogle |
-| NirSoft WebBrowserPassView | Phobos, GoGoogle |
+| NirSoft VNCPassView | GoGoogle, 8BASE |
+| NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE |
 | NirSoft WirelessKeyView | GoGoogle |
-| PasswordFox | LockBit, GoGoogle |
-| ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker |
+| PasswordFox | LockBit, GoGoogle, 8BASE |
+| ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
