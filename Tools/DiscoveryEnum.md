@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti |
+| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker |
 | Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit |
 | Advanced Port Scanner| LockBit, BianLian |
 | Angry IP Scanner | Phobos |
@@ -21,6 +21,6 @@
 | Seabelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
-| ShareFinder | Conti |
+| ShareFinder | Conti, Dagon Locker |
 | SharpView | Conti |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker |
