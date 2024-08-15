@@ -8,7 +8,6 @@
 | 24 April 2024 | 8BASE | [Ransomware Spotlight: 8BASE](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-8base) |
 | 23 November 2024 | Trigona | [Ransomware Spotlight: Trigona](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-trigona) |
 | 5 June 2023 | TargetCompany | [Ransomware Spotlight: TargetCompany](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-targetcompany) |
-| 26 January 2023 | Magniber | [Ransomware Spotlight: Magniber](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-magniber) |
 | 7 December 2022 | Cuba | [Ransomware Spotlight: Cuba](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-cuba) |
 | 5 July 2022 | BlackByte | [Ransomware Spotlight: BlackByte](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-blackbyte) |
 | 17 May 2022 | RansomEXX | [Ransomware Spotlight: RansomExx](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-ransomexx) |
