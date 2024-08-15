@@ -10,17 +10,18 @@
 |---|---|
 | Action1 | LockBit |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider |
 | Level.io | Scattered Spider |
 | LogMeIn | BlackSuit, Royal |
 | MobaXterm | BlackSuit, Royal, Akira |
 | Pulseway | Scattered Spider |
+| RSAT | Quantum |
 | RustDesk | Akira |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive |
 | SimpleHelp | BlackCat |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive, Quantum |
 | TacticalRMM | AvosLocker, Scattered Spider |
 | TeamViewer | LockBit, BianLian, Scattered Spider |
 | ZohoAssist | LockBit |
