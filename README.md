@@ -18,12 +18,7 @@
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
 ## Threat Intel Sources
-- [List of CISA Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/CISAThreatGroups.md)
+- [List of CISA's Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/CISAThreatGroups.md)
+- [List of The DFIR Report's Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/TheDFIRReportGroups.md)
 - [The Conti Playbook](https://blog.talosintelligence.com/conti-leak-translation/)
 - [The Bassterlord Networking Manual](https://ecirtam.net/autoblogs/autoblogs/wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3/media/eb33778a.2021-08-3120-20Bassterlord20FishEye20Networking20Manual20X.pdf)
-
-## TODO
-Extract tools from the following sources:
-- The DFIR Report Blogs
-- Vendor Blogs
-  - Microsoft, Mandiant, CrowdStrike, Secureworks, Symantec, PAN Unit42, Trend Micro, SentinelOne
