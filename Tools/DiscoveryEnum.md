@@ -14,6 +14,7 @@
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
 | Bloodhound | LockBit |
+| Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti |
 | Nltest | PLAY, Rhysida, Conti |
 | PingCastle | BianLian |
@@ -22,4 +23,4 @@
 | SharpShares | BlackSuit, Royal, BianLian |
 | ShareFinder | Conti |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker |
