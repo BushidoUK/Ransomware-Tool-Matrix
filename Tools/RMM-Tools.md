@@ -21,7 +21,7 @@
 | RustDesk | Akira |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive |
 | SimpleHelp | BlackCat |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive, Quantum |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive, Quantum, Conti |
 | TacticalRMM | AvosLocker, Scattered Spider |
 | TeamViewer | LockBit, BianLian, Scattered Spider |
 | ZohoAssist | LockBit |
