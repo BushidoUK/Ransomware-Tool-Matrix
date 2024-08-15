@@ -19,3 +19,4 @@
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | WinPEAS | PLAY |
+| PowerSploit | Conti |
