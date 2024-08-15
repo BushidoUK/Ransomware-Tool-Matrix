@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| DCSync | Quantum |
 | LaZagne | Akira, AvosLocker, LockBit |
 | LostMyPassword | LockBit |
 | Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord |
