@@ -8,9 +8,9 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE |
+| LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
