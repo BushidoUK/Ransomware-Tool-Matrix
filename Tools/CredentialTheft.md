@@ -8,10 +8,9 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| DCSync | Quantum |
 | LaZagne | Akira, AvosLocker, LockBit |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA |
 | NirSoft Dialupass | BlackSuit, Royal |
 | NirSoft ExtPassword | LockBit |
 | NirSoft IE PassView | BlackSuit, Royal |
@@ -21,7 +20,7 @@
 | NirSoft Remote Desktop PassView | Phobos |
 | NirSoft WebBrowserPassView | Phobos |
 | PasswordFox | LockBit |
-| ProcDump | LockBit, Conti, Quantum |
+| ProcDump | LockBit, Conti, Quantum, PYSA |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
