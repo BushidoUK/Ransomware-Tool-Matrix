@@ -13,4 +13,4 @@
 | Windows Event Utility | Rhysida, Hive, GoGoogle |
 | NTDS Utility | Rhysida, Conti |
 | BCDEdit | LockBit, Snatch, Hive |
-| WMIC | Conti, Hive, Quantum |
+| WMIC | Conti, Hive, Quantum, TargetCompany |
