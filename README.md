@@ -19,10 +19,8 @@
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
 ## TODO
+- The Conti Playbook
+- The Bassterlord Networking Manuals
 - The DFIR Report Blogs
-- Microsoft Blogs
-- Mandiant Blogs
-- CrowdStrike Blogs
-- Secureworks Blogs
-- Symantec Blogs
-- PAN Unit42 Blogs
+- Vendor Blogs
+  - Microsoft, Mandiant, CrowdStrike, Secureworks, Symantec, PAN Unit42, Trend Micro, SentinelOne
