@@ -16,4 +16,4 @@
 | RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum |
 | Sendspace | Hive |
 | UFile | Hive |
-| WinSCP | Akira, Phobos, PLAY, LockBit |
+| WinSCP | Akira, Phobos, PLAY, LockBit, Conti |
