@@ -16,6 +16,7 @@
 | Level.io | Scattered Spider |
 | LogMeIn | BlackSuit, Royal, Trigona |
 | MobaXterm | BlackSuit, Royal, Akira |
+| NetSupport | Cuba |
 | Pulseway | Scattered Spider |
 | RSAT | Quantum |
 | RustDesk | Akira |
