@@ -11,7 +11,7 @@
 | Cobalt Strike | BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Conti, Dagon Locker, Nokoyawa, Hive |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive |
 | Metasploit | LockBit, Bassterlord, Conti, Hive |
 | Meterpreter | Cuba, Conti, Hive |
 | PowerShell Empire | Vice Society, Conti |
