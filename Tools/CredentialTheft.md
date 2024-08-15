@@ -20,7 +20,7 @@
 | NirSoft Remote Desktop PassView | Phobos |
 | NirSoft WebBrowserPassView | Phobos |
 | PasswordFox | LockBit |
-| ProcDump | LockBit |
+| ProcDump | LockBit, Quantum |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
