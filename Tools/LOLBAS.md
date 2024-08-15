@@ -11,6 +11,6 @@
 | PsExec | BlackSuit, Royal, Black Basta, PLAY, Rhysida, AvosLocker, BianLian, Bassterlord, Conti, Nokoyawa, Quantum |
 | BITSAdmin | Black Basta, Hive |
 | Windows Event Utility | Rhysida, Hive |
-| NTDS Utility | Rhysida |
+| NTDS Utility | Rhysida, Conti |
 | BCDEdit | LockBit, Snatch, Hive |
 | WMIC | Conti, Hive, Quantum |
