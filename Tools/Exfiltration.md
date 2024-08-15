@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Dropbox | BlackCat |
-| FileZilla | Akira, Karakurt, AvosLocker, LockBit |
+| FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa |
 | FreeFileSync | LockBit |
 | MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive |
 | PrivatLab | Hive |
