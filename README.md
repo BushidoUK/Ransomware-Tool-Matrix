@@ -1,5 +1,5 @@
 # Ransomware Tool Matrix
-- A list of which tools each ransomware and extortionist gang uses from CISA's #StopRansomware Posts
+- This repository contains a list of which tools each ransomware gang or extortionist gang uses
 
 > [!TIP]
 >  This list has several use cases, which are as follows:
