@@ -10,7 +10,7 @@
 |---|---|
 | Action1 | LockBit |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider |
 | Level.io | Scattered Spider |
@@ -20,7 +20,7 @@
 | RustDesk | Akira |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive |
 | SimpleHelp | BlackCat |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive |
 | TacticalRMM | AvosLocker, Scattered Spider |
 | TeamViewer | LockBit, BianLian, Scattered Spider |
 | ZohoAssist | LockBit |
