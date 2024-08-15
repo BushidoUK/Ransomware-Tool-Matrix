@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | PsExec | BlackSuit, Royal, Black Basta, PLAY, Rhysida, AvosLocker, BianLian, Bassterlord, Conti, Nokoyawa, Quantum |
-| BITSAdmin | Black Basta, Hive |
+| BITSAdmin | Black Basta, Hive, REvil |
 | Windows Event Utility | Rhysida, Hive |
 | NTDS Utility | Rhysida, Conti |
 | BCDEdit | LockBit, Snatch, Hive |
