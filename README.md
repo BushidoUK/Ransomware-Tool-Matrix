@@ -1,5 +1,7 @@
 # Ransomware Tool Matrix
 - This repository contains a list of which tools each ransomware gang or extortionist gang uses
+- As defenders, we should exploit the fact that many of the tools used by these cybercriminals are often reused
+- We can threat hunt, deploy detections, and block these tools to eliminate the ability of adversaries to launch intrusions 
 
 > [!TIP]
 >  This list has several use cases, which are as follows:
