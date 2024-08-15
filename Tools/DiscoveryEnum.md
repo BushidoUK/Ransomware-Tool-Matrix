@@ -8,12 +8,12 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol |
+| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker |
 | Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit, Diavol |
 | Advanced Port Scanner| LockBit, BianLian |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
-| Bloodhound | LockBit, Conti |
+| Bloodhound | LockBit, Conti, XingLocker |
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum |
 | Nltest | PLAY, Rhysida, Conti, Quantum |
