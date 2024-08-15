@@ -12,11 +12,11 @@
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord |
-| Metasploit | LockBit, Bassterlord |
-| Meterpreter | Cuba |
+| Metasploit | LockBit, Bassterlord, Conti |
+| Meterpreter | Cuba, Conti |
 | PowerShell Empire | Vice Society |
+| PowerSploit | Conti |
 | PowerView | Rhyside |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | WinPEAS | PLAY |
-| PowerSploit | Conti |
