@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider |
