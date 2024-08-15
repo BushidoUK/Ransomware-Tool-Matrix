@@ -18,7 +18,7 @@
 | Net | Akira, Rhysida, Conti, Hive, Quantum |
 | Nltest | PLAY, Rhysida, Conti, Quantum |
 | PingCastle | BianLian |
-| PowerView | Conti |
+| PowerView | Conti, XingLocker |
 | Seabelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
