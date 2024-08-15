@@ -17,7 +17,9 @@
 | Net | Akira, Rhysida |
 | Nltest | PLAY, Rhysida |
 | PingCastle | BianLian |
-| Seabelt | LockBit |
+| Seabelt | LockBit, Conti |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
+| ShareFinder | Conti |
+| SharpView | Conti |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian |
