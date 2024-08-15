@@ -11,7 +11,7 @@
 | Backstab | Black Basta, LockBit | 
 | Defender Control | LockBit |
 | Eraser | BlackSuit, Royal |
-| GMER | BlackSuit, Royal, PLAY, LockBit |
+| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord |
 | IOBit | PLAY |
 | PCHunter | LockBit |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit |
