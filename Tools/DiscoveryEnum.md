@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum |
+| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol |
 | Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit |
 | Advanced Port Scanner| LockBit, BianLian |
 | Angry IP Scanner | Phobos |
