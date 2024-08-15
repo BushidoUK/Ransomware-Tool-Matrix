@@ -18,7 +18,7 @@
 | PowerShell Empire | Vice Society, Conti, PYSA |
 | PowerSploit | Conti |
 | PowerView | Rhyside |
-| Rubeus | Conti, Diavol |
+| Rubeus | Conti, Diavol, Ryuk |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | WinPEAS | PLAY |
