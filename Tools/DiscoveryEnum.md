@@ -10,7 +10,7 @@
 |---|---|
 | AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil |
 | Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit, Diavol |
-| Advanced Port Scanner| LockBit, BianLian |
+| Advanced Port Scanner| LockBit, BianLian, PYSA |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
 | Bloodhound | LockBit, Conti, XingLocker, REvil |
