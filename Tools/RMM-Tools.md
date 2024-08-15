@@ -18,7 +18,7 @@
 | MobaXterm | BlackSuit, Royal, Akira |
 | Pulseway | Scattered Spider |
 | RustDesk | Akira |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider |
 | TacticalRMM | AvosLocker, Scattered Spider |
