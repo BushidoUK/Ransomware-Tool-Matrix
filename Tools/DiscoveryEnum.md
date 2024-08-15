@@ -15,7 +15,7 @@
 | AWS Systems Manager Inventory | Scattered Spider |
 | Bloodhound | LockBit |
 | Nbtscan | Dagon Locker | 
-| Net | Akira, Rhysida, Conti |
+| Net | Akira, Rhysida, Conti, Hive |
 | Nltest | PLAY, Rhysida, Conti |
 | PingCastle | BianLian |
 | Seabelt | LockBit, Conti, Dagon Locker |
