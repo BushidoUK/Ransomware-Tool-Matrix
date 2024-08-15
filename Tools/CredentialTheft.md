@@ -8,16 +8,16 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| LaZagne | Akira, AvosLocker, LockBit |
+| LaZagne | Akira, AvosLocker, LockBit, GoGoogle |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal |
 | NirSoft ExtPassword | LockBit |
 | NirSoft IE PassView | BlackSuit, Royal |
 | NirSoft Mail PassView | BlackSuit, Royal |
 | NirSoft Netpass | BlackSuit, Royal |
 | NirSoft Router PassView | BlackSuit, Royal |
-| NirSoft Remote Desktop PassView | Phobos |
+| NirSoft Remote Desktop PassView | Phobos, GoGoogle |
 | NirSoft WebBrowserPassView | Phobos |
 | PasswordFox | LockBit |
 | ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker |
