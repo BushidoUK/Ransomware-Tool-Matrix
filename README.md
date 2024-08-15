@@ -19,6 +19,7 @@
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
 ## TODO
+Extract tools from the following sources:
 - The Conti Playbook
 - The Bassterlord Networking Manuals
 - The DFIR Report Blogs
