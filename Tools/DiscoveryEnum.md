@@ -8,15 +8,15 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa |
+| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum |
 | Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit |
 | Advanced Port Scanner| LockBit, BianLian |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
 | Bloodhound | LockBit |
 | Nbtscan | Dagon Locker | 
-| Net | Akira, Rhysida, Conti, Hive |
-| Nltest | PLAY, Rhysida, Conti |
+| Net | Akira, Rhysida, Conti, Hive, Quantum |
+| Nltest | PLAY, Rhysida, Conti, Quantum |
 | PingCastle | BianLian |
 | Seabelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
