@@ -20,7 +20,7 @@
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
 ## Ransomware Gang's Most Used Tools
-- [List of Tools used by +10 Ransomware Gangs)]()
+- [List of Tools used by +10 Ransomware Gangs]()
 
 ## Threat Intel Sources
 - [List of CISA's Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/CISAThreatGroups.md)
