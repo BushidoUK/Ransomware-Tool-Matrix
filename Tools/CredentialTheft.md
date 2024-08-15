@@ -10,7 +10,7 @@
 |---|---|
 | LaZagne | Akira, AvosLocker, LockBit |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti |
+| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord |
 | NirSoft Dialupass | BlackSuit, Royal |
 | NirSoft ExtPassword | LockBit |
 | NirSoft IE PassView | BlackSuit, Royal |
