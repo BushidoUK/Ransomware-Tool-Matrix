@@ -13,6 +13,7 @@
 | Eraser | BlackSuit, Royal |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany |
 | IOBit | PLAY |
+| KillAV | Cuba |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit |
 | ProcessHacker | Phobos, LockBit, 8BASE |
