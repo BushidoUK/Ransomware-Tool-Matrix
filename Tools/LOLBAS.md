@@ -13,4 +13,4 @@
 | Windows Event Utility | Rhysida, Hive |
 | NTDS Utility | Rhysida |
 | BCDEdit | LockBit, Snatch, Hive |
-| WMIC | Hive |
+| WMIC | Hive, Quantum |
