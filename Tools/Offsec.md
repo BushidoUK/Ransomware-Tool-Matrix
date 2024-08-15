@@ -14,7 +14,7 @@
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive |
 | Koadic | PYSA |
 | Metasploit | LockBit, Bassterlord, Conti, Hive |
-| Meterpreter | Cuba, Conti, Hive |
+| Meterpreter | Cuba, Conti, Hive, Snatch |
 | PowerShell Empire | Vice Society, Conti, PYSA |
 | PowerSploit | Conti |
 | PowerView | Rhyside |
