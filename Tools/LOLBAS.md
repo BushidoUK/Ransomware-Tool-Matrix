@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| PsExec | BlackSuit, Royal, Black Basta, PLAY, Rhysida, AvosLocker, BianLian, Bassterlord |
+| PsExec | BlackSuit, Royal, Black Basta, PLAY, Rhysida, AvosLocker, BianLian, Bassterlord, Conti |
 | BITSAdmin | Black Basta |
 | Windows Event Utility | Rhysida, Hive |
 | NTDS Utility | Rhysida |
