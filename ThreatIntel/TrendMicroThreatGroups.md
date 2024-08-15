@@ -6,8 +6,6 @@
 | Date Published | Ransomware/Extortionist | #StopRansomware Report |
 |---|---|---|
 | 24 April 2024 | 8BASE | [Ransomware Spotlight: 8BASE](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-8base) |
-| 21 February 2024 | Rhysida | [Ransomware Spotlight: Rhysida](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-rhysida) |
-| 28 November 2023 | Trigona | [Ransomware Spotlight: Trigona](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-trigona) |
 | 5 June 2023 | TargetCompany | [Ransomware Spotlight: TargetCompany](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-targetcompany) |
 | 26 January 2023 | Magniber | [Ransomware Spotlight: Magniber](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-magniber) |
 | 7 December 2022 | Cuba | [Ransomware Spotlight: Cuba](https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-cuba) |
