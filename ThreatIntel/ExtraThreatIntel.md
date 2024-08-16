@@ -5,7 +5,8 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
-| | | |
+| 08/16/2024 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
+| 08/16/2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.
