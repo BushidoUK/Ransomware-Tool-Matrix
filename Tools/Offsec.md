@@ -15,6 +15,7 @@
 | Koadic | PYSA |
 | Metasploit | LockBit, Bassterlord, Conti, Hive |
 | Meterpreter | Cuba, Conti, Hive, Snatch |
+| NLBrute | Lockbit |
 | PowerShell Empire | Vice Society, Conti, PYSA |
 | PowerSploit | Conti |
 | PowerView | Rhyside |
