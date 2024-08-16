@@ -17,7 +17,7 @@
 | Meterpreter | Cuba, Conti, Hive, Snatch |
 | PowerShell Empire | Vice Society, Conti, PYSA |
 | PowerSploit | Conti |
-| PowerView | Rhyside |
+| PowerView | Rhysida |
 | Rubeus | Conti, Diavol, Ryuk |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
