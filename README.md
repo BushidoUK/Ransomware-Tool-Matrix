@@ -29,3 +29,17 @@
 - [List of Trend Micro's Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/TrendMicroThreatGroups.md)
 - [The Conti Playbook](https://blog.talosintelligence.com/conti-leak-translation/)
 - [The Bassterlord Networking Manual](https://ecirtam.net/autoblogs/autoblogs/wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3/media/eb33778a.2021-08-3120-20Bassterlord20FishEye20Networking20Manual20X.pdf)
+- [Extra Threat Intel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
+
+## Challenges
+> [!IMPORTANT]
+> Using the Ransomware Tool Matrix comes with its own challenges. While it is undoubtedly useful to have a list of tools commonly used by ransomware gangs to hunt, detect, and block, there are some risks. 
+
+- Many of the tools referenced in this repository may be currently used by your IT team or even your Cybersecurity team.
+- When hunting for these tools, you may uncover many installations of these tools inside your environment.
+- Deciphering whether a tool is being used legitimately, by an employee, with permission is difficult in a large or global environment.
+- If you create a detection rule, you may generate a large amount of alerts, which may get ignore or turned off without investigating them.
+- If you block these tools without investigating for legitimate usage, you may cause disruption to legitimate business operations and potentially impose costs on your own organisation.
+
+#### How To Contribute
+- Please see the following [guidelines](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/HowToContribute.md) to contribute to this repo.
