@@ -19,7 +19,7 @@
 | Nltest | PLAY, Rhysida, Conti, Quantum |
 | PingCastle | BianLian |
 | PowerView | Conti, XingLocker |
-| Seabelt | LockBit, Conti, Dagon Locker |
+| Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
 | ShareFinder | Conti, Dagon Locker, Diavol, XingLocker |
