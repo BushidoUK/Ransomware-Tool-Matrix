@@ -3,7 +3,7 @@
 > [!IMPORTANT]
 > The Threat Groups mentioned in other files in this repository are highlighted in the following list from The DFIR Report. It was important to use this list of publicly available reports as the main source as it makes it so the research can be independently peer reviewed.
 
-| Most Recent Publication | Ransomware/Extortionist | #StopRansomware Report |
+| Most Recent Publication | Ransomware/Extortionist | Report |
 |---|---|---|
 | 10 June 2024 | BlackCat (ALPHV) | [IcedID Brings ScreenConnect and CSharp Streamer to ALPHV Ransomware Deployment](https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/) |
 | 29 April 2024 | Dagon Locker | [From IcedID to Dagon Locker Ransomware in 29 Days](https://thedfirreport.com/2024/04/29/from-icedid-to-dagon-locker-ransomware-in-29-days/) |
