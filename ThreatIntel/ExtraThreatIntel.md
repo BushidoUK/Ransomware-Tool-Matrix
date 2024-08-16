@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 08/16/2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 08/16/2024 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
 | 08/16/2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 
