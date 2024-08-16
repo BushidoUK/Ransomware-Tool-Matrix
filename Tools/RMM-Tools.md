@@ -23,6 +23,7 @@
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider, Hive, Quantum, Conti, Trigona |
+| SystemBC | Rhyside |
 | TacticalRMM | AvosLocker, Scattered Spider |
 | TeamViewer | LockBit, BianLian, Scattered Spider, Trigona |
 | ZohoAssist | LockBit |
