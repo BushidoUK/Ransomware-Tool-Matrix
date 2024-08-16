@@ -5,7 +5,7 @@
 - This project will be updated as additional intelligence on ransomware gang TTPs is made available
 
 > [!TIP]
->  This list has several use cases, which are as follows:
+>  This Ransomware Tool Matrix has several use cases, which are as follows:
 > - As a list of leads for threat hunting inside the environments available to you
 > - As a list of leads to look for during incident response engagements
 > - As a checklist of tools to identify patterns of behaviour between certain ransomware affiliates
