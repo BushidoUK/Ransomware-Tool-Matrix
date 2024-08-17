@@ -13,7 +13,7 @@
 | FreeFileSync | LockBit |
 | MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom |
 | PrivatLab | Hive |
-| Restic | INC |
+| Restic | INC Ransom |
 | RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom |
 | Sendspace | Hive |
 | UFile | Hive |
