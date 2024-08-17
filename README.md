@@ -4,6 +4,8 @@
 - We can threat hunt, deploy detections, and block these tools to eliminate the ability of adversaries to launch intrusions
 - This project will be updated as additional intelligence on ransomware gang TTPs is made available
 
+You can find the introduction blog post here: [The Ransomware Tool Matrix](https://blog.bushidotoken.net/2024/08/the-ransomware-tool-matrix.html)
+
 > [!TIP]
 >  This Ransomware Tool Matrix has several use cases, which are as follows:
 > - As a list of leads for threat hunting inside the environments available to you
