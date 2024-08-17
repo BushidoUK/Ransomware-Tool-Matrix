@@ -15,4 +15,4 @@
 - The Ransomware Tool Matrix is based on open source intelligence (OSINT) threat reports provided by a variety of sources, such as CISA's #StopRansomware alerts or The DFIR Report's publications, among others.
 - Please do not submit tools to this repository if there are no public sources to confirm your research - it is important that others can independently verify your claims.
 - The quality of the evidence provided shall be judged during a review of the pull request - it may be closed if the evidence is insufficient to support your commit.
-- Please add your evidence to the follow Markdown file in this repository: [ExtraThreatIntel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
+- Please add your evidence to the following Markdown file in this repository: [ExtraThreatIntel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
