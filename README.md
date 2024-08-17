@@ -43,3 +43,7 @@
 
 #### How To Contribute
 - Please see the following [guidelines](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/HowToContribute.md) to contribute to this repo.
+
+#### Integrations
+- [Ransomware.live](https://x.com/JMousqueton/status/1824434279251665259)
+- [eCrime.ch](https://x.com/ecrime_ch/status/1824469830613021070)
