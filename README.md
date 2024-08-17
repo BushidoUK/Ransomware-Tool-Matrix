@@ -1,3 +1,5 @@
+![OIG2](https://github.com/user-attachments/assets/a87d0c2c-e115-4dba-a128-ae19899d25f2)
+
 # Ransomware Tool Matrix
 - This repository contains a list of which tools each ransomware gang or extortionist gang uses
 - As defenders, we should exploit the fact that many of the tools used by these cybercriminals are often reused
