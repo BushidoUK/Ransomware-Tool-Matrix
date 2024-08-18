@@ -14,6 +14,7 @@
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
+| 10 May 2023 | Cactus | https://www.kroll.com/en/insights/publications/cyber/cactus-ransomware-prickly-new-variant-evades-detection |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
