@@ -14,7 +14,7 @@
 | MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom |
 | PrivatLab | Hive |
 | Restic | INC Ransom |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus |
 | Sendspace | Hive |
 | UFile | Hive |
 | WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti |
