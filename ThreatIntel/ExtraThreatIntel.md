@@ -7,6 +7,7 @@
 |---|---|---|
 | 14 August 2024 | INC Ransom | https://www.guidepointsecurity.com/blog/update-from-the-ransomware-trenches/ |
 | 19 June 2024 | Qilin | https://www.secureworks.com/research/threat-profiles/gold-feather |
+| 5 June 2024 | RansomHub | https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomhub-knight-ransomware |
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
