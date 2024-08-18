@@ -13,7 +13,7 @@
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
-| Bloodhound | LockBit, Conti, XingLocker, REvil |
+| Bloodhound | LockBit, Conti, XingLocker, REvil, Hive |
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
 | Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
