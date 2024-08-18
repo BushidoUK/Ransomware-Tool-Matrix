@@ -10,7 +10,7 @@
 |---|---|
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
-| Mimikatz | BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider, AvosLocker, LockBit, Conti, Bassterlord, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
@@ -26,7 +26,7 @@
 | NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE, BlackCat |
 | NirSoft WirelessKeyView | GoGoogle |
 | PasswordFox | LockBit, GoGoogle, 8BASE |
-| ProcDump | LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE |
+| ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
 | SecretsDump | Rhysida |
