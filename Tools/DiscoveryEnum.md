@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| AD Explorer | Lapsus$ |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog |
