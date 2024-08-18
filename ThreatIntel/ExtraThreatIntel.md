@@ -22,6 +22,7 @@
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
 | 2 June 2022 | EvilCorp* (BitPaymer, DoppelPaymer, WastedLocker, Hades, Phoenix, Macaw, PayloadBIN, LockBit, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
+| 22 March 2022 | Lapsus$ | https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
 
