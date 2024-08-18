@@ -21,7 +21,7 @@
 | RemoteUtilities | RagnarLocker |
 | RSAT | Quantum |
 | RustDesk | Akira |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona, Medusa |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus |
 | SuperOps | Cactus |
