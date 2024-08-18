@@ -8,6 +8,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| GitGuardian | Scattered Spider* |
+| Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp* |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
@@ -33,3 +35,4 @@
 | SecretServerSecretStealer | EvilCorp* |
 | SharpChrome | Conti |
 | SharpDump | Avaddon |
+| Trufflehog | Scattered Spider* |
