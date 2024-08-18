@@ -1,0 +1,10 @@
+Tool Name,Date of Hunt,Query Used,Findings?,Rule Coverage?,Blocked?,Analyst Comment,Course of Action,Ticket #
+<Example Row>,DD-MM-YYYY,<Rule_Name>,XX Hits,# Rules Deployed,Yes/No,Lorem ipsum,Lorem ipsum,#####
+Cobalt Strike,,,,,,,,
+Mimikatz,,,,,,,,
+AnyDesk,,,,,,,,
+Rclone,,,,,,,,
+PsExec,,,,,,,,
+SoftPerfect NetScan ,,,,,,,,
+AdFind,,,,,,,,
+MEGA,,,,,,,,
