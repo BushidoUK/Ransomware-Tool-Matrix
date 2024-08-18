@@ -18,6 +18,7 @@
 | MobaXterm | BlackSuit, Royal, Akira |
 | NetSupport | Cuba |
 | Pulseway | Scattered Spider |
+| RemoteUtilities | RagnarLocker |
 | RSAT | Quantum |
 | RustDesk | Akira |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona |
