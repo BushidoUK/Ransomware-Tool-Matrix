@@ -11,9 +11,9 @@
 | Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive, RansomHub |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub |
 | Koadic | PYSA, BlaclCat, LockBit |
-| Metasploit | MAZE, LockBit, Bassterlord, Conti, Hive |
+| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat |
 | PowerSploit | MAZE, Conti, PYSA |
