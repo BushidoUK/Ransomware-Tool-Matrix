@@ -8,9 +8,10 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| KeeThief | EvilCorp* |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
@@ -29,5 +30,5 @@
 | ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti |
-| SecretsDump | Rhysida |
+| SecretServerSecretStealer | EvilCorp* |
 | SharpChrome | Conti |
