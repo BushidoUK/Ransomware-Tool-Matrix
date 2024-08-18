@@ -13,7 +13,7 @@
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub |
 | Koadic | PYSA, BlaclCat, LockBit |
-| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive |
+| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat |
 | PowerSploit | MAZE, Conti, PYSA |
