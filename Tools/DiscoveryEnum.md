@@ -10,13 +10,12 @@
 |---|---|
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
-| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona |
+| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp* |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
+| Lansweeper | EvilCorp* |
 | Nbtscan | Dagon Locker | 
-| Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
-| Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
 | PingCastle | MAZE, BianLian |
