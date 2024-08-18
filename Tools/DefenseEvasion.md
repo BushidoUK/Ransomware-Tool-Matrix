@@ -14,9 +14,10 @@
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany, Hive |
 | IOBit | PLAY |
 | KillAV | Cuba |
-| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive |
-| PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit |
+| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
+| PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin |
 | ProcessHacker | Phobos, LockBit, 8BASE |
 | TDSSKiller | LockBit |
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
+| YDArk | Qilin |
