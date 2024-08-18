@@ -12,7 +12,7 @@
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona |
 | Angry IP Scanner | Phobos |
-| AWS Systems Manager Inventory | Scattered Spider |
+| AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
