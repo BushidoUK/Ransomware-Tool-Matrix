@@ -17,6 +17,8 @@
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
 | Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
+| Nmap | Qilin |
+| Nping | Qilin |
 | PingCastle | BianLian |
 | PowerView | Conti, XingLocker, Rhysida, BlackByte |
 | Seatbelt | LockBit, Conti, Dagon Locker |
