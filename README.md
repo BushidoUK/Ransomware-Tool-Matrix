@@ -22,8 +22,9 @@
 - [Offensive Security Tools](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/Offsec.md)
 - [Living-off-the-Land Binaries and Scripts](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/LOLBAS.md)
 
-## Ransomware Gang's Most Used Tools
+## Additional Resources
 - [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
+- [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
 
 ## Threat Intel Sources
 - [List of CISA's Threat Groups](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/CISAThreatGroups.md)
