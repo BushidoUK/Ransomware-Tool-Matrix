@@ -8,8 +8,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog |
-| BITSAdmin | Black Basta, Hive, REvil, Conti |
+| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa |
+| BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa |
 | Windows Event Utility | Rhysida, Hive, GoGoogle |
 | NTDS Utility | Rhysida, Conti |
 | BCDEdit | LockBit, Snatch, Hive |
