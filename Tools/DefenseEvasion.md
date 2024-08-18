@@ -12,7 +12,7 @@
 | Backstab | Black Basta, LockBit | 
 | Defender Control | LockBit |
 | Eraser | BlackSuit, Royal |
-| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany, Hive, Avaddon |
+| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon |
 | IOBit | PLAY |
 | KillAV | Cuba |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
