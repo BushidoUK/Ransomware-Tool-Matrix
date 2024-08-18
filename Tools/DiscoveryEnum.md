@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
-| Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom |
+| Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
@@ -18,7 +18,7 @@
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
 | Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
 | PingCastle | BianLian |
-| PowerView | Conti, XingLocker |
+| PowerView | Conti, XingLocker, Rhysida, BlackByte |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
