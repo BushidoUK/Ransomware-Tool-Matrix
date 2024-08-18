@@ -8,10 +8,11 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AD Explorer | Lapsus$ |
+| ADExplorer | Lapsus$, Scattered Spider* |
+| ADRecon | Scattered Spider* |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
-| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog |
+| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider* |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
@@ -19,7 +20,7 @@
 | Nbtscan | Dagon Locker | 
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
-| PingCastle | MAZE, BianLian |
+| PingCastle | MAZE, BianLian, Scattered Spider* |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
