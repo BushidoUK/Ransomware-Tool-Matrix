@@ -15,8 +15,8 @@
 | Koadic | PYSA, BlaclCat, LockBit |
 | Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
-| PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat |
-| PowerSploit | MAZE, Conti, PYSA |
+| PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
+| PowerSploit | MAZE, Conti, PYSA, Avaddon |
 | Rubeus | Conti, Diavol, Ryuk |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
