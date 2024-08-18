@@ -26,4 +26,4 @@
 | SharpShares | BlackSuit, Royal, BianLian |
 | ShareFinder | Conti, Dagon Locker, Diavol, XingLocker |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub |
