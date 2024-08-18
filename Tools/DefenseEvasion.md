@@ -19,3 +19,4 @@
 | ProcessHacker | Phobos, LockBit, 8BASE |
 | TDSSKiller | LockBit |
 | Universal Virus Sniffer | Phobos |
+| VirtualBox | RagnarLocker |
