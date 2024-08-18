@@ -8,14 +8,14 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Dropbox | BlackCat |
-| FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol |
+| Dropbox | BlackCat, Scattered Spider* |
+| FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider* |
 | FreeFileSync | LockBit |
 | MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon |
 | PrivatLab | Hive |
 | ProtonMail | Avaddon |
 | Restic | INC Ransom |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp* |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider* |
 | Sendspace | Hive |
 | UFile | Hive |
 | WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti |
