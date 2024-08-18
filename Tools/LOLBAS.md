@@ -11,6 +11,6 @@
 | PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa |
 | Windows Event Utility | Rhysida, Hive, GoGoogle, Yanluowang |
-| NTDS Utility | Rhysida, Conti, Yanluowang |
+| NTDS Utility | Rhysida, Conti, Yanluowang, Lapsus$ |
 | BCDEdit | LockBit, Snatch, Hive |
 | WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA |
