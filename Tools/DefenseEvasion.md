@@ -11,10 +11,10 @@
 | Backstab | Black Basta, LockBit | 
 | Defender Control | LockBit |
 | Eraser | BlackSuit, Royal |
-| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany |
+| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany, Hive |
 | IOBit | PLAY |
 | KillAV | Cuba |
-| PCHunter | LockBit, Conti, 8BASE, TargetCompany |
+| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit |
 | ProcessHacker | Phobos, LockBit, 8BASE |
 | TDSSKiller | LockBit |
