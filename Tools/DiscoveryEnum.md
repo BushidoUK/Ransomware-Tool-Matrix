@@ -8,22 +8,22 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AdFind | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
-| Advanced IP Scanner | BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
+| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
+| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider |
-| Bloodhound | LockBit, Conti, XingLocker, REvil, Hive |
+| Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
 | Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
 | Nmap | Qilin |
 | Nping | Qilin |
-| PingCastle | BianLian |
-| PowerView | Conti, XingLocker, Rhysida, BlackByte |
+| PingCastle | MAZE, BianLian |
+| PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian |
-| ShareFinder | Conti, Dagon Locker, Diavol, XingLocker |
+| ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpView | Conti |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub |
