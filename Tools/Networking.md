@@ -12,8 +12,8 @@
 | Cloudflared | BlackSuit, Royal, Akira |
 | OpenSSH | BlackSuit, Royal, Akira |
 | Ligolo | AvosLocker, LockBit |
-| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider, LockBit |
+| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit |
 | Plink | BlackCat, PLAY, LockBit |
-| Tailscale | Scattered Spider |
+| Tailscale | Scattered Spider* |
 | Termite | Cuba |
 | TinyMet | CL0P |
