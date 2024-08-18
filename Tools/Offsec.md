@@ -12,7 +12,7 @@
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider* |
-| Koadic | PYSA, BlaclCat, LockBit |
+| Koadic | PYSA, BlackCat, LockBit |
 | Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | MicroBurst | Scattered Spider* |
