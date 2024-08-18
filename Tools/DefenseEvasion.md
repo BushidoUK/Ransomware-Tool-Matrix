@@ -22,4 +22,4 @@
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
-| Zemana | Qilin |
+| Zemana Anti-Rootkit | Qilin |
