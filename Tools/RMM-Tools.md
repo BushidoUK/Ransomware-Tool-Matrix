@@ -14,7 +14,7 @@
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
 | Level.io | Scattered Spider* |
-| LogMeIn | BlackSuit, Royal, Trigona |
+| LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
 | MobaXterm | BlackSuit, Royal, Akira |
 | NetSupport | Cuba, EvilCorp* |
 | Pulseway | Scattered Spider* |
@@ -26,5 +26,5 @@
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus |
 | SuperOps | Cactus |
 | TacticalRMM | AvosLocker, Scattered Spider* |
-| TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona |
+| TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang |
 | ZohoAssist | LockBit |
