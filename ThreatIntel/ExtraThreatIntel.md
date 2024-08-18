@@ -16,6 +16,7 @@
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
+| 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.
