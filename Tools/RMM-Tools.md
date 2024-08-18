@@ -11,6 +11,7 @@
 | Action1 | LockBit |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$ |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub |
+| Chrome Remote Desktop | Scattered Spider* |
 | DWAgent | Scattered Spider* |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
