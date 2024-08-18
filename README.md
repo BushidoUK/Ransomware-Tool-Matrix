@@ -32,6 +32,9 @@
 - [The Bassterlord Networking Manual](https://ecirtam.net/autoblogs/autoblogs/wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3/media/eb33778a.2021-08-3120-20Bassterlord20FishEye20Networking20Manual20X.pdf)
 - [Extra Threat Intel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
 
+> [!TIP]
+> If you see a Threat Group with an asterisk (*), this means it is a Ransomware-as-a-Service (RaaS) affiliate actor or group, which has access to one or more RaaS.
+
 ## Additional Resources
 - [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
 - [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
