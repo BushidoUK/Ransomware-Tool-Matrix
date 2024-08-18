@@ -8,15 +8,15 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord, Hive, RansomHub |
 | Koadic | PYSA, BlaclCat, LockBit |
-| Metasploit | LockBit, Bassterlord, Conti, Hive |
-| Meterpreter | Cuba, Conti, Hive, Snatch |
+| Metasploit | MAZE, LockBit, Bassterlord, Conti, Hive |
+| Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat |
-| PowerSploit | Conti, PYSA |
+| PowerSploit | MAZE, Conti, PYSA |
 | Rubeus | Conti, Diavol, Ryuk |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
