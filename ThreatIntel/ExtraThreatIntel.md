@@ -21,6 +21,7 @@
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 2 June 2022 | EvilCorp* (BitPaymer, DoppelPaymer, WastedLocker, Hades, Phoenix, Macaw, PayloadBIN, LockBit, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
+| 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
 
 > [!NOTE]
