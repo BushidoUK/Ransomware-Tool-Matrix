@@ -13,6 +13,7 @@
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
+| 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
 | 10 May 2023 | Cactus | https://www.kroll.com/en/insights/publications/cyber/cactus-ransomware-prickly-new-variant-evades-detection |
