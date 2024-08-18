@@ -10,7 +10,7 @@
 |---|---|
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive |
-| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp* |
+| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
@@ -22,7 +22,7 @@
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
-| SharpShares | BlackSuit, Royal, BianLian |
+| SharpShares | BlackSuit, Royal, BianLian, Fog |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog |
