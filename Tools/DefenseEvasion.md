@@ -12,13 +12,13 @@
 | Backstab | Black Basta, LockBit | 
 | Defender Control | LockBit |
 | Eraser | BlackSuit, Royal |
-| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany, Hive |
+| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord, Conti, 8BASE, TargetCompany, Hive, Avaddon |
 | IOBit | PLAY |
 | KillAV | Cuba |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
-| PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin |
+| PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE |
-| TDSSKiller | LockBit |
+| TDSSKiller | LockBit, Avaddon |
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
