@@ -9,11 +9,14 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus |
-| Cloudflared | BlackSuit, Royal, Akira |
-| OpenSSH | BlackSuit, Royal, Akira |
+| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider* |
+| OpenSSH | BlackSuit, Royal, Akira, Scattered Spider* |
 | Ligolo | AvosLocker, LockBit |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit |
-| Plink | BlackCat, PLAY, LockBit |
+| Plink | BlackCat, PLAY, LockBit, Scattered Spider* |
+| Proxifier | Scattered Spider* |
+| Socat | Scattered Spider* |
+| Sshimpanzee | Scattered Spider* |
 | Tailscale | Scattered Spider* |
 | Termite | Cuba |
-| TinyMet | CL0P |
+| Wstunnel | Scattered Spider* |
