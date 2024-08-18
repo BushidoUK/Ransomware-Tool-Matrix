@@ -16,7 +16,7 @@
 | Level.io | Scattered Spider* |
 | LogMeIn | BlackSuit, Royal, Trigona |
 | MobaXterm | BlackSuit, Royal, Akira |
-| NetSupport | Cuba |
+| NetSupport | Cuba, EvilCorp* |
 | Pulseway | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
 | RSAT | Quantum |
