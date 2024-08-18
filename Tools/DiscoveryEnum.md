@@ -17,7 +17,7 @@
 | Nbtscan | Dagon Locker | 
 | Net | Akira, Rhysida, Conti, Hive, Quantum, INC Ransom |
 | Nltest | PLAY, Rhysida, Conti, Quantum, INC Ransom |
-| Nmap | Qilin |
+| Nmap | Qilin, Cactus |
 | Nping | Qilin |
 | PingCastle | MAZE, BianLian |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte |
@@ -26,4 +26,4 @@
 | SharpShares | BlackSuit, Royal, BianLian |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus |
