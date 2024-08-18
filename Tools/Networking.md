@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Chisel | BlackSuit, Royal, AvosLocker |
+| Chisel | BlackSuit, Royal, AvosLocker, Cactus |
 | Cloudflared | BlackSuit, Royal, Akira |
 | OpenSSH | BlackSuit, Royal, Akira |
 | Ligolo | AvosLocker, LockBit |
