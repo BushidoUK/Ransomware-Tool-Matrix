@@ -9,8 +9,8 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$ |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta |
 | Chrome Remote Desktop | Scattered Spider* |
 | DWAgent | Scattered Spider* |
 | FixMeIt | LockBit |
@@ -19,7 +19,7 @@
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider* |
-| NetSupport | Cuba, EvilCorp* |
+| NetSupport | Cuba, EvilCorp*, Black Basta |
 | Parsec | Scattered Spider* |
 | Pulseway | Scattered Spider* |
 | RemotePC | Scattered Spider* |
@@ -30,6 +30,7 @@
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus |
 | SuperOps | Cactus |
+| Supremo | Black Basta |
 | TacticalRMM | AvosLocker, Scattered Spider* |
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang |
 | TightVNC | Scattered Spider* |
