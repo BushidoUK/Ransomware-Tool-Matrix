@@ -13,7 +13,7 @@
 | KeeThief | EvilCorp* |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$ |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
 | NirSoft Dialupass | BlackSuit, Royal, GoGoogle |
