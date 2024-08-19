@@ -19,6 +19,7 @@
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE |
 | TDSSKiller | LockBit, Avaddon |
+| ThreatFire System Monitor | RansomHub |
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
