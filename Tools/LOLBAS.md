@@ -12,5 +12,5 @@
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa |
 | Windows Event Utility | Rhysida, Hive, GoGoogle, Yanluowang |
 | NTDS Utility | Rhysida, Conti, Yanluowang, Lapsus$ |
-| BCDEdit | LockBit, Snatch, Hive |
+| BCDEdit | LockBit, Snatch, Hive, Zola |
 | WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA |
