@@ -10,14 +10,15 @@
 |---|---|
 | Avast Anti-Rootkit | Cuba, AvosLocker |
 | Backstab | Black Basta, LockBit | 
-| Defender Control | LockBit |
+| Defender Control | LockBit, Zola |
+| EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon |
 | IOBit | PLAY |
 | KillAV | Cuba |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
-| ProcessHacker | Phobos, LockBit, 8BASE |
+| ProcessHacker | Phobos, LockBit, 8BASE, Zola |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor | RansomHub |
 | Universal Virus Sniffer | Phobos |
