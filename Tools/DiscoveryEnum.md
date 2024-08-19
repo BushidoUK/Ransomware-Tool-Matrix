@@ -10,18 +10,19 @@
 |---|---|
 | ADExplorer | Lapsus$, Scattered Spider* |
 | ADRecon | Scattered Spider* |
-| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom |
+| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider* |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
-| Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive |
+| Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta |
 | Lansweeper | EvilCorp* |
 | Nbtscan | Dagon Locker | 
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
 | PingCastle | MAZE, BianLian, Scattered Spider* |
-| PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte |
+| PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
+| PSNmap | Black Basta |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
