@@ -13,7 +13,9 @@
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
+| 28 February 2024 | Cactus | https://www.bitdefender.com/blog/businessinsights/cactus-analyzing-a-coordinated-ransomware-attack-on-corporate-networks/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
+| 11 November 2023 | Hunters International | https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/ |
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
