@@ -13,12 +13,12 @@
 | Evilginx2 | BlackCat |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider* |
 | Koadic | PYSA, BlackCat, LockBit |
-| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog |
+| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | MicroBurst | Scattered Spider* |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
-| PowerSploit | MAZE, Conti, PYSA, Avaddon |
+| PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta |
 | Rubeus | Conti, Diavol, Ryuk |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
