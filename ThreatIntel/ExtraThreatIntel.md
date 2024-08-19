@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 14 August 2024 | RansomHub | https://news.sophos.com/en-us/2024/08/14/edr-kill-shifter/ |
 | 14 August 2024 | INC Ransom | https://www.guidepointsecurity.com/blog/update-from-the-ransomware-trenches/ |
 | 19 June 2024 | Qilin | https://www.secureworks.com/research/threat-profiles/gold-feather |
 | 5 June 2024 | RansomHub | https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomhub-knight-ransomware |
