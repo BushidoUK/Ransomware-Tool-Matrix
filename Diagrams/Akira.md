@@ -1,0 +1,24 @@
+```mermaid
+graph TD;
+    Akira-->RMMs;
+    Akira-->Networking;
+    Akira-->Discovery;
+    Akira-->Evasion;
+    Akira-->Credential_Theft;
+    Akira-->Exfiltration;
+    RMMs-->AnyDesk;
+    RMMs-->RustDesk;
+    RMMs-->MobaXterm;
+    Networking-->Cloudflared;
+    Networking-->OpenSSH;
+    Networking-->Ngrok;
+    Exfiltration-->FileZilla;
+    Exfiltration-->MEGA;
+    Exfiltration-->RClone;
+    Exfiltration-->WinSCP;
+    Discovery-->Advanced_IP_Scanner;
+    Discovery-->SoftPerfect_NetScan;
+    Evasion-->PowerTool;
+    Credential_Theft-->LaZagne;
+    Credential_Theft-->Mimikatz;
+```
