@@ -26,6 +26,7 @@
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
 | 10 May 2023 | Cactus | https://www.kroll.com/en/insights/publications/cyber/cactus-ransomware-prickly-new-variant-evades-detection |
 | 25 April 2023 | Bassterlord* (REvil, RansomEXX, Avadon, LockBit) | https://analyst1.com/ransomware-diaries-volume-2/ |
+| 2 December 2022 | Scattered Spider* | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/ |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
 | 21 June 2022 | AvosLocker | https://blog.talosintelligence.com/avoslocker-new-arsenal/ |
