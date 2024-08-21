@@ -8,14 +8,15 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Avast Anti-Rootkit | Cuba, AvosLocker |
+| Avast Anti-Rootkit | Cuba, AvosLocker, MONTI |
 | Backstab | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
 | Defender Control | LockBit, Zola |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
-| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon |
+| GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | IOBit | PLAY |
+| NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola |
