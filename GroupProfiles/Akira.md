@@ -10,3 +10,10 @@
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that lead to Akira ransomware deployment.
+
+#### Sources
+
+| Date Published | Report |
+|---|---|
+| 18 April 2024 | [CISA Alert aa24-109a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a) |
+| 15 September 2023 | https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html |
