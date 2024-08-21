@@ -14,6 +14,7 @@
 | Defender Control | LockBit, Zola |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
+| FileShredder | BlackCat |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | IOBit | PLAY |
 | NSudo | Royal |
