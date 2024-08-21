@@ -9,9 +9,9 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | ADExplorer | Lapsus$, Scattered Spider* |
-| ADRecon | Scattered Spider* |
-| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang |
-| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola |
+| ADRecon | Scattered Spider*, DarkSide |
+| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang, DarkSide |
+| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider* |
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
@@ -38,5 +38,5 @@
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide |
 | VMware PowerCLI | Scattered Spider* |
