@@ -18,13 +18,14 @@
 | FreeFileSync | LockBit |
 | File[.]io | Mallox, Babuk, Lockbit |
 | Gofile[.io] | AvosLocker |
-| MEGA | Akira, Conti, mount-locker, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI |
+| MEGA | Akira, Conti, mount-locker, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI, DarkSide |
 | PrivatLab | Hive, REvil, BlackMatter, mount-locker, BlackMatter |
 | ProtonMail | Avaddon |
 | PSCP | AvosLocker, MONTI |
+| pCloud | DarkSide |
 | Qaz[.]im | Conti, BlackBasta |
 | Restic | INC Ransom |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
 | Temp[.]sh | Akira, LockBit |
