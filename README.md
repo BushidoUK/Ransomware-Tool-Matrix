@@ -37,6 +37,7 @@
 
 ## Additional Resources
 - [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
+- [List of Ransomware Group Profiles](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/GroupProfiles)
 - [List of All Tools by Type](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv)
 - [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
 
