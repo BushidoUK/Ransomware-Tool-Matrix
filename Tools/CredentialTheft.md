@@ -18,7 +18,7 @@
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat |
 | MIT Kerberos Ticket Manager | Scattered Spider* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
@@ -39,9 +39,11 @@
 | RDP Recognizer | BianLian |
 | Router Scan | Conti, FiveHands |
 | SecretServerSecretStealer | EvilCorp* |
+| SessionGopher | PYSA |
 | SharpChrome | Conti |
 | SharpDump | Avaddon |
 | Snaffler | Scattered Spider* | 
 | Trufflehog | Scattered Spider* |
 | Veeam-Get-Creds | MONTI, BlackCat, Fog, LockBit |
 | Volatility | Scattered Spider* |
+| XenArmor | AvosLocker |
