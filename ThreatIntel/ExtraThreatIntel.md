@@ -17,6 +17,7 @@
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
 | 28 February 2024 | Cactus | https://www.bitdefender.com/blog/businessinsights/cactus-analyzing-a-coordinated-ransomware-attack-on-corporate-networks/ |
+| 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
 | 11 November 2023 | Hunters International | https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/ |
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
@@ -31,7 +32,6 @@
 | 22 March 2022 | Lapsus$ | https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
-| 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.
