@@ -11,12 +11,14 @@
 | aws_consoler | Scattered Spider* |
 | DonPAPI | Akira |
 | GitGuardian | Scattered Spider* |
+| GrabChrome | Yanluowang |
+| GrabFF | FiveHands, Yanluowang |
 | Jecretz | Scattered Spider* |
-| KeeThief | EvilCorp* |
+| KeeThief | EvilCorp*, Yanluowang |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI |
 | MIT Kerberos Ticket Manager | Scattered Spider* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
@@ -30,12 +32,12 @@
 | NirSoft RemoteDesktopPassView (rdpv) | Phobos, GoGoogle |
 | NirSoft SniffPass | GoGoogle |
 | NirSoft VNCPassView | GoGoogle, 8BASE |
-| NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE, BlackCat |
+| NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE, BlackCat, Yanluowang |
 | NirSoft WirelessKeyView | GoGoogle |
 | PasswordFox | LockBit, GoGoogle, 8BASE |
 | ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE, Scattered Spider* |
 | RDP Recognizer | BianLian |
-| Router Scan | Conti |
+| Router Scan | Conti, FiveHands |
 | SecretServerSecretStealer | EvilCorp* |
 | SharpChrome | Conti |
 | SharpDump | Avaddon |
