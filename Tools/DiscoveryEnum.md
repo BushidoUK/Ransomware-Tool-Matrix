@@ -10,7 +10,7 @@
 |---|---|
 | ADExplorer | Lapsus$, Scattered Spider* |
 | ADRecon | Scattered Spider* |
-| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta |
+| AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider* |
 | Angry IP Scanner | Phobos |
@@ -18,6 +18,7 @@
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta |
 | Lansweeper | EvilCorp* |
 | Nbtscan | Dagon Locker | 
+| NirSoft WinLister | AvosLocker |
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
 | ManageEngine LANDESK | Scattered Spider* |
@@ -35,5 +36,5 @@
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI |
 | VMware PowerCLI | Scattered Spider* |
