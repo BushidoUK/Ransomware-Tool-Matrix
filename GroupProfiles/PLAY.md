@@ -10,3 +10,8 @@
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that lead to PLAY ransomware deployment.
+
+#### Sources
+| Date Published | Report |
+|---|---|
+| | |
