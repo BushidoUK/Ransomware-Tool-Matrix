@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Cyberduck | Scattered Spider* |
 | Dropbox | BlackCat, Scattered Spider* |
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider* |
 | FreeFileSync | LockBit |
