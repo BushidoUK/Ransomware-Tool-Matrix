@@ -16,6 +16,7 @@
 | Angry IP Scanner | Phobos |
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta |
+| Cent Browser | Yanluowang |
 | Lansweeper | EvilCorp* |
 | Nbtscan | Dagon Locker | 
 | NirSoft WinLister | AvosLocker |
@@ -30,6 +31,7 @@
 | ReconFTW | Akira |
 | RustScan | Scattered Spider* |
 | RVTools | Scattered Spider* |
+| S3 Browser | FiveHands, Yanluowang |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
 | SharpHound | Scattered Spider*, Akira |
