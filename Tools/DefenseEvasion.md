@@ -21,7 +21,8 @@
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor | RansomHub |
+| ToolPow | Akira |
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
-| Zemana Anti-Rootkit | Qilin |
+| Zemana Anti-Rootkit | Qilin, Akira |
