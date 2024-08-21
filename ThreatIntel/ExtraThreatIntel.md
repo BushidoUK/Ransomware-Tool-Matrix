@@ -31,6 +31,7 @@
 | 10 April 2023 | RagnarLocker | https://www.sygnia.co/blog/threat-actor-spotlight-ragnarlocker-ransomware/ |
 | 2 December 2022 | Scattered Spider* | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/ |
 | 17 November 2022 | Royal | https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/ |
+| 12 October 2022 | Black Basta | https://www.trendmicro.com/en_ca/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html |
 | 7 September 2022 | MONTI | https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
