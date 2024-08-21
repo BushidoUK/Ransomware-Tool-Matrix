@@ -21,15 +21,17 @@
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
 | ManageEngine LANDESK | Scattered Spider* |
+| Masscan | Akira |
 | PDQ Inventory | Scattered Spider* |
 | PingCastle | MAZE, BianLian, Scattered Spider* |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
 | PSNmap | Black Basta |
+| ReconFTW | Akira |
 | RustScan | Scattered Spider* |
 | RVTools | Scattered Spider* |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
-| SharpHound | Scattered Spider* |
+| SharpHound | Scattered Spider*, Akira |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
