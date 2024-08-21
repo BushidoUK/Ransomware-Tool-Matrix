@@ -41,4 +41,5 @@
 | SharpDump | Avaddon |
 | Snaffler | Scattered Spider* | 
 | Trufflehog | Scattered Spider* |
+| Veeam-Get-Creds | MONTI, BlackCat, Fog, LockBit |
 | Volatility | Scattered Spider* |
