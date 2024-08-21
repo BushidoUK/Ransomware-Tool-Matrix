@@ -14,4 +14,4 @@
 | Process Explorer | Zola |
 | PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider* |
 | Windows Event Utility | Rhysida, Hive, GoGoogle, Yanluowang |
-| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA |
+| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker |
