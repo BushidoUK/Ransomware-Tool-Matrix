@@ -14,7 +14,7 @@
 | Ligolo | AvosLocker, LockBit |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit |
 | NSOCKS | Scattered Spider* |
-| Plink | BlackCat, PLAY, LockBit, Scattered Spider* |
+| Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide |
 | Proxifier | Scattered Spider*, Proxifier |
 | Rsocks | Scattered Spider* |
 | Socat | Scattered Spider* |
