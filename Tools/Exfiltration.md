@@ -12,11 +12,12 @@
 | Dropbox | BlackCat, Scattered Spider* |
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider* |
 | FreeFileSync | LockBit |
-| MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon |
+| MEGA | Akira, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI |
 | PrivatLab | Hive |
 | ProtonMail | Avaddon |
+| PSCP | AvosLocker, MONTI | 
 | Restic | INC Ransom |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider* |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands |
 | Sendspace | Hive |
 | UFile | Hive |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI |
