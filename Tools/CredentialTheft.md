@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| aws_consoler | Scattered Spider* |
 | GitGuardian | Scattered Spider* |
 | Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp* |
