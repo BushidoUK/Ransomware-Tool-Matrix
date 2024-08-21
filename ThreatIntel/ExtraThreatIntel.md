@@ -16,6 +16,7 @@
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
+| 8 March 2024 | Scattered Spider | https://unit42.paloaltonetworks.com/muddled-libra/ |
 | 28 February 2024 | Cactus | https://www.bitdefender.com/blog/businessinsights/cactus-analyzing-a-coordinated-ransomware-attack-on-corporate-networks/ |
 | 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
