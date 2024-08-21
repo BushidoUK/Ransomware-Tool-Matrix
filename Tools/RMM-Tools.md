@@ -28,6 +28,7 @@
 | Parsec | Scattered Spider* |
 | PDQ Deploy | AvosLocker |
 | Pulseway | Scattered Spider* |
+| Radmin | Akira |
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
 | RPort | Scattered Spider* |
