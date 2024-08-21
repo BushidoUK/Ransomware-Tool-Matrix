@@ -11,12 +11,15 @@
 | Action1 | LockBit |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta |
+| ASG Remote Desktop | Scattered Spider* |
 | Chrome Remote Desktop | Scattered Spider* |
 | DWAgent | Scattered Spider* |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
+| ITarian | Scattered Spider* |
 | Level.io | Scattered Spider* |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
+| ManageEngineRMM | Scattered Spider* |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider* |
 | NetSupport | Cuba, EvilCorp*, Black Basta |
@@ -26,7 +29,7 @@
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
 | RSAT | Quantum, Scattered Spider* |
-| RustDesk | Akira |
+| RustDesk | Akira, Scattered Spider* |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider, Hive, Trigona, Medusa |
 | SimpleHelp | BlackCat |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus |
@@ -36,4 +39,4 @@
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang |
 | TightVNC | Scattered Spider* |
 | Twingate | Scattered Spider* |
-| ZohoAssist | LockBit |
+| ZohoAssist | LockBit, Scattered Spider* |
