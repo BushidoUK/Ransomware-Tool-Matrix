@@ -31,6 +31,8 @@
 | 22 March 2022 | Lapsus$ | https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
+| 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
+| 16 November 2023 | Scattered Spider | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.
