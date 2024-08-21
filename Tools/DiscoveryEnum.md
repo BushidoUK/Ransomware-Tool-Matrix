@@ -25,6 +25,7 @@
 | PingCastle | MAZE, BianLian, Scattered Spider* |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
 | PSNmap | Black Basta |
+| RustScan | Scattered Spider* |
 | RVTools | Scattered Spider* |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
