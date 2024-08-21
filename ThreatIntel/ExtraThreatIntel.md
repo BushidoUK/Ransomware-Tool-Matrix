@@ -27,6 +27,7 @@
 | 25 April 2023 | Bassterlord* (REvil, RansomEXX, Avadon, LockBit) | https://analyst1.com/ransomware-diaries-volume-2/ |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
+| 21 June 2022 | AvosLocker | https://blog.talosintelligence.com/avoslocker-new-arsenal/ |
 | 2 June 2022 | EvilCorp* (BitPaymer, DoppelPaymer, WastedLocker, Hades, Phoenix, Macaw, PayloadBIN, LockBit, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
 | 22 March 2022 | Lapsus$ | https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/ |
