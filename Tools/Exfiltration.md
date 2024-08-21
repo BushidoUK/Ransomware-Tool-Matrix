@@ -8,6 +8,8 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Anonfiles | Avaddon, LockBit |
+| Bashupload | DarkSide |
 | Cyberduck | Scattered Spider* |
 | Dropbox | BlackCat, Scattered Spider* |
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider* |
@@ -22,5 +24,8 @@
 | RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | Temp[.]sh | Akira, LockBit |
+| Tempsend | LockBit |
+| Transfert-my-files | LockBit |
+| Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
 | WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI |
