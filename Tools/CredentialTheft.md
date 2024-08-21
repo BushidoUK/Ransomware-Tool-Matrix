@@ -35,4 +35,5 @@
 | SecretServerSecretStealer | EvilCorp* |
 | SharpChrome | Conti |
 | SharpDump | Avaddon |
+| Snaffler | Scattered Spider* | 
 | Trufflehog | Scattered Spider* |
