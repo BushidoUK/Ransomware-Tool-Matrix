@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
@@ -29,6 +29,7 @@
 | PDQ Deploy | AvosLocker |
 | Pulseway | Scattered Spider* |
 | Radmin | Akira |
+| Remote Manipulator System (RMS) | RagnarLocker |
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
 | RPort | Scattered Spider* |
