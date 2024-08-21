@@ -15,6 +15,7 @@
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider* |
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
+| LINpeas | Scattered Spider* |
 | Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
 | MicroBurst | Scattered Spider* |
