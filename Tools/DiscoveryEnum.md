@@ -20,12 +20,17 @@
 | Nbtscan | Dagon Locker | 
 | Nmap | Qilin, Cactus |
 | Nping | Qilin |
+| ManageEngine LANDESK | Scattered Spider* |
+| PDQ Inventory | Scattered Spider* |
 | PingCastle | MAZE, BianLian, Scattered Spider* |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
 | PSNmap | Black Basta |
+| RVTools | Scattered Spider* |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
-| SharpShares | BlackSuit, Royal, BianLian, Fog |
+| SharpHound | Scattered Spider* |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
+| SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker |
+| VMware PowerCLI | Scattered Spider* |
