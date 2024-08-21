@@ -21,6 +21,7 @@
 | N-Able | Scattered Spider* |
 | NetSupport | Cuba, EvilCorp*, Black Basta |
 | Parsec | Scattered Spider* |
+| PDQ Deploy | AvosLocker |
 | Pulseway | Scattered Spider* |
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
