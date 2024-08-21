@@ -9,6 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | aws_consoler | Scattered Spider* |
+| DonPAPI | Akira |
 | GitGuardian | Scattered Spider* |
 | Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp* |
