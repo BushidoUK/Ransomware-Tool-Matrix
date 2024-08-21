@@ -13,10 +13,13 @@
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider* |
 | Ligolo | AvosLocker, LockBit |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit |
+| NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider* |
 | Proxifier | Scattered Spider* |
+| Rsocks | Scattered Spider* |
 | Socat | Scattered Spider* |
 | Sshimpanzee | Scattered Spider* |
 | Tailscale | Scattered Spider* |
 | Termite | Cuba |
+| TrueSocks | Scattered Spider* |
 | Wstunnel | Scattered Spider* |
