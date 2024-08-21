@@ -10,3 +10,8 @@
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that lead to Scattered Spider's ransomware deployment (previously BlackCat, RansomHub, or Qilin).
+
+#### Sources
+| Date Published | Report |
+|---|---|
+| | |
