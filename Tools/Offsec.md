@@ -20,6 +20,7 @@
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta |
 | Rubeus | Conti, Diavol, Ryuk |
+| Sliver | AvosLocker |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | WinPEAS | PLAY |
