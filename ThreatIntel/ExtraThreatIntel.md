@@ -42,6 +42,7 @@
 | 21 June 2021 | PYSA | https://blogs.blackberry.com/en/2021/06/pysa-loves-chachi-a-new-golang-rat |
 | 6 May 2021 | FiveHands | https://www.cisa.gov/news-events/analysis-reports/ar21-126a |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
+| 1 June 2023 | * | https://github.com/Casualtek/Ransomchats |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.
