@@ -8,11 +8,12 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp* |
-| CIMplant | Scattered Spider* |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat |
+| Chashell | PYSA |
+| CIMplant | Scattered Spider* |
 | Evilginx2 | BlackCat |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang |
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
 | LINpeas | Scattered Spider* |
