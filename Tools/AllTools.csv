@@ -1,0 +1,42 @@
+Discovery,RMM Tools,Defense Evasion,Credential Theft,OffSec,Networking,LOLBAS,Exfiltration
+ADExplorer,Action1,Avast Anti-Rootkit,aws_consoler,Cobalt Strike,Chisel,BCDEdit,Anonfiles
+ADRecon,AnyDesk,Backstab,DonPAPI,Brute Ratel C4,Cloudflared,BITSAdmin,Bashupload
+AdFind,Atera,Bedevil,GitGuardian,Chashell,OpenSSH,NTDS Utility,Cyberduck
+Advanced IP Scanner,ASG Remote Desktop,Defender Control,GrabChrome,CIMplant,Ligolo,Process Explorer,Dropbox
+Advanced Port Scanner,BeAnywhere,EMCO UnLock IT,GrabFF,Evilginx2,Ngrok,PsExec,Dropfiles
+Angry IP Scanner,Chrome Remote Desktop,Eraser,Jecretz,Impacket,NSOCKS,Windows Event Utility,Dropmefiles
+AWS Systems Manager Inventory,Domotz,FileShredder,KeeThief,Koadic,Plink,WMIC,FileZilla
+Bloodhound,DWAgent,GMER,LaZagne,LAPS Toolkit,Proxifier,,FreeFileSync
+Cent Browser,FixMeIt,IOBit,LostMyPassword,LINpeas,Rsocks,,File[.]io
+Dsquery,Fleetdeck,NSudo,MAGNET RAM Capture,Metasploit,Socat,,Gofile[.]io
+Lansweeper,ITarian,PCHunter,Mimikatz,Meterpreter,Sshimpanzee,,MEGA
+Nbtscan,Level[.]io,PowerTool,MIT Kerberos Ticket Manager,MicroBurst,Tailscale,,PrivatLab
+NirSoft WinLister,LogMeIn,ProcessHacker,NirSoft BulletsPassView,Pacu,Termite,,ProtonMail
+Nmap,ManageEngineRMM,TDSSKiller,NirSoft ChromePass,PowerShell Empire,TrueSocks,,PSCP
+Nping,MobaXterm,ThreatFire System Monitor,NirSoft Dialupass,PowerSploit,Wstunnel,,pCloud
+ManageEngine LANDESK,N-Able,ToolPow,NirSoft ExtPassword,Rubeus,,,Qaz[.]im
+Masscan,NetSupport,Universal Virus Sniffer,NirSoft IEPassView (iepv),Sliver,,,Restic
+PDQ Inventory,Parsec,VirtualBox,NirSoft MailPassView,TinyMet,,,RClone
+PingCastle,PDQ Deploy,YDArk,NirSoft Netpass,ThunderShell,,,Sendspace
+PowerView,Pulseway,Zemana Anti-Rootkit,NirSoft OperaPassView,WinPEAS,,,share[.]riseup[.]net
+PsInfo,Radmin,,NirSoft RouterPassView,,,,Temp[.]sh
+PSNmap,Remote Manipulator System (RMS),,NirSoft RemoteDesktopPassView (rdpv),,,,Tempsend
+ReconFTW,RemotePC,,NirSoft SniffPass,,,,Transfert-my-files
+RustScan,RemoteUtilities,,NirSoft VNCPassView,,,,Transfer[.]sh
+RVTools,RPort,,NirSoft WebBrowserPassView,,,,UFile
+S3 Browser,RSAT,,NirSoft WirelessKeyView,,,,WinSCP
+Seatbelt,RustDesk,,PasswordFox,,,,
+ServiceControl (sc.exe),ScreenConnect,,ProcDump,,,,
+SharpHound,SimpleHelp,,RDP Recognizer,,,,
+ShareFinder,Sorillus,,Router Scan,,,,
+SharpShares,Splashtop,,SecretServerSecretStealer,,,,
+SharpView,SuperOps,,SessionGopher,,,,
+SoftPerfect LanSearchPro,Supremo,,SharpChrome,,,,
+SoftPerfect NetScan,Syncro,,SharpDump,,,,
+VMware PowerCLI,TacticalRMM,,Snaffler,,,,
+,TeamViewer,,Trufflehog,,,,
+,TightVNC,,Veeam-Get-Creds,,,,
+,TrendMicro Basecamp,,Volatility,,,,
+,Twingate,,XenArmor,,,,
+,ZeroTier,,,,,,
+,ZohoAssist,,,,,,
