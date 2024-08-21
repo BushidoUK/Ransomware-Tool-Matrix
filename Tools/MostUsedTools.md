@@ -6,6 +6,7 @@
 | Tool Name | Type | Threat Group Usage | MITRE ATT&CK TTPs | Detection Rules |
 |---|---|---|---|---|
 | SoftPerfect NetScan | Discovery | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte | [T1046](https://attack.mitre.org/techniques/T1046/) | [Detection.FYI Rules](https://detection.fyi/search/?query=netscan) |
+| Advanced IP Scanner | Discovery | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA | [T1018](https://attack.mitre.org/techniques/T1018/) | [Detection.FYI Rules](https://detection.fyi/search/?query=advanced%20ip%20scanner) |
 | AdFind | Discovery | BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom | [S0552](https://attack.mitre.org/software/S0552/) | [Detection.FYI Rules](https://detection.fyi/search/?query=adfind) |
 | GMER | Evasion Tool| BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon | [T1562.001](https://attack.mitre.org/techniques/T1562/001/) | [Detection.FYI Rules](https://detection.fyi/search/?query=gmer) | 
 | Cobalt Strike | OffSec | BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX | [S0154](https://attack.mitre.org/software/S0154/) | [Detection.FYI Rules](https://detection.fyi/search/?query=cobalt%20strike) |
