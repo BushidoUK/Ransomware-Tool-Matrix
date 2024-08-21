@@ -10,6 +10,7 @@
 |---|---|
 | Avast Anti-Rootkit | Cuba, AvosLocker |
 | Backstab | Black Basta, LockBit | 
+| Bedevil | Scattered Spider* |
 | Defender Control | LockBit, Zola |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
