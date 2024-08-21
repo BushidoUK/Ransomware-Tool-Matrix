@@ -14,7 +14,7 @@
 | Dropbox | BlackCat, Scattered Spider* |
 | Dropfiles | Conti |
 | Dropmefiles | Mallox |
-| FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider* |
+| FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider*, PYSA |
 | FreeFileSync | LockBit |
 | File[.]io | Mallox, Babuk, Lockbit |
 | Gofile[.io] | AvosLocker |
@@ -33,4 +33,4 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA |
