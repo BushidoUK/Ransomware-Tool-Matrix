@@ -10,7 +10,7 @@
 | | | | NirSoft RouterPassView | | | | |
 
 > [!NOTE]
-> This is the list of tools that have been observed during various intrusions that lead to BlackSuit ransomware deployment.
+> This is the list of tools that have been observed during various intrusions that lead to BlackSuit (previously Royal) ransomware deployment.
 
 #### Sources
 | Date Published | Report |
