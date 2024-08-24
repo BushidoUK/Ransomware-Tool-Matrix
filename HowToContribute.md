@@ -9,7 +9,9 @@
 - Please submit only legitimate, dual-use tools.
 - The point of the Ransomware Tool Matrix is to highlight to defenders the dangers of these legitimate binaries.
 - There is a caveat with the OffSec section - these are legitimate Pentesting tools developed by ethical hackers.
-- Please do not submit malware families to the Ransomware Tool Matrix.
+- Please do not submit malware families (custom codedn to the Ransomware Tool Matrix.
+- A good rule of thumb is that the tool you submit should be available to anyone.
+- The tool should be simple to find and download or could be bought with a license.
 
 ### Providing Evidence
 - The Ransomware Tool Matrix is based on open source intelligence (OSINT) threat reports provided by a variety of sources, such as CISA's #StopRansomware alerts or The DFIR Report's publications, among others.
