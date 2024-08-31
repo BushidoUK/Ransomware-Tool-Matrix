@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | #StopRansomware Report |
 |---|---|---|
+| 29 August 2024 | RansomHub | [CISA Alert aa24-242a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a) |
 | 7 August 2024 | BlackSuit (aka Royal) | [CISA Alert aa23-061a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a) |
 | 10 Nay 2024 | Black Basta | [CISA Alert aa24-131a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a) |
 | 18 April 2024 | Akira | [CISA Alert aa24-109a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a) |
