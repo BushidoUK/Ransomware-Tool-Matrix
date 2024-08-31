@@ -32,8 +32,11 @@
 - [The Bassterlord Networking Manual](https://ecirtam.net/autoblogs/autoblogs/wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3/media/eb33778a.2021-08-3120-20Bassterlord20FishEye20Networking20Manual20X.pdf)
 - [Extra Threat Intel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
 
+## Types of Ransomware Adversaries
 > [!TIP]
-> If you see a Threat Group with an asterisk (*), this means it is a Ransomware-as-a-Service (RaaS) affiliate actor or group, which has access to one or more RaaS.
+> This repo also contains multiple types of Ransomware adversaries, this includes the Ransomware gangs themselves, affiliates, and initial access brokers
+> - **Affiliates:** If you see a Threat Group with an asterisk at the end (e.g. Scattered Spider*), it is a Ransomware affiliate, which has access to one or more RaaS
+> - **Initial Access Brokers:** If you see a Threat Group with an asterisk at the start (e.g. *Prophet Spider), it is an Initial Access Broker (IAB), which sells access to one or more Ransomware gangs
 
 ## Additional Resources
 - [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
