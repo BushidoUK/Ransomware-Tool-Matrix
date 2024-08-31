@@ -8,23 +8,25 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Avast Anti-Rootkit | Cuba, AvosLocker, MONTI |
+| Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
 | Defender Control | LockBit, Zola |
+| Dell Client driver | BlackByte |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
+| GIGABYTE Motherboard driver | BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | IOBit | PLAY |
+| MSI Afterburner driver | BlackByte |
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola |
 | TDSSKiller | LockBit, Avaddon |
-| ThreatFire System Monitor | RansomHub |
-| ToolPow | Akira |
+| ThreatFire System Monitor driver | RansomHub |
 | Universal Virus Sniffer | Phobos |
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
-| Zemana Anti-Rootkit | Qilin, Akira |
+| Zemana Anti-Rootkit driver | Qilin, Akira, BlackByte |
