@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 20 August 2024 | Everest | https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf |
 | 14 August 2024 | RansomHub | https://news.sophos.com/en-us/2024/08/14/edr-kill-shifter/ |
 | 14 August 2024 | INC Ransom | https://www.guidepointsecurity.com/blog/update-from-the-ransomware-trenches/ |
 | 5 August 2024 | Zola | https://www.acronis.com/en-us/cyber-protection-center/posts/zola-ransomware-the-many-faces-of-the-proton-family/ |
