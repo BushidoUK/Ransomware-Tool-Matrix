@@ -1,6 +1,7 @@
 ## How to Contribute
 - It is amazing that members of the community want to lend their support to this project and help build up the Ransomware Tool Matrix.
 - Please follow the guidelines below if you wish to contribute.
+- Typos will not be merged.
 
 > [!IMPORTANT]
 > To contribute to this repository, researchers must follow the How to Contribute guide, otherwise pull requests will be closed without merging them.
@@ -9,7 +10,7 @@
 - Please submit only legitimate, dual-use tools.
 - The point of the Ransomware Tool Matrix is to highlight to defenders the dangers of these legitimate binaries.
 - There is a caveat with the OffSec section - these are legitimate Pentesting tools developed by ethical hackers.
-- Please do not submit malware families (custom codedn to the Ransomware Tool Matrix.
+- Please do not submit malware families (custom coded) to the Ransomware Tool Matrix.
 - A good rule of thumb is that the tool you submit should be available to anyone.
 - The tool should be simple to find and download or could be bought with a license.
 
