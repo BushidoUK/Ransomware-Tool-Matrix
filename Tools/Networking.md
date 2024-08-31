@@ -11,8 +11,8 @@
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider* |
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider* |
-| Ligolo | AvosLocker, LockBit |
-| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit |
+| Ligolo | AvosLocker, LockBit, *Br0k3r |
+| Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide |
 | Proxifier | Scattered Spider*, Proxifier |
