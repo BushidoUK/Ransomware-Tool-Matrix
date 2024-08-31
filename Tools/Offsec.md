@@ -8,12 +8,15 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent* |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
+| BurpSuite | *Prophet Spider |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent* |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
+| ConPtyShell | *Prophet Spider |
 | CrackMapExec | RansomHub |
 | Evilginx2 | BlackCat |
+| Godzilla Web Shell | *Prophet Spider |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
@@ -25,6 +28,8 @@
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta |
+| PwnTools | *Prophet Spider |
+| Responder | *Prophet Spider |
 | Rubeus | Conti, Diavol, Ryuk |
 | SharpSploit | OnePercent* |
 | Sliver | AvosLocker, RansomHub |
