@@ -42,4 +42,5 @@
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest |
+| TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
