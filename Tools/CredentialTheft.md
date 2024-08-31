@@ -9,6 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | aws_consoler | Scattered Spider* |
+| BetterSafetyKatz | OnePercent* |
 | DonPAPI | Akira |
 | GitGuardian | Scattered Spider* |
 | GrabChrome | Yanluowang |
@@ -18,7 +19,7 @@
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub, OnePercent* |
 | MIT Kerberos Ticket Manager | Scattered Spider* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
@@ -42,6 +43,7 @@
 | SessionGopher | PYSA |
 | SharpChrome | Conti |
 | SharpDump | Avaddon |
+| SharpKatz | OnePercent* |
 | Snaffler | Scattered Spider* | 
 | Trufflehog | Scattered Spider* |
 | Veeam-Get-Creds | MONTI, BlackCat, Fog, LockBit |
