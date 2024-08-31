@@ -23,6 +23,7 @@
 | 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
 | 11 November 2023 | Hunters International | https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/ |
+| 20 September 2023 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker |
 | 15 September 2023 | Akira | https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html |
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
@@ -31,6 +32,7 @@
 | 10 May 2023 | Cactus | https://www.kroll.com/en/insights/publications/cyber/cactus-ransomware-prickly-new-variant-evades-detection |
 | 25 April 2023 | Bassterlord* (REvil, RansomEXX, Avadon, LockBit) | https://analyst1.com/ransomware-diaries-volume-2/ |
 | 10 April 2023 | RagnarLocker | https://www.sygnia.co/blog/threat-actor-spotlight-ragnarlocker-ransomware/ |
+| 23 March 2023 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://cloud.google.com/blog/topics/threat-intelligence/unc961-multiverse-financially-motivated/ |
 | 2 December 2022 | Scattered Spider* | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/ |
 | 17 November 2022 | Royal | https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/ |
 | 12 October 2022 | Black Basta | https://www.trendmicro.com/en_ca/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html |
@@ -43,11 +45,13 @@
 | 4 April 2022 | AvosLocker | https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-avoslocker |
 | 22 March 2022 | Lapsus$ | https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/ |
 | 17 March 2022 | AvosLocker | https://www.ic3.gov/Media/News/2022/220318.pdf |
+| 7 March 2022 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.crowdstrike.com/blog/prophet-spider-exploits-citrix-sharefile/ |
 | 23 February 2022 | BlackCat | https://www.emsisoft.com/en/blog/40931/ransomware-profile-alphv/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 30 November 2021 | Yanluowang | https://symantec-enterprise-blogs.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue |
 | 21 October 2021 | Lockean* (Maze, Egregor, REvil, DoppelPaymer, ProLock) | https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf |
 | 23 August 2021 | OnePercent* (REvil) | https://www.ic3.gov/Media/News/2021/210823.pdf |
+| 4 August 2021 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/ |
 | 15 July 2021 | PYSA | https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/ |
 | 21 June 2021 | PYSA | https://blogs.blackberry.com/en/2021/06/pysa-loves-chachi-a-new-golang-rat |
 | 11 May 2021 | DarkSide | https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/ |
