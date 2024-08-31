@@ -35,7 +35,7 @@
 | NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE, BlackCat, Yanluowang |
 | NirSoft WirelessKeyView | GoGoogle |
 | PasswordFox | LockBit, GoGoogle, 8BASE |
-| ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE, Scattered Spider* |
+| ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE, Scattered Spider*, Everest |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti, FiveHands |
 | SecretServerSecretStealer | EvilCorp* |
