@@ -46,6 +46,7 @@
 | 23 February 2022 | BlackCat | https://www.emsisoft.com/en/blog/40931/ransomware-profile-alphv/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 30 November 2021 | Yanluowang | https://symantec-enterprise-blogs.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue |
+| 21 October 2021 | Lockean* (Maze, Egregor, REvil, DoppelPaymer, ProLock) | https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf |
 | 15 July 2021 | PYSA | https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/ |
 | 21 June 2021 | PYSA | https://blogs.blackberry.com/en/2021/06/pysa-loves-chachi-a-new-golang-rat |
 | 11 May 2021 | DarkSide | https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/ |
