@@ -21,7 +21,7 @@
 | MEGA | Akira, Conti, mount-locker, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI, DarkSide |
 | PrivatLab | Hive, REvil, BlackMatter, mount-locker, BlackMatter |
 | ProtonMail | Avaddon |
-| PSCP | AvosLocker, MONTI, RansomHub |
+| PSCP | AvosLocker, MONTI, RansomHub, *Prophet Spider |
 | pCloud | DarkSide |
 | Qaz[.]im | Conti, BlackBasta |
 | Restic | INC Ransom |
