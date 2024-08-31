@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
@@ -19,8 +19,8 @@
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
 | LINpeas | Scattered Spider* |
-| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta, RansomHub |
-| Meterpreter | MAZE, Cuba, Conti, Hive, Snatch |
+| Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta, RansomHub, Everest |
+| Meterpreter | MAZE, Cuba, Conti, Hive, Snatch, Everest |
 | MicroBurst | Scattered Spider* |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
