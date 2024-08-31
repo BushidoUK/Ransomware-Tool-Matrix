@@ -10,6 +10,7 @@
 |---|---|
 | Anonfiles | Avaddon, LockBit |
 | Bashupload | DarkSide |
+| Catbox[.]moe | *Br0k3r |
 | Cyberduck | Scattered Spider* |
 | Dropbox | BlackCat, Scattered Spider* |
 | Dropfiles | Conti |
