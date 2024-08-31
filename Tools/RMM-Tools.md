@@ -9,8 +9,8 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
 | Chrome Remote Desktop | Scattered Spider* |
@@ -38,7 +38,7 @@
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub |
 | SimpleHelp | BlackCat |
 | Sorillus | Scattered Spider* |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus, Everest |
 | SuperOps | Cactus |
 | Supremo | Black Basta |
 | Syncro | Royal |
