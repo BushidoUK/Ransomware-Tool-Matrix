@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 28 August 2024 | *Br0k3r (NoEscape, Ransomhouse, BlackCat, Pay2Key) | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a |
 | 28 August 2024 | BlackByte | https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/ |
 | 20 August 2024 | Everest | https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf |
 | 14 August 2024 | RansomHub | https://news.sophos.com/en-us/2024/08/14/edr-kill-shifter/ |
