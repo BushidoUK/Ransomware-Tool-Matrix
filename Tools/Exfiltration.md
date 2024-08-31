@@ -21,11 +21,11 @@
 | MEGA | Akira, Conti, mount-locker, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI, DarkSide |
 | PrivatLab | Hive, REvil, BlackMatter, mount-locker, BlackMatter |
 | ProtonMail | Avaddon |
-| PSCP | AvosLocker, MONTI |
+| PSCP | AvosLocker, MONTI, RansomHub |
 | pCloud | DarkSide |
 | Qaz[.]im | Conti, BlackBasta |
 | Restic | INC Ransom |
-| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide |
+| RClone | BlackSuit, Royal, Black Basta, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
 | Temp[.]sh | Akira, LockBit |
@@ -33,4 +33,4 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub |
