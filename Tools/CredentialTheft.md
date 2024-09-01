@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| AADInternals | DarkBit+ |
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
 | DonPAPI | Akira |
