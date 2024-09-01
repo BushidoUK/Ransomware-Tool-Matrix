@@ -17,4 +17,4 @@
 | Minidump | *Prophet Spider, Vice Society |
 | Windows Event Utility | Rhysida, Hive, GoGoogle, Yanluowang |
 | WinExe | *Prophet Spider |
-| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society |
+| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida |
