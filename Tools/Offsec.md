@@ -17,7 +17,7 @@
 | CrackMapExec | RansomHub |
 | Evilginx2 | BlackCat |
 | Godzilla Web Shell | *Prophet Spider |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
@@ -27,7 +27,7 @@
 | MicroBurst | Scattered Spider* |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
-| PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta |
+| PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society |
 | PwnTools | *Prophet Spider |
 | Responder | *Prophet Spider |
 | Rubeus | Conti, Diavol, Ryuk |
