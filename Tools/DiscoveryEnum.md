@@ -11,8 +11,8 @@
 | ADExplorer | Lapsus$, Scattered Spider* |
 | ADRecon | Scattered Spider*, DarkSide, PYSA |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang, DarkSide, Lockean* |
-| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA |
-| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider*, RagnarLocker |
+| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA, Vice Society |
+| Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider*, RagnarLocker, Vice Society |
 | Angry IP Scanner | Phobos, RansomHub |
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean* |
