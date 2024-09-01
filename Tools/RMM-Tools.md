@@ -29,6 +29,7 @@
 | NetSupport | Cuba, EvilCorp*, Black Basta |
 | Parsec | Scattered Spider* |
 | PDQ Deploy | AvosLocker |
+| PowerAdmin | Vice Society |
 | Pulseway | Scattered Spider* |
 | Radmin | Akira |
 | Remote Manipulator System (RMS) | RagnarLocker |
