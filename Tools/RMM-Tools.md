@@ -16,6 +16,7 @@
 | Chrome Remote Desktop | Scattered Spider* |
 | Domotz | Scattered Spider* |
 | DWAgent | Scattered Spider* |
+| eHorus | DarkBit+ |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
 | ITarian | Scattered Spider* |
