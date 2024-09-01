@@ -10,11 +10,11 @@
 |---|---|
 | BCDEdit | LockBit, Snatch, Hive, Zola |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
-| NTDS Utility | Rhysida, Conti, Yanluowang, Lapsus$ |
+| NTDS Utility | Rhysida, Conti, Yanluowang, Lapsus$, Vice Society |
 | PAExec | *Prophet Spider  |
 | Process Explorer | Zola |
-| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker |
-| Minidump | *Prophet Spider |
+| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society |
+| Minidump | *Prophet Spider, Vice Society |
 | Windows Event Utility | Rhysida, Hive, GoGoogle, Yanluowang |
 | WinExe | *Prophet Spider |
-| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker |
+| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society |
