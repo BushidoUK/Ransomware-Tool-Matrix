@@ -29,6 +29,7 @@
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
 | 11 August 2023 | INC Ransom | https://www.huntress.com/blog/investigating-new-inc-ransom-group-activity |
+| 8 August 2023 | Rhysida | https://research.checkpoint.com/2023/the-rhysida-ransomware-activity-analysis-and-ties-to-vice-society/ |
 | 1 June 2023 | Various Groups | https://github.com/Casualtek/Ransomchats |
 | 10 May 2023 | Cactus | https://www.kroll.com/en/insights/publications/cyber/cactus-ransomware-prickly-new-variant-evades-detection |
 | 25 April 2023 | Bassterlord* (REvil, RansomEXX, Avadon, LockBit) | https://analyst1.com/ransomware-diaries-volume-2/ |
