@@ -34,7 +34,7 @@
 | Remote Manipulator System (RMS) | RagnarLocker |
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
-| RPort | Scattered Spider* |
+| RPort | Scattered Spider*, DarkBit+ |
 | RSAT | Quantum, Scattered Spider* |
 | RustDesk | Akira, Scattered Spider* |
 | ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub |
