@@ -32,6 +32,12 @@
 - [The Bassterlord Networking Manual](https://ecirtam.net/autoblogs/autoblogs/wwwecirtamnetlinks_0241ee9d15822b0727e62c15c61de467d47742f3/media/eb33778a.2021-08-3120-20Bassterlord20FishEye20Networking20Manual20X.pdf)
 - [Extra Threat Intel](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/ThreatIntel/ExtraThreatIntel.md)
 
+## Additional Resources
+- [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
+- [List of Ransomware Group Profiles](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/GroupProfiles)
+- [List of All Tools by Type](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv)
+- [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
+
 ## Types of Ransomware Adversaries
 > [!TIP]
 > This repo also contains multiple types of Ransomware adversaries, this includes the ransomware gangs themselves, affiliates, and initial access brokers
@@ -39,12 +45,6 @@
 > - **Affiliates:** A threat group in this repo with an asterisk at the end (e.g. Scattered Spider*), means it is a ransomware affiliate, which has access to one or more ransomware families
 > - **Initial Access Brokers:** A threat group in this repo with an asterisk at the start (e.g. *Prophet Spider), means it is an Initial Access Broker (IAB), which sells access to one or more ransomware gangs
 > - **State-sponsored:** A threat group in this repo with a plus sign at the end (e.g. DarkBit+), means it is a suspected state-sponosored adversary using ransomware, such as those from Iran, DPRK, Russia, or China
-
-## Additional Resources
-- [List of Tools used by +10 Ransomware Gangs](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/MostUsedTools.md)
-- [List of Ransomware Group Profiles](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/GroupProfiles)
-- [List of All Tools by Type](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv)
-- [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
 
 ## Challenges
 > [!IMPORTANT]
