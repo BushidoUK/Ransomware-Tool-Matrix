@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | ADExplorer | Lapsus$, Scattered Spider* |
-| ADRecon | Scattered Spider*, DarkSide, PYSA |
+| ADRecon | Scattered Spider*, DarkSide, PYSA, BlackCat |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang, DarkSide, Lockean*, FiveHands |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA, Vice Society |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider*, RagnarLocker, Vice Society |
