@@ -15,7 +15,7 @@
 | CIMplant | Scattered Spider* |
 | ConPtyShell | *Prophet Spider |
 | CrackMapExec | RansomHub, DarkSide |
-| Evilginx2 | BlackCat |
+| Evilginx | BlackCat |
 | Godzilla Web Shell | *Prophet Spider |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat |
 | Kerbrute | RansomHub |
