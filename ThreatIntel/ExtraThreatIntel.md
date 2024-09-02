@@ -45,6 +45,7 @@
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
 | 21 June 2022 | AvosLocker | https://blog.talosintelligence.com/avoslocker-new-arsenal/ |
+| 13 June 2022 | BlackCat | https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware |
 | 2 June 2022 | EvilCorp* (BitPaymer, DoppelPaymer, WastedLocker, Hades, Phoenix, Macaw, PayloadBIN, LockBit, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions |
 | 2 May 2022 | AvosLocker | https://www.trendmicro.com/en_us/research/22/e/avoslocker-ransomware-variant-abuses-driver-file-to-disable-anti-Virus-scans-log4shell.html |
 | 4 April 2022 | AvosLocker | https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-avoslocker |
