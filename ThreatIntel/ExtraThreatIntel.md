@@ -54,6 +54,7 @@
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 30 November 2021 | Yanluowang | https://symantec-enterprise-blogs.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue |
 | 21 October 2021 | Lockean* (Maze, Egregor, REvil, DoppelPaymer, ProLock) | https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf |
+| 30 August 2021 | DarkSide | https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1 |
 | 23 August 2021 | OnePercent* (REvil) | https://www.ic3.gov/Media/News/2021/210823.pdf |
 | 4 August 2021 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.crowdstrike.com/blog/prophet-spider-exploits-oracle-weblogic-to-facilitate-ransomware-activity/ |
 | 15 July 2021 | PYSA | https://unit42.paloaltonetworks.com/gasket-and-magicsocks-tools-install-mespinoza-ransomware/ |
