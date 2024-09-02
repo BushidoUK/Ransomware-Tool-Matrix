@@ -10,7 +10,7 @@
 |---|---|
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
 | BurpSuite | *Prophet Spider |
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent* |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
 | ConPtyShell | *Prophet Spider |
@@ -26,6 +26,7 @@
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch, Everest |
 | MicroBurst | Scattered Spider* |
 | mitm6 | BlackCat |
+| OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide |
