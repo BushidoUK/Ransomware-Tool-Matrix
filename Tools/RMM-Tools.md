@@ -19,6 +19,7 @@
 | eHorus | DarkBit+ |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
+| GoToAssist | DarkSide |
 | ITarian | Scattered Spider* |
 | Level.io | Scattered Spider* |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
@@ -47,7 +48,7 @@
 | Syncro | Royal |
 | TacticalRMM | AvosLocker, Scattered Spider* |
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang |
-| TightVNC | Scattered Spider* |
+| TightVNC | Scattered Spider*, DarkSide |
 | TrendMicro Basecamp | Scattered Spider* |
 | Twingate | Scattered Spider* |
 | ZeroTier | Scattered Spider* |
