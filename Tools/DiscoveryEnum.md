@@ -24,7 +24,7 @@
 | Nmap | Qilin, Cactus, AvosLocker, RansomHub |
 | Nping | Qilin |
 | ManageEngine LANDESK | Scattered Spider* |
-| Masscan | Akira |
+| Masscan | Akira, BlackCat |
 | PDQ Inventory | Scattered Spider* |
 | PingCastle | MAZE, BianLian, Scattered Spider* |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
