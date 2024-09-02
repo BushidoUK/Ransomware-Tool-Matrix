@@ -10,10 +10,11 @@
 |---|---|
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
 | BurpSuite | *Prophet Spider |
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands |
 | ConPtyShell | *Prophet Spider |
+| Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
 | Evilginx | BlackCat |
 | Godzilla Web Shell | *Prophet Spider |
