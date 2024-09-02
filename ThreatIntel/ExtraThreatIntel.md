@@ -62,6 +62,7 @@
 | 21 June 2021 | PYSA | https://blogs.blackberry.com/en/2021/06/pysa-loves-chachi-a-new-golang-rat |
 | 11 May 2021 | DarkSide | https://news.sophos.com/en-us/2021/05/11/a-defenders-view-inside-a-darkside-ransomware-attack/ |
 | 6 May 2021 | FiveHands | https://www.cisa.gov/news-events/analysis-reports/ar21-126a |
+| 29 April 2021 | FiveHands | https://cloud.google.com/blog/topics/threat-intelligence/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
 
 > [!NOTE]
