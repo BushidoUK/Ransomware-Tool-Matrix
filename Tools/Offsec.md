@@ -25,11 +25,13 @@
 | Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta, RansomHub, Everest |
 | Meterpreter | MAZE, Cuba, Conti, Hive, Snatch, Everest |
 | MicroBurst | Scattered Spider* |
+| mitm6 | BlackCat |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide |
 | PwnTools | *Prophet Spider |
-| Responder | *Prophet Spider |
+| Responder | *Prophet Spider, BlackCat |
+| ReverseSSH Shell | BlackCat |
 | Rubeus | Conti, Diavol, Ryuk |
 | SharpSploit | OnePercent* |
 | Sliver | AvosLocker, RansomHub |
