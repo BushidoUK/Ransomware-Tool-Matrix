@@ -55,6 +55,7 @@
 | 23 February 2022 | BlackCat | https://www.emsisoft.com/en/blog/40931/ransomware-profile-alphv/ |
 | 19 January 2022 | Avaddon | https://cloud.google.com/blog/topics/threat-intelligence/chasing-avaddon-ransomware/ |
 | 30 November 2021 | Yanluowang | https://symantec-enterprise-blogs.security.com/threat-intelligence/yanluowang-ransomware-attacks-continue |
+| 28 October 2021 | FiveHands | https://www.ic3.gov/Media/News/2021/211029.pdf |
 | 21 October 2021 | Lockean* (Maze, Egregor, REvil, DoppelPaymer, ProLock) | https://www.cert.ssi.gouv.fr/uploads/CERTFR-2021-CTI-009.pdf |
 | 30 August 2021 | DarkSide | https://www.crowdstrike.com/blog/carbon-spider-embraces-big-game-hunting-part-1 |
 | 23 August 2021 | OnePercent* (REvil) | https://www.ic3.gov/Media/News/2021/210823.pdf |
