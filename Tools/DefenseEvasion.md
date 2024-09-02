@@ -21,7 +21,7 @@
 | IOBit | PLAY |
 | MSI Afterburner driver | BlackByte |
 | NSudo | Royal |
-| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin |
+| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola |
 | TDSSKiller | LockBit, Avaddon |
