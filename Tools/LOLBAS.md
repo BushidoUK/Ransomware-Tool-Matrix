@@ -15,6 +15,6 @@
 | Process Explorer | Zola |
 | PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit |
 | Minidump | *Prophet Spider, Vice Society |
-| Windows Event Utility ((Wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
+| Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
 | WinExe | *Prophet Spider |
 | WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat |
