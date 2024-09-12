@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | ADExplorer | Lapsus$, Scattered Spider* |
-| ADRecon | Scattered Spider*, DarkSide, PYSA, BlackCat |
+| ADRecon | Scattered Spider*, DarkSide, PYSA, BlackCat, Cicada3301 |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang, DarkSide, Lockean*, FiveHands |
 | Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA, Vice Society, FiveHands |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider*, RagnarLocker, Vice Society |
@@ -27,7 +27,7 @@
 | Masscan | Akira, BlackCat |
 | PDQ Inventory | Scattered Spider* |
 | PingCastle | MAZE, BianLian, Scattered Spider* |
-| PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta |
+| PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta, Cicada3301 |
 | PsInfo | RagnarLocker |
 | PSNmap | Black Basta |
 | ReconFTW | Akira |
@@ -36,11 +36,11 @@
 | S3 Browser | FiveHands, Yanluowang |
 | Seatbelt | LockBit, Conti, Dagon Locker |
 | ServiceControl (sc.exe) | Snatch |
-| SharpHound | Scattered Spider*, Akira |
+| SharpHound | Scattered Spider*, Akira, BlackSuit |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301 |
 | TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
