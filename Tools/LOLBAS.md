@@ -8,13 +8,13 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat |
+| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301 |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
 | NTDS Utility (ntdsutil) | Rhysida, Conti, Yanluowang, Lapsus$, Vice Society |
 | PAExec | *Prophet Spider, FiveHands  |
 | Process Explorer | Zola |
-| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit |
+| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit, Cicada3301 |
 | Minidump | *Prophet Spider, Vice Society |
 | Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
 | WinExe | *Prophet Spider |
-| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat |
+| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat, Cicada3301 |
