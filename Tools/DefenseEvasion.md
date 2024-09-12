@@ -9,8 +9,9 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
-| Backstab | Black Basta, LockBit | 
+| Backstab (Process Explorer driver) | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
+| Darkside EDR Killer | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver | BlackByte |
 | EMCO UnLock IT | Zola | 
@@ -24,6 +25,8 @@
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola |
+| RealBlindingEDR | CosmicBeetle* |
+| Reaper | CosmicBeetle* |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver | RansomHub |
 | Universal Virus Sniffer | Phobos |
