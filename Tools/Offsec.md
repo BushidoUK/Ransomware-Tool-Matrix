@@ -30,11 +30,11 @@
 | OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
-| PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide |
+| PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide, Cicada3301 |
 | PwnTools | *Prophet Spider |
 | Responder | *Prophet Spider, BlackCat |
 | ReverseSSH Shell | BlackCat |
-| Rubeus | Conti, Diavol, Ryuk |
+| Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301 |
 | SharpSploit | OnePercent* |
 | Sliver | AvosLocker, RansomHub |
 | TinyMet | CL0P |
