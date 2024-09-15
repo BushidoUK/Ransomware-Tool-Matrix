@@ -14,6 +14,7 @@
 | Darkside EDR Killer | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver | BlackByte |
+| EDRSandBlast | Cicada3301 |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
