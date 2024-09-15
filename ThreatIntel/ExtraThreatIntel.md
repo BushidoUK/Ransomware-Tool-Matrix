@@ -7,6 +7,7 @@
 |---|---|---|
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
+|  3 September 2024 | CIcada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
 | 28 August 2024 | *Br0k3r (NoEscape, Ransomhouse, BlackCat, Pay2Key) | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a |
 | 28 August 2024 | BlackByte | https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/ |
 | 26 August 2024 | BlackSuit | https://thedfirreport.com/2024/08/26/blacksuit-ransomware/ |
