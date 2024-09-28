@@ -23,4 +23,4 @@
 | Tailscale | Scattered Spider* |
 | Termite | Cuba |
 | TrueSocks | Scattered Spider* |
-| Wstunnel | Scattered Spider* |
+| Windscribe (Wstunnel) | Scattered Spider* |
