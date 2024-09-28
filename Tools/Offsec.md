@@ -12,13 +12,13 @@
 | BurpSuite | *Prophet Spider |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501 |
 | ConPtyShell | *Prophet Spider |
 | Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
 | Evilginx | BlackCat |
 | Godzilla Web Shell | *Prophet Spider |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501 |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
