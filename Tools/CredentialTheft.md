@@ -8,10 +8,11 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AADInternals | DarkBit+ |
+| AADInternals | DarkBit+, Storm-0501 |
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
 | DonPAPI | Akira |
+| Find-KeePassConfig | Storm-0501 |
 | GitGuardian | Scattered Spider* |
 | GrabChrome | Yanluowang |
 | GrabFF | FiveHands, Yanluowang |
