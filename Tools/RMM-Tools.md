@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501 |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
@@ -21,13 +21,14 @@
 | Fleetdeck | Scattered Spider* |
 | GoToAssist | DarkSide |
 | ITarian | Scattered Spider* |
-| Level.io | Scattered Spider* |
+| Level.io | Scattered Spider*, Storm-0501 |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
 | ManageEngineRMM | Scattered Spider* |
 | MeshAgent | *Br0k3r |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider*, RansomHub |
 | NetSupport | Cuba, EvilCorp*, Black Basta |
+| NinjaOne | Storm-0501 |
 | Parsec | Scattered Spider* |
 | PDQ Deploy | AvosLocker |
 | PowerAdmin | Vice Society |
