@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
 |  3 September 2024 | CIcada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
