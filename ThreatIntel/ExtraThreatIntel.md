@@ -5,6 +5,10 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 29 September 2024 | Rhysida | https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf
+| 29 September 2024 | Vice Society | https://www.sygnia.co/blog/the-vice-society-ransomware-investigation/
+| 29 September 2024 | MuddyWater | https://harfanglab.io/insidethelab/muddywater-rmm-campaign/
+| 29 September 2024 | ALPHV/BlackCat | https://news.sophos.com/en-us/2022/08/10/lockbit-hive-and-blackcat-attack-automotive-supplier-in-triple-ransomware-attack/
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
