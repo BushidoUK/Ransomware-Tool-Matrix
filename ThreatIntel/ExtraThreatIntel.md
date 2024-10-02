@@ -5,10 +5,6 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
-| 29 September 2024 | Rhysida | https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf
-| 29 September 2024 | Vice Society | https://www.sygnia.co/blog/the-vice-society-ransomware-investigation/
-| 29 September 2024 | MuddyWater | https://harfanglab.io/insidethelab/muddywater-rmm-campaign/
-| 29 September 2024 | ALPHV/BlackCat | https://news.sophos.com/en-us/2022/08/10/lockbit-hive-and-blackcat-attack-automotive-supplier-in-triple-ransomware-attack/
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
@@ -34,6 +30,7 @@
 | 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
 | 11 November 2023 | Hunters International | https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/ |
+| 31 October 2023 | Rhysida | https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf |
 | 20 September 2023 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker |
 | 15 September 2023 | Akira | https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html |
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
@@ -51,8 +48,10 @@
 | 25 October 2022 | Vice Society | https://www.microsoft.com/en-us/security/blog/2022/10/25/dev-0832-vice-society-opportunistic-ransomware-campaigns-impacting-us-education-sector |
 | 12 October 2022 | Black Basta | https://www.trendmicro.com/en_ca/research/22/j/black-basta-infiltrates-networks-via-qakbot-brute-ratel-and-coba.html |
 | 7 September 2022 | MONTI | https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger |
+| 2 September 2022 | Vice Society | https://www.sygnia.co/blog/the-vice-society-ransomware-investigation |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
+| 10 August 2022 | ALPHV/BlackCat | https://news.sophos.com/en-us/2022/08/10/lockbit-hive-and-blackcat-attack-automotive-supplier-in-triple-ransomware-attack |
 | 21 June 2022 | AvosLocker | https://blog.talosintelligence.com/avoslocker-new-arsenal/ |
 | 13 June 2022 | BlackCat | https://www.microsoft.com/en-us/security/blog/2022/06/13/the-many-lives-of-blackcat-ransomware |
 | 2 June 2022 | EvilCorp* (BitPaymer, DoppelPaymer, WastedLocker, Hades, Phoenix, Macaw, PayloadBIN, LockBit, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc2165-shifts-to-evade-sanctions |
