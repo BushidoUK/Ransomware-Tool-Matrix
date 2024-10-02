@@ -10,7 +10,7 @@
 |---|---|
 | Action1 | LockBit, MONTI |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501 |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, ALPHV\BlackCat, MuddyWater |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
 | Chrome Remote Desktop | Scattered Spider* |
