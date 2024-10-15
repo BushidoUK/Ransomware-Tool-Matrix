@@ -20,12 +20,13 @@
 | FileShredder | BlackCat |
 | GIGABYTE Motherboard driver | BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
+| HRSword | Medusa Locker |
 | IOBit | PLAY |
 | MSI Afterburner driver | BlackByte |
 | NSudo | Royal |
-| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands |
+| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
-| ProcessHacker | Phobos, LockBit, 8BASE, Zola |
+| ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
 | TDSSKiller | LockBit, Avaddon |
