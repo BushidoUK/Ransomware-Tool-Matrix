@@ -18,7 +18,7 @@
 | CrackMapExec | RansomHub, DarkSide |
 | Evilginx | BlackCat |
 | Godzilla Web Shell | *Prophet Spider |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501 |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | LAPS Toolkit | Scattered Spider* |
