@@ -16,12 +16,13 @@
 | GitGuardian | Scattered Spider* |
 | GrabChrome | Yanluowang |
 | GrabFF | FiveHands, Yanluowang |
+| Invoke-TheHash | Medusa Locker |
 | Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp*, Yanluowang |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub, OnePercent*, *Prophet Spider, DarkSide, FiveHands |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub, OnePercent*, *Prophet Spider, DarkSide, FiveHands, Medusa Locker |
 | MIT Kerberos Ticket Manager | Scattered Spider* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle |
