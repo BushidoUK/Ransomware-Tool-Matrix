@@ -34,6 +34,7 @@
 | PowerAdmin | Vice Society |
 | Pulseway | Scattered Spider* |
 | Radmin | Akira |
+| Remote Desktop Plus (RDP+) | Medusa Locker |
 | Remote Manipulator System (RMS) | RagnarLocker |
 | RemotePC | Scattered Spider* |
 | RemoteUtilities | RagnarLocker |
