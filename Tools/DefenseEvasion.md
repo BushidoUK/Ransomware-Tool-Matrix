@@ -11,7 +11,7 @@
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab (Process Explorer driver) | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
-| Darkside EDR Killer | CosmicBeetle* |
+| Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver | BlackByte |
 | EDRSandBlast | Cicada3301 |
@@ -29,6 +29,7 @@
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
+| s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver | RansomHub |
 | Universal Virus Sniffer | Phobos |
