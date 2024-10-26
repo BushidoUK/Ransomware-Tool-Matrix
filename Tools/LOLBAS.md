@@ -8,14 +8,14 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301 |
+| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
 | NTDS Utility (ntdsutil) | Rhysida, Conti, Yanluowang, Lapsus$, Vice Society |
 | PAExec | *Prophet Spider, FiveHands  |
 | Process Explorer | Zola |
 | PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit, Cicada3301, Medusa Locker |
 | Minidump | *Prophet Spider, Vice Society |
-| ServiceControl (sc.exe) | Snatch |
+| ServiceControl (sc.exe) | Snatch, Embargo |
 | Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
 | WinExe | *Prophet Spider |
 | WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat, Cicada3301 |
