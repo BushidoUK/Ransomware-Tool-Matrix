@@ -35,3 +35,4 @@
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
 | WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society |
+| 7zip | Lockbit

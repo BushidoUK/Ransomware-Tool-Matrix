@@ -52,6 +52,7 @@
 | 7 September 2022 | MONTI | https://blogs.blackberry.com/en/2022/09/the-curious-case-of-monti-ransomware-a-real-world-doppelganger |
 | 2 September 2022 | Vice Society | https://www.sygnia.co/blog/the-vice-society-ransomware-investigation |
 | 25 August 2022 | Qilin | https://www.trendmicro.com/en_us/research/22/h/new-golang-ransomware-agenda-customizes-attacks.html |
+| 19 August 2022 | Lockbit | https://www.nccgroup.com/us/research-blog/back-in-black-unlocking-a-lockbit-30-ransomware-attack/ |
 | 10 August 2022 | Yanluowang | https://blog.talosintelligence.com/recent-cyber-attack/ |
 | 10 August 2022 | ALPHV/BlackCat | https://news.sophos.com/en-us/2022/08/10/lockbit-hive-and-blackcat-attack-automotive-supplier-in-triple-ransomware-attack |
 | 21 June 2022 | AvosLocker | https://blog.talosintelligence.com/avoslocker-new-arsenal/ |
