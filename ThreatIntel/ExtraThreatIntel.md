@@ -22,6 +22,7 @@
 | 19 June 2024 | Qilin | https://www.secureworks.com/research/threat-profiles/gold-feather |
 | 5 June 2024 | RansomHub | https://symantec-enterprise-blogs.security.com/threat-intelligence/ransomhub-knight-ransomware |
 | 4 June 2024 | Fog | https://arcticwolf.com/resources/blog/lost-in-the-fog-a-new-ransomware-threat/ |
+| 3 June 2024 | ALPHV, Lockbit, Basta | https://cloud.google.com/blog/topics/threat-intelligence/ransomware-attacks-surge-rely-on-public-legitimate-tools |
 | 9 May 2024 | RansomHub | https://www.forescout.com/blog/analysis-a-new-ransomware-group-emerges-from-the-change-healthcare-cyber-attack/ |
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |

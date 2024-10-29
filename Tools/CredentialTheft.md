@@ -14,6 +14,7 @@
 | DonPAPI | Akira |
 | Find-KeePassConfig | Storm-0501 |
 | GitGuardian | Scattered Spider* |
+| Gosecretsdump | Lockbit |
 | GrabChrome | Yanluowang |
 | GrabFF | FiveHands, Yanluowang |
 | Invoke-TheHash | Medusa Locker |
