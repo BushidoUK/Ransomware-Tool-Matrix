@@ -11,6 +11,7 @@
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab (Process Explorer driver) | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
+| BEST_uninstallTool | BabLock |
 | Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver | BlackByte |
