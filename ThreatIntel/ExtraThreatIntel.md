@@ -45,6 +45,7 @@
 | 25 April 2023 | Bassterlord* (REvil, RansomEXX, Avadon, LockBit) | https://analyst1.com/ransomware-diaries-volume-2/ |
 | 10 April 2023 | RagnarLocker | https://www.sygnia.co/blog/threat-actor-spotlight-ragnarlocker-ransomware/ |
 | 7 April 2023 | DarkBit+ | https://www.microsoft.com/en-us/security/blog/2023/04/07/mercury-and-dev-1084-destructive-attack-on-hybrid-environment |
+| 4 April 2023 | BabLock | https://www.group-ib.com/blog/bablock-ransomware/
 | 23 March 2023 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://cloud.google.com/blog/topics/threat-intelligence/unc961-multiverse-financially-motivated/ |
 | 2 December 2022 | Scattered Spider* | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies/ |
 | 17 November 2022 | Royal | https://www.microsoft.com/en-us/security/blog/2022/11/17/dev-0569-finds-new-ways-to-deliver-royal-ransomware-various-payloads/ |
