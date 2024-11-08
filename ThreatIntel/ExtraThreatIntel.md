@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 7 November 2024 | Interlock | https://blog.talosintelligence.com/emerging-interlock-ransomware/ |
 | 23 October 2024 | Embargo | https://www.welivesecurity.com/en/eset-research/embargo-ransomware-rocknrust/ |
 | 3 October 2024 | Medusa Locker | https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022 |
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |

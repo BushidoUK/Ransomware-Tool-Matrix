@@ -9,6 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Anonfiles | Avaddon, LockBit |
+| AZCopy | Interlock |
 | Bashupload | DarkSide |
 | Catbox[.]moe | *Br0k3r |
 | Cyberduck | Scattered Spider* |
