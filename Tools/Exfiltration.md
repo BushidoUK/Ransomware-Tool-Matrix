@@ -35,4 +35,5 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
+| WinRAR | SafePay
 | WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society |

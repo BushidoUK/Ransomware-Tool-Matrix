@@ -27,7 +27,7 @@ RVTools,RemoteUtilities,,NirSoft VNCPassView,Sliver,,,Transfer[.]sh
 S3 Browser,RPort,,NirSoft WebBrowserPassView,TinyMet,,,UFile
 Seatbelt,RSAT,,NirSoft WirelessKeyView,ThunderShell,,,WinSCP
 ServiceControl (sc.exe),RustDesk,,PasswordFox,WinPEAS,,,AZCopy
-SharpHound,ScreenConnect,,ProcDump,,,,
+SharpHound,ScreenConnect,,ProcDump,,,,WinRAR
 ShareFinder,SimpleHelp,,RDP Recognizer,,,,
 SharpShares,Sorillus,,Router Scan,,,,
 SharpView,Splashtop,,SecretServerSecretStealer,,,,
