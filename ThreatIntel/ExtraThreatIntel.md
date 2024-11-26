@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 25 November 2024 | SafePay | https://redpiranha.net/news/threat-intelligence-report-november-19-november-25-2024 |
 | 7 November 2024 | Interlock | https://blog.talosintelligence.com/emerging-interlock-ransomware/ |
 | 23 October 2024 | Embargo | https://www.welivesecurity.com/en/eset-research/embargo-ransomware-rocknrust/ |
 | 3 October 2024 | Medusa Locker | https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022 |
