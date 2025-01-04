@@ -41,7 +41,7 @@
 ## Types of Ransomware Adversaries
 > [!TIP]
 > This repo also contains multiple types of Ransomware adversaries, this includes the ransomware gangs themselves, affiliates, and initial access brokers
-> - **Rasnomware Gangs:** In this repo, a tool is associated with a ransomware gang, meaning that the tool was observed in an intrusion which resulted in the deployment of that ransomware family
+> - **Ransomware Gangs:** In this repo, a tool is associated with a ransomware gang, meaning that the tool was observed in an intrusion which resulted in the deployment of that ransomware family
 > - **Affiliates:** A threat group in this repo with an asterisk at the end (e.g. Scattered Spider*), means it is a ransomware affiliate, which has access to one or more ransomware families
 > - **Initial Access Brokers:** A threat group in this repo with an asterisk at the start (e.g. *Prophet Spider), means it is an Initial Access Broker (IAB), which sells access to one or more ransomware gangs
 > - **State-sponsored:** A threat group in this repo with a plus sign at the end (e.g. DarkBit+), means it is a suspected state-sponosored adversary using ransomware, such as those from Iran, DPRK, Russia, or China
