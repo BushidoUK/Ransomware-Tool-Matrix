@@ -10,6 +10,7 @@
 |---|---|
 | Anonfiles | Avaddon, LockBit |
 | AZCopy | Interlock |
+| Azure Blob Storage | EvilCorp* |
 | Bashupload | DarkSide |
 | Catbox[.]moe | *Br0k3r |
 | Cyberduck | Scattered Spider* |
