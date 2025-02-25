@@ -5,14 +5,15 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
-| 10 February 2024 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
+| 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
+| 16 January 2025 | EvilCorp*, RansomHub| https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf |
 | 7 November 2024 | Interlock | https://blog.talosintelligence.com/emerging-interlock-ransomware/ |
 | 23 October 2024 | Embargo | https://www.welivesecurity.com/en/eset-research/embargo-ransomware-rocknrust/ |
 | 3 October 2024 | Medusa Locker | https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022 |
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
-|  3 September 2024 | CIcada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
+| 3 September 2024 | Cicada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
 | 28 August 2024 | *Br0k3r (NoEscape, Ransomhouse, BlackCat, Pay2Key) | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a |
 | 28 August 2024 | BlackByte | https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/ |
 | 26 August 2024 | BlackSuit | https://thedfirreport.com/2024/08/26/blacksuit-ransomware/ |
