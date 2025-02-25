@@ -19,14 +19,14 @@
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider*, PYSA, BlackCat |
 | FreeFileSync | LockBit |
 | File[.]io | Mallox, Babuk, Lockbit |
-| Gofile[.io] | AvosLocker |
+| Gofile[.]io | AvosLocker |
 | MEGA | Akira, Conti, MountLocker, Phobos, BlackCat, Karakurt, Scattered Spider*, LockBit, BianLian, Hive, Trigona, Quantum, INC Ransom, EvilCorp*, Avaddon, MONTI, DarkSide, Vice Society, FiveHands, Storm-0501 |
 | PrivatLab | Hive, REvil, BlackMatter, mount-locker, BlackMatter |
 | ProtonMail | Avaddon |
 | PSCP | AvosLocker, MONTI, RansomHub, *Prophet Spider |
 | pCloud | DarkSide, FiveHands |
 | Qaz[.]im | Conti, BlackBasta |
-| Restic | INC Ransom |
+| Restic | INC Ransom, Lynx |
 | RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501 |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
