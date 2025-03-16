@@ -9,10 +9,10 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang |
-| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider* |
+| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
 | GOST | Cicada3301 |
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+ |
-| Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+ |
+| Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
