@@ -10,6 +10,7 @@
 |---|---|
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
+| IOX | Ghost/Cring |
 | GOST | Cicada3301 |
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+ |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
