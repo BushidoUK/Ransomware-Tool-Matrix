@@ -27,7 +27,7 @@
 | Masscan | Akira, BlackCat |
 | ossec-win32 | Storm-0501 |
 | OSQuery | Storm-0501 |
-| PDQ Inventory | Scattered Spider* |
+| PDQ Inventory | Scattered Spider*, Medusa |
 | PingCastle | MAZE, BianLian, Scattered Spider*, DragonForce |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta, Cicada3301 |
 | PsInfo | RagnarLocker |
