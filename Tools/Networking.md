@@ -16,6 +16,7 @@
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
+| Proxychains | Vice Society, Qilin |
 | Proxifier | Scattered Spider*, Proxifier |
 | Rsocks | Scattered Spider* |
 | Socat | Scattered Spider* |
