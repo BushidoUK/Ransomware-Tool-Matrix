@@ -37,9 +37,10 @@
 | RVTools | Scattered Spider* |
 | S3 Browser | FiveHands, Yanluowang |
 | Seatbelt | LockBit, Conti, Dagon Locker |
+| SharpNBTScan | Ghost/Cring |
 | SharpHound | Scattered Spider*, Akira, BlackSuit |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
-| SharpShares | BlackSuit, Royal, BianLian, Fog |
+| SharpShares | BlackSuit, Royal, BianLian, Fog, Ghost/Cring |
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa |
