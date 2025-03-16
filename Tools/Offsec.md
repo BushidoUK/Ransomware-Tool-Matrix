@@ -8,19 +8,22 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| BadPotato | Ghost/Cring |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
 | BurpSuite | *Prophet Spider |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501 |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501, Ghost/Cring |
 | ConPtyShell | *Prophet Spider |
 | Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
 | Evilginx | BlackCat |
+| GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
+| Ladon911 | Ghost/Cring |
 | LAPS Toolkit | Scattered Spider* |
 | LINpeas | Scattered Spider* |
 | Metasploit | MAZE, LockBit, Bassterlord*, Conti, Hive, Fog, Black Basta, RansomHub, Everest |
@@ -37,6 +40,8 @@
 | ReverseSSH Shell | BlackCat |
 | Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301 |
 | SharpSploit | OnePercent* |
+| SharpZeroLogon | Ghost/Cring |
+| SharpGPPPass | Ghost/Cring |
 | Sliver | AvosLocker, RansomHub |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
