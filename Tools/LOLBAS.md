@@ -18,4 +18,4 @@
 | ServiceControl (sc.exe) | Snatch, Embargo |
 | Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
 | WinExe | *Prophet Spider |
-| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat, Cicada3301 |
+| WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat, Cicada3301, Ghost/Cring |
