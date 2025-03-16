@@ -20,6 +20,7 @@
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
 | GoToAssist | DarkSide |
+| HCL BigFix | Medusa |
 | ITarian | Scattered Spider* |
 | Level.io | Scattered Spider*, Storm-0501 |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
