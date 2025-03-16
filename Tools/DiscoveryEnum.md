@@ -11,7 +11,7 @@
 | ADExplorer | Lapsus$, Scattered Spider* |
 | ADRecon | Scattered Spider*, DarkSide, PYSA, BlackCat, Cicada3301, Storm-0501 |
 | AdFind | MAZE, BlackSuit, Royal, PLAY, LockBit, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, INC Ransom, Black Basta, Yanluowang, DarkSide, Lockean*, FiveHands |
-| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA, Vice Society, FiveHands, Sarcoma, DragonForce, MedusaLocker, Mimic, Loki |
+| Advanced IP Scanner | MAZE, BlackSuit, Royal, Akira, LockBit, Diavol, GoGoogle, INC Ransom, Hive, Zola, DarkSide, PYSA, Vice Society, FiveHands, Sarcoma, DragonForce, MedusaLocker, Mimic, Loki, Medusa |
 | Advanced Port Scanner| LockBit, BianLian, PYSA, Trigona, EvilCorp*, Fog, Scattered Spider*, RagnarLocker, Vice Society, Medusa Locker |
 | Angry IP Scanner | Phobos, RansomHub |
 | AWS Systems Manager Inventory | Scattered Spider* |
@@ -42,6 +42,6 @@
 | SharpShares | BlackSuit, Royal, BianLian, Fog |
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa |
 | TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
