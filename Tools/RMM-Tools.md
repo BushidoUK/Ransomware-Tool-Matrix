@@ -9,14 +9,14 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501 |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
 | Chrome Remote Desktop | Scattered Spider* |
 | Domotz | Scattered Spider* |
 | DWAgent | Scattered Spider* |
-| eHorus | DarkBit+ |
+| eHorus | DarkBit+, Medusa |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
 | GoToAssist | DarkSide |
@@ -26,11 +26,11 @@
 | ManageEngineRMM | Scattered Spider* |
 | MeshAgent | *Br0k3r |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
-| N-Able | Scattered Spider*, RansomHub |
+| N-Able | Scattered Spider*, RansomHub, Medusa |
 | NetSupport | Cuba, EvilCorp*, Black Basta |
 | NinjaOne | Storm-0501 |
 | Parsec | Scattered Spider* |
-| PDQ Deploy | AvosLocker |
+| PDQ Deploy | AvosLocker, Medusa |
 | PowerAdmin | Vice Society |
 | Pulseway | Scattered Spider* |
 | Radmin | Akira |
@@ -41,10 +41,10 @@
 | RPort | Scattered Spider*, DarkBit+ |
 | RSAT | Quantum, Scattered Spider* |
 | RustDesk | Akira, Scattered Spider* |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub |
-| SimpleHelp | BlackCat |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub, Medusa |
+| SimpleHelp | BlackCat, Medusa |
 | Sorillus | Scattered Spider* |
-| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus, Everest |
+| Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus, Everest, Medusa |
 | SuperOps | Cactus |
 | Supremo | Black Basta |
 | Syncro | Royal |
