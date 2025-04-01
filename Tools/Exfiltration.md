@@ -17,6 +17,7 @@
 | Dropbox | BlackCat, Scattered Spider* |
 | Dropfiles | Conti |
 | Dropmefiles | Mallox |
+| EasyUpload.io | Qilin |
 | FileZilla | Akira, Karakurt, AvosLocker, LockBit, Nokoyawa, Diavol, Scattered Spider*, PYSA, BlackCat |
 | FreeFileSync | LockBit |
 | File[.]io | Mallox, Babuk, Lockbit |
