@@ -31,6 +31,7 @@
 | MicroBurst | Scattered Spider* |
 | mitm6 | BlackCat |
 | Mythic | EvilCorp* |
+| NetExec | Qilin |
 | OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
