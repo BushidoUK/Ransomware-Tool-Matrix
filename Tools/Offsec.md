@@ -17,7 +17,7 @@
 | ConPtyShell | *Prophet Spider |
 | Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
-| Evilginx | BlackCat |
+| Evilginx | BlackCat, Qilin |
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker |
