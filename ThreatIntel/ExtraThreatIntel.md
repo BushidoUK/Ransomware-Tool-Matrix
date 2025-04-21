@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
 | 12 March 2025 | Medusa | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a |
 | 19 February 2025 | Ghost/Cring | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a | 
 | 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
