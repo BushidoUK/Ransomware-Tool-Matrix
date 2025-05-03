@@ -7,6 +7,7 @@
 |---|---|---|
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
 | 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
+| 19 March 2025 | Hunters International | https://www.esentire.com/blog/from-access-to-encryption-dissecting-hunters-internationals-latest-ransomware-attack |
 | 12 March 2025 | Medusa | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a |
 | 10 March 2025 | Qilin | https://www.picussecurity.com/resource/blog/qilin-ransomware |
 | 6 March 2025 | Medusa | https://www.security.com/threat-intelligence/medusa-ransomware-attacks |
