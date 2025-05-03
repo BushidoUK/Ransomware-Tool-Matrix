@@ -15,6 +15,7 @@
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+ |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
+| NPS | RA World |
 | NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
 | Proxychains | Vice Society, Qilin |
