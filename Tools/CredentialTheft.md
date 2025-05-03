@@ -42,7 +42,7 @@
 | NirSoft WebBrowserPassView | Phobos, GoGoogle, 8BASE, BlackCat, Yanluowang, Loki |
 | NirSoft WirelessKeyView | GoGoogle |
 | PasswordFox | LockBit, GoGoogle, 8BASE |
-| ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE, Scattered Spider*, Everest |
+| ProcDump | MAZE, LockBit, Conti, Quantum, PYSA, NetWalker, 8BASE, Scattered Spider*, Everest, RA World |
 | RDP Recognizer | BianLian |
 | Router Scan | Conti, FiveHands |
 | SecretServerSecretStealer | EvilCorp* |
