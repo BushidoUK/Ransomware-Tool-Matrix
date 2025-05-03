@@ -25,6 +25,7 @@
 | HRSword | Medusa Locker |
 | IOBit | PLAY |
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
+| McAfee OEM Info Copy Files (mcoemcpy.exe) | NailaoLocker | 
 | MSI Afterburner driver (BYOVD) | BlackByte |
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
