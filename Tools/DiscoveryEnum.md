@@ -19,6 +19,7 @@
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
 | Lansweeper | EvilCorp* |
+| Navicat | Medusa |
 | Nbtscan | Dagon Locker | 
 | NirSoft WinLister | AvosLocker |
 | Nmap | Qilin, Cactus, AvosLocker, RansomHub |
