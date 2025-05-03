@@ -10,8 +10,9 @@
 |---|---|
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
-| IOX | Ghost/Cring |
+| FRP | Medusa |
 | GOST | Cicada3301 |
+| IOX | Ghost/Cring |
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+ |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
@@ -21,6 +22,7 @@
 | Proxychains | Vice Society, Qilin |
 | Proxifier | Scattered Spider*, Proxifier |
 | Rsocks | Scattered Spider* |
+| RevSocks | Medusa |
 | Socat | Scattered Spider* |
 | Sshimpanzee | Scattered Spider* |
 | Tailscale | Scattered Spider* |
