@@ -15,7 +15,7 @@
 | Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver | BlackByte |
-| EDRSandBlast | Cicada3301 |
+| EDRSandBlast | Cicada3301, Qilin |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
@@ -33,7 +33,9 @@
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver | RansomHub |
+| Toshiba power management driver | Qilin |
 | Universal Virus Sniffer | Phobos |
+| Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
 | Zemana Anti-Rootkit driver | Qilin, Akira, BlackByte |
