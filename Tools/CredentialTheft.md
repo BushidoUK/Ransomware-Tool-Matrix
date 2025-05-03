@@ -12,6 +12,7 @@
 | AccountRestore | Blacksuit |
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
+| CQTools CQHashDump | NailaoLocker |
 | DonPAPI | Akira |
 | Find-KeePassConfig | Storm-0501 |
 | GitGuardian | Scattered Spider* |
