@@ -16,7 +16,7 @@
 | Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver (BYOVD) | BlackByte |
-| EDRSandBlast | Cicada3301, Qilin |
+| EDRSandBlast | Cicada3301, Qilin, Medusa |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
@@ -25,6 +25,7 @@
 | HRSword | Medusa Locker |
 | IOBit | PLAY |
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
+| KillAV | Medusa |
 | McAfee OEM Info Copy Files (mcoemcpy.exe) | NailaoLocker | 
 | MSI Afterburner driver (BYOVD) | BlackByte |
 | NSudo | Royal |
@@ -36,6 +37,7 @@
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver (BYOVD) | RansomHub |
+| ThrottleStop driver | Medusa |
 | Toshiba power management driver (BYOVD) | Qilin |
 | Universal Virus Sniffer | Phobos |
 | Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
