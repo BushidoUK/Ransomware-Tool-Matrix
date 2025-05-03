@@ -29,7 +29,7 @@
 | pCloud | DarkSide, FiveHands |
 | Qaz[.]im | Conti, BlackBasta |
 | Restic | INC Ransom, Lynx |
-| RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501, Medusa |
+| RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501, Medusa, Hunters International |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
 | Temp[.]sh | Akira, LockBit |
@@ -37,4 +37,4 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society, Hunters International |
