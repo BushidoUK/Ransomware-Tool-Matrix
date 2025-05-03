@@ -20,7 +20,7 @@
 | Evilginx | BlackCat, Qilin |
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | Ladon911 | Ghost/Cring |
