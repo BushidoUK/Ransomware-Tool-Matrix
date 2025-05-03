@@ -12,6 +12,7 @@
 | Backstab (Process Explorer driver) | Black Basta, LockBit | 
 | Bedevil | Scattered Spider* |
 | BEST_uninstallTool | BabLock |
+| Bluetooth Stack for Windows by Toshiba (toshdpdb.exe) | RA World |
 | Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver (BYOVD) | BlackByte |
