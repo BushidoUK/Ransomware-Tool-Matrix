@@ -5,8 +5,10 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
 | 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
 | 12 March 2025 | Medusa | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a |
+| 10 March 2025 | Qilin | https://www.picussecurity.com/resource/blog/qilin-ransomware |
 | 19 February 2025 | Ghost/Cring | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a | 
 | 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
 | 16 January 2025 | EvilCorp*, RansomHub| https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf |
