@@ -34,6 +34,7 @@
 | PsInfo | RagnarLocker |
 | PSNmap | Black Basta |
 | ReconFTW | Akira |
+| RoboCopy | Medusa |
 | RustScan | Scattered Spider* |
 | RVTools | Scattered Spider* |
 | S3 Browser | FiveHands, Yanluowang |
