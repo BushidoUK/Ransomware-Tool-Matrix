@@ -14,16 +14,17 @@
 | BEST_uninstallTool | BabLock |
 | Darkside (TrueSight driver) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
-| Dell Client driver | BlackByte |
+| Dell Client driver (BYOVD) | BlackByte |
 | EDRSandBlast | Cicada3301, Qilin |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
-| GIGABYTE Motherboard driver | BlackByte |
+| GIGABYTE Motherboard driver (BYOVD) | BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | HRSword | Medusa Locker |
 | IOBit | PLAY |
-| MSI Afterburner driver | BlackByte |
+| Intel Ethernet driver (BYOVD) | Scattered Spider* |
+| MSI Afterburner driver (BYOVD) | BlackByte |
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
@@ -32,8 +33,8 @@
 | Reaper | CosmicBeetle* |
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
-| ThreatFire System Monitor driver | RansomHub |
-| Toshiba power management driver | Qilin |
+| ThreatFire System Monitor driver (BYOVD) | RansomHub |
+| Toshiba power management driver (BYOVD) | Qilin |
 | Universal Virus Sniffer | Phobos |
 | Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
 | VirtualBox | RagnarLocker |
