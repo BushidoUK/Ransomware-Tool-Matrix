@@ -10,6 +10,7 @@
 | 12 March 2025 | Medusa | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a |
 | 10 March 2025 | Qilin | https://www.picussecurity.com/resource/blog/qilin-ransomware |
 | 19 February 2025 | Ghost/Cring | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a | 
+| 18 February 2025 | NailaoLocker | https://www.orangecyberdefense.com/global/blog/cert-news/meet-nailaolocker-a-ransomware-distributed-in-europe-by-shadowpad-and-plugx-backdoors |
 | 13 February 2025 | RA World | https://www.security.com/threat-intelligence/chinese-espionage-ransomware |
 | 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
 | 16 January 2025 | EvilCorp*, RansomHub| https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf |
