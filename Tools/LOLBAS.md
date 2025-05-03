@@ -10,6 +10,7 @@
 |---|---|
 | BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
+| fsutil | Qilin |
 | NTDS Utility (ntdsutil) | Rhysida, Conti, Yanluowang, Lapsus$, Vice Society |
 | PAExec | *Prophet Spider, FiveHands  |
 | Process Explorer | Zola |
