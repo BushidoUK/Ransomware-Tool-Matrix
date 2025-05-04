@@ -7,7 +7,7 @@
 | AWS Systems Manager Inventory | Chrome Remote Desktop | | Jecretz | LAPS Toolkit | Ngrok | | FileZilla |
 | ManageEngine LANDESK | Domotz | | MAGNET RAM Capture | LINpeas | NSOCKS | | MEGA |
 | PDQ Inventory | DWAgent | | Mimikatz | MicroBurst | Plink | | RClone |
-| PingCastle | Fleetdeck | | MIT Kerberos Ticket Manager | Pacu | Proxifier | | |
+| PingCastle | Fleetdeck | | MIT Kerberos Ticket Manager | Pacu | Proxifier | | S3 Browser |
 | RustScan | ITarian | | ProcDump | | Rsocks | | |
 | RVTools | Level[.]io | | Snaffler | | Socat | | |
 | SharpHound | ManageEngineRMM | | Trufflehog | | Sshimpanzee | | |
