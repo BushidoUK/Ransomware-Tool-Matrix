@@ -44,14 +44,15 @@
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
-| 8 March 2024 | Scattered Spider | https://unit42.paloaltonetworks.com/muddled-libra/ |
+| 8 March 2024 | Scattered Spider* | https://unit42.paloaltonetworks.com/muddled-libra/ |
 | 29 February 2024 | BlackCat | https://www.crowdstrike.com/blog/anatomy-of-alpha-spider-ransomware/ |
 | 28 February 2024 | Cactus | https://www.bitdefender.com/blog/businessinsights/cactus-analyzing-a-coordinated-ransomware-attack-on-corporate-networks/ |
-| 22 February 2024 | Scattered Spider | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
+| 22 February 2024 | Scattered Spider* | https://blog.sekoia.io/scattered-spider-laying-new-eggs/ |
 | 11 January 2024 | Medusa | https://unit42.paloaltonetworks.com/medusa-ransomware-escalation-new-leak-site/ |
 | 11 November 2023 | Hunters International | https://www.bitdefender.com/blog/businessinsights/hive-ransomwares-offspring-hunters-international-takes-the-stage/ |
 | 31 October 2023 | Rhysida | https://www.fortinet.com/content/dam/fortinet/assets/threat-reports/rhysida-ransomware-intrusion.pdf |
 | 20 September 2023 | *Prophet Spider (MAZE, Egregor, MountLocker) | https://www.secureworks.com/research/gold-melody-profile-of-an-initial-access-broker |
+| 20 September 2023 | Scattered Spider* | https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud | 
 | 15 September 2023 | Akira | https://blog.bushidotoken.net/2023/09/tracking-adversaries-akira-another.html |
 | 14 September 2023 | Scattered Spider* (BlackCat, Qilin, RansomHub) | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware/ |
 | 11 September 2023 | Cuba | https://securelist.com/cuba-ransomware/110533/ |
