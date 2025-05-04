@@ -18,6 +18,7 @@
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands |
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
+| Everything.exe | NightSpire |
 | Lansweeper | EvilCorp* |
 | Navicat | Medusa |
 | Nbtscan | Dagon Locker | 
