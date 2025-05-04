@@ -48,3 +48,4 @@
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa |
 | TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
+| WKTools | RansomHub, PLAY, BianLian |
