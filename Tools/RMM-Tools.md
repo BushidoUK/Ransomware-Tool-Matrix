@@ -9,7 +9,8 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa, BianLian |
+| AmmyyAdmin | BianLian |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa, RansomHub |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
@@ -42,7 +43,7 @@
 | RPort | Scattered Spider*, DarkBit+ |
 | RSAT | Quantum, Scattered Spider* |
 | RustDesk | Akira, Scattered Spider* |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub, Medusa, Qilin |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub, Medusa, Qilin, BianLian |
 | SimpleHelp | BlackCat, Medusa |
 | Sorillus | Scattered Spider* |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus, Everest, Medusa |
