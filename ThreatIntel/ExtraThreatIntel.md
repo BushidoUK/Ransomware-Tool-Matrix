@@ -19,6 +19,7 @@
 | 13 February 2025 | RA World | https://www.security.com/threat-intelligence/chinese-espionage-ransomware |
 | 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
 | 16 January 2025 | EvilCorp*, RansomHub| https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf |
+| 2 December 2024 | RobbinHood | https://www.crowdstrike.com/en-us/blog/falcon-prevents-vulnerable-driver-attacks-real-world-intrusion/ |
 | 7 November 2024 | Interlock | https://blog.talosintelligence.com/emerging-interlock-ransomware/ |
 | 23 October 2024 | Embargo | https://www.welivesecurity.com/en/eset-research/embargo-ransomware-rocknrust/ |
 | 3 October 2024 | Medusa Locker | https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022 |
