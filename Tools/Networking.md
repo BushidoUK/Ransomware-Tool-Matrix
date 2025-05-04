@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang |
+| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
 | FRP | Medusa |
 | GOST | Cicada3301 |
