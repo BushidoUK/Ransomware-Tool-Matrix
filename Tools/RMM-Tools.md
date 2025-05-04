@@ -10,7 +10,7 @@
 |---|---|
 | Action1 | LockBit, MONTI |
 | AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa |
-| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa |
+| Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa, RansomHub |
 | ASG Remote Desktop | Scattered Spider* |
 | BeAnywhere | Scattered Spider* |
 | Chrome Remote Desktop | Scattered Spider* |
@@ -51,7 +51,7 @@
 | Syncro | Royal |
 | TacticalRMM | AvosLocker, Scattered Spider* |
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang |
-| TightVNC | Scattered Spider*, DarkSide |
+| TightVNC | Scattered Spider*, DarkSide, RansomHub |
 | TrendMicro Basecamp | Scattered Spider* |
 | Twingate | Scattered Spider* |
 | ZeroTier | Scattered Spider* |
