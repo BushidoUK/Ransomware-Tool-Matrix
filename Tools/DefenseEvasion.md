@@ -10,6 +10,7 @@
 |---|---|
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab (Process Explorer driver) | Black Basta, LockBit | 
+| BadRentdrv2 | RansomHub |
 | Bedevil | Scattered Spider* |
 | BEST_uninstallTool | BabLock |
 | Bluetooth Stack for Windows by Toshiba (toshdpdb.exe) | RA World |
