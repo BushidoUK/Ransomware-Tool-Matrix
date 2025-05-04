@@ -25,6 +25,7 @@
 | RevSocks | Medusa |
 | Socat | Scattered Spider* |
 | Sshimpanzee | Scattered Spider* |
+| Stowaway | RansomHub |
 | Tailscale | Scattered Spider* |
 | Termite | Cuba |
 | TrueSocks | Scattered Spider* |
