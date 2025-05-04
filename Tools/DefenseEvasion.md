@@ -23,7 +23,7 @@
 | FileShredder | BlackCat |
 | GIGABYTE Motherboard driver (BYOVD) | RobbinHood, BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
-| HRSword | Medusa Locker |
+| HRSword | Medusa Locker, Helldown |
 | IOBit | PLAY |
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
 | KillAV | Medusa |
