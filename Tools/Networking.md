@@ -21,6 +21,7 @@
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
 | Proxychains | Vice Society, Qilin |
 | Proxifier | Scattered Spider*, Proxifier |
+| PuTTY | Medusa |
 | Rsocks | Scattered Spider* |
 | RevSocks | Medusa |
 | Socat | Scattered Spider* |
