@@ -38,5 +38,6 @@
 | 8 March 2024 | https://unit42.paloaltonetworks.com/muddled-libra |
 | 22 February 2024 | https://blog.sekoia.io/scattered-spider-laying-new-eggs |
 | 16 November 2023 | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a |
+| 20 September 2023 | https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud |
 | 14 September 2023 | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware |
 | 2 December 2022 | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies |
