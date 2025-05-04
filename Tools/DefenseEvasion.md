@@ -21,7 +21,7 @@
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
-| GIGABYTE Motherboard driver (BYOVD) | BlackByte |
+| GIGABYTE Motherboard driver (BYOVD) | RobbinHood, BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | HRSword | Medusa Locker |
 | IOBit | PLAY |
