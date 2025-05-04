@@ -22,6 +22,7 @@
 | 16 January 2025 | EvilCorp*, RansomHub| https://services.google.com/fh/files/misc/threat_horizons_report_h1_2025.pdf |
 | 2 December 2024 | RobbinHood | https://www.crowdstrike.com/en-us/blog/falcon-prevents-vulnerable-driver-attacks-real-world-intrusion/ |
 | 7 November 2024 | Interlock | https://blog.talosintelligence.com/emerging-interlock-ransomware/ |
+| 7 November 2024 | Helldown | https://www.truesec.com/hub/blog/helldown-ransomware-group |
 | 23 October 2024 | Embargo | https://www.welivesecurity.com/en/eset-research/embargo-ransomware-rocknrust/ |
 | 3 October 2024 | Medusa Locker | https://blog.talosintelligence.com/threat-actor-believed-to-be-spreading-new-medusalocker-variant-since-2022 |
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
