@@ -5,6 +5,7 @@
 - As defenders, we should exploit the fact that many of the tools used by these cybercriminals are often reused
 - We can threat hunt, deploy detections, and block these tools to eliminate the ability of adversaries to launch intrusions
 - This project will be updated as additional intelligence on ransomware gang TTPs is made available
+- Feel free to watch my presentation on this project at [BSides London](https://www.youtube.com/watch?v=hyoOhAoaX1g) in December 2024.
 
 > [!TIP]
 >  This Ransomware Tool Matrix has several use cases, which are as follows:
