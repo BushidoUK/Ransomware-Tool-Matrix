@@ -40,9 +40,10 @@
 | Responder | *Prophet Spider, BlackCat |
 | ReverseSSH Shell | BlackCat |
 | Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301 |
+| SharpGPOAbuse | CrazyHunter |
+| SharpGPPPass | Ghost/Cring |
 | SharpSploit | OnePercent* |
 | SharpZeroLogon | Ghost/Cring |
-| SharpGPPPass | Ghost/Cring |
 | Sliver | AvosLocker, RansomHub |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
