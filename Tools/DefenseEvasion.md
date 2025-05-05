@@ -45,4 +45,4 @@
 | Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
 | VirtualBox | RagnarLocker |
 | YDArk | Qilin |
-| Zemana Anti-Rootkit driver | Qilin, Akira, BlackByte |
+| Zemana Anti-Rootkit driver | Qilin, Akira, BlackByte, CrazyHunter |
