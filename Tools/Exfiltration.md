@@ -12,6 +12,7 @@
 | AZCopy | Interlock |
 | Azure Blob Storage | EvilCorp* |
 | Bashupload | DarkSide |
+| Bublup | BlackSuit |
 | Catbox[.]moe | *Br0k3r |
 | Cyberduck | Scattered Spider* |
 | Dropbox | BlackCat, Scattered Spider* |
@@ -32,7 +33,7 @@
 | RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501, Medusa, Hunters International |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
-| Temp[.]sh | Akira, LockBit |
+| Temp[.]sh | Akira, LockBit, BlackSuit |
 | Tempsend | LockBit |
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
