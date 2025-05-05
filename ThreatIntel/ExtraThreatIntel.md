@@ -6,6 +6,7 @@
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
+| 8 April 2025 | RansomEXX | https://www.microsoft.com/en-us/security/blog/2025/04/08/exploitation-of-clfs-zero-day-leads-to-ransomware-activity/ |
 | 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
 | 31 March 2025 | BlackSuit | https://thedfirreport.com/2025/03/31/fake-zoom-ends-in-blacksuit-ransomware/  |
 | 26 March 2025 | RansomHub, BianLian, Medusa, Play | https://www.welivesecurity.com/en/eset-research/shifting-sands-ransomhub-edrkillshifter/ |
