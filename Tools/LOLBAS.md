@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| attrib | BlackSuit |
 | BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
 | Curl | QWCrypt |
