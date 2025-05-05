@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | attrib | BlackSuit |
-| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo |
+| BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo, RansomEXX |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
 | Curl | QWCrypt |
 | fsutil | Qilin |
@@ -22,6 +22,7 @@
 | PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit, Cicada3301, Medusa Locker, Qilin, RA World, Helldown |
 | Quick Assist | Black Basta |
 | ServiceControl (sc.exe) | Snatch, Embargo |
+| Wevutil | RansomEXX |
 | Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat |
 | WinExe | *Prophet Spider |
 | WMIC | MAZE, Conti, Hive, Quantum, TargetCompany, PYSA, AvosLocker, RagnarLocker, Vice Society, Rhysida, BlackCat, Cicada3301, Ghost/Cring |
