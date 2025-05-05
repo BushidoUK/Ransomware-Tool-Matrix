@@ -6,6 +6,7 @@
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
+| 24 April 2025 | IMN Crew | https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-imn-crew |
 | 16 April 2025 | CrazyHunter | https://www.trendmicro.com/en_us/research/25/d/crazyhunter-campaign.html |
 | 8 April 2025 | RansomEXX | https://www.microsoft.com/en-us/security/blog/2025/04/08/exploitation-of-clfs-zero-day-leads-to-ransomware-activity/ |
 | 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
