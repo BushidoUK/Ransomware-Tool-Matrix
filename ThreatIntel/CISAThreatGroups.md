@@ -5,7 +5,10 @@
 
 | Date Published | Ransomware/Extortionist | #StopRansomware Report |
 |---|---|---|
+| 12 March 2025 | Medusa | [CISA Alert aa25-071a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a) |
+| 19 February 2025 | Ghost/Cring | [CISA Alert aa25-050a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a) |
 | 29 August 2024 | RansomHub | [CISA Alert aa24-242a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a) |
+| 28 August 2024 | *Br0k3r (NoEscape, Ransomhouse, BlackCat, Pay2Key) | [CISA Alert aa24-241a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a) |
 | 7 August 2024 | BlackSuit (aka Royal) | [CISA Alert aa23-061a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-061a) |
 | 10 Nay 2024 | Black Basta | [CISA Alert aa24-131a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-131a) |
 | 18 April 2024 | Akira | [CISA Alert aa24-109a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-109a) |
@@ -29,3 +32,4 @@
 | 9 March 2022 | Conti | [CISA Alert aa21-265a](https://www.cisa.gov/news-events/alerts/2021/09/22/conti-ransomware) |
 | 18 October 2021 | BlackMatter | [CISA Alert aa21-291a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-291a) |
 | 8 July 2021 | DarkSide | [CISA Alert aa21-131a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa21-131a) |
+| 6 May 2021 | FiveHands | [CISA Alert ar21-126a](https://www.cisa.gov/news-events/analysis-reports/ar21-126a) |
