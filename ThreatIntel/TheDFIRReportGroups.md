@@ -5,6 +5,7 @@
 
 | Most Recent Publication | Ransomware/Extortionist | Report |
 |---|---|---|
+| 28 April 2025 | Fog | [Navigating Through The Fog](https://thedfirreport.com/2025/04/28/navigating-through-the-fog/) |
 | 31 March 2025 | BlackSuit | [Fake Zoom Ends in BlackSuit Ransomware](https://thedfirreport.com/2025/03/31/fake-zoom-ends-in-blacksuit-ransomware/) |
 | 26 August 2024 | BlackSuit | [BlackSuit Ransomware](https://thedfirreport.com/2024/08/26/blacksuit-ransomware/) |
 | 10 June 2024 | BlackCat (ALPHV) | [IcedID Brings ScreenConnect and CSharp Streamer to ALPHV Ransomware Deployment](https://thedfirreport.com/2024/06/10/icedid-brings-screenconnect-and-csharp-streamer-to-alphv-ransomware-deployment/) |
