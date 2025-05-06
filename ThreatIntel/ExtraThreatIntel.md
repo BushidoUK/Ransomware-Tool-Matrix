@@ -10,17 +10,14 @@
 | 16 April 2025 | CrazyHunter | https://www.trendmicro.com/en_us/research/25/d/crazyhunter-campaign.html |
 | 8 April 2025 | RansomEXX | https://www.microsoft.com/en-us/security/blog/2025/04/08/exploitation-of-clfs-zero-day-leads-to-ransomware-activity/ |
 | 1 April 2025 | Qilin | https://news.sophos.com/en-us/2025/04/01/sophos-mdr-tracks-ongoing-campaign-by-qilin-affiliates-targeting-screenconnect/ |
-| 31 March 2025 | BlackSuit | https://thedfirreport.com/2025/03/31/fake-zoom-ends-in-blacksuit-ransomware/  |
 | 26 March 2025 | RansomHub, BianLian, Medusa, Play | https://www.welivesecurity.com/en/eset-research/shifting-sands-ransomhub-edrkillshifter/ |
 | 26 March 2025 | QWCrypt | https://www.bitdefender.com/en-us/blog/businessinsights/redcurl-qwcrypt-ransomware-technical-deep-dive |
 | 25 March 2025 | NightSpire | https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-nightspire |
 | 20 March 2025 | RansomHub | https://www.security.com/threat-intelligence/ransomhub-betruger-backdoor | 
 | 19 March 2025 | Hunters International | https://www.esentire.com/blog/from-access-to-encryption-dissecting-hunters-internationals-latest-ransomware-attack |
-| 12 March 2025 | Medusa | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a |
 | 10 March 2025 | Qilin | https://www.picussecurity.com/resource/blog/qilin-ransomware |
 | 6 March 2025 | Medusa | https://www.security.com/threat-intelligence/medusa-ransomware-attacks |
 | 20 February 2025 | NailaoLocker | https://www.trendmicro.com/en_us/research/25/b/updated-shadowpad-malware-leads-to-ransomware-deployment.html |
-| 19 February 2025 | Ghost/Cring | https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a | 
 | 18 February 2025 | NailaoLocker | https://www.orangecyberdefense.com/global/blog/cert-news/meet-nailaolocker-a-ransomware-distributed-in-europe-by-shadowpad-and-plugx-backdoors |
 | 13 February 2025 | RA World | https://www.security.com/threat-intelligence/chinese-espionage-ransomware |
 | 10 February 2025 | Various Groups | https://connect.cybercx.com.au/dfir-threat-report-au-2025 |
@@ -34,9 +31,7 @@
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
 | 3 September 2024 | Cicada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
-| 28 August 2024 | *Br0k3r (NoEscape, Ransomhouse, BlackCat, Pay2Key) | https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-241a |
 | 28 August 2024 | BlackByte | https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/ |
-| 26 August 2024 | BlackSuit | https://thedfirreport.com/2024/08/26/blacksuit-ransomware/ |
 | 20 August 2024 | Everest | https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf |
 | 14 August 2024 | RansomHub | https://news.sophos.com/en-us/2024/08/14/edr-kill-shifter/ |
 | 14 August 2024 | INC Ransom | https://www.guidepointsecurity.com/blog/update-from-the-ransomware-trenches/ |
