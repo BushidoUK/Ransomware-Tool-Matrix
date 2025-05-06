@@ -19,7 +19,8 @@
 | NPS | RA World |
 | NSOCKS | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
-| Proxychains | Vice Society, Qilin |
+| Powercat | Fog |
+| Proxychains | Vice Society, Qilin, Fog |
 | Proxifier | Scattered Spider*, Proxifier |
 | PuTTY | Medusa |
 | Rsocks | Scattered Spider* |
