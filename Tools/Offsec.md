@@ -11,6 +11,7 @@
 | BadPotato | Ghost/Cring |
 | Brute Ratel C4 | BlackSuit, Royal, BlackCat, Black Basta |
 | BurpSuite | *Prophet Spider |
+| Certipy | Fog |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
 | Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501, Ghost/Cring |
@@ -20,7 +21,7 @@
 | Evilginx | BlackCat, Qilin |
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt, Fog |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | Ladon911 | Ghost/Cring |
@@ -31,7 +32,8 @@
 | MicroBurst | Scattered Spider* |
 | mitm6 | BlackCat |
 | Mythic | EvilCorp* |
-| NetExec | Qilin |
+| NetExec | Qilin, Fog |
+| Orpheus | Fog |
 | OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
@@ -44,7 +46,8 @@
 | SharpGPPPass | Ghost/Cring |
 | SharpSploit | OnePercent* |
 | SharpZeroLogon | Ghost/Cring |
-| Sliver | AvosLocker, RansomHub |
+| Sliver | AvosLocker, RansomHub, Fog |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | WinPEAS | PLAY |
+| Zer0dump | Fog |
