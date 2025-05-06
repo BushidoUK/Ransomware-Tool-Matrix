@@ -13,7 +13,7 @@
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
 | CQTools CQHashDump | NailaoLocker |
-| DonPAPI | Akira |
+| DonPAPI | Akira, Fog |
 | Find-KeePassConfig | Storm-0501 |
 | GitGuardian | Scattered Spider* |
 | Gosecretsdump | Lockbit |
