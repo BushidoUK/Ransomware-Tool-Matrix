@@ -45,6 +45,7 @@
 | 9 May 2024 | RansomHub | https://www.forescout.com/blog/analysis-a-new-ransomware-group-emerges-from-the-change-healthcare-cyber-attack/ |
 | 1 May 2024 | INC Ransom | https://www.huntress.com/blog/lolbin-to-inc-ransomware |
 | 15 April 2024 | INC Ransom | https://www.secureworks.com/blog/gold-ionic-deploys-inc-ransomware |
+| 9 April 2024 | LokiLocker/BlackBit | https://www.f6.ru/blog/ransomware-2023-2024/ |
 | 26 March 2024 | Qilin | https://www.trendmicro.com/en_us/research/24/c/agenda-ransomware-propagates-to-vcenters-and-esxi-via-custom-pow.html |
 | 8 March 2024 | Scattered Spider* | https://unit42.paloaltonetworks.com/muddled-libra/ |
 | 29 February 2024 | BlackCat | https://www.crowdstrike.com/blog/anatomy-of-alpha-spider-ransomware/ |

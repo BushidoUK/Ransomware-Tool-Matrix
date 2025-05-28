@@ -27,6 +27,7 @@
 | Inno Setup | BlackSuit |
 | IOBit | PLAY |
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
+| KAV Removal Tool | LokiLocker/BlackBit |
 | KillAV | Medusa |
 | McAfee OEM Info Copy Files (mcoemcpy.exe) | NailaoLocker | 
 | MSI Afterburner driver (BYOVD) | BlackByte |
