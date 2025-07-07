@@ -8,16 +8,16 @@
 | ManageEngine LANDESK | Domotz | | MAGNET RAM Capture | LINpeas | NSOCKS | | MEGA |
 | PDQ Inventory | DWAgent | | Mimikatz | MicroBurst | Plink | | RClone |
 | PingCastle | Fleetdeck | | MIT Kerberos Ticket Manager | Pacu | Proxifier | | S3 Browser |
-| RustScan | ITarian | | ProcDump | | Rsocks | | |
+| RustScan | ITarian | | ProcDump | | Rsocx | | |
 | RVTools | Level[.]io | | Snaffler | | Socat | | |
 | SharpHound | ManageEngineRMM | | Trufflehog | | Sshimpanzee | | |
 | VMware PowerCLI | MobaXterm | | Volatility | | Tailscale | | |
-| | Parsec | | | | TrueSocks | | |
+| Get-ADUser | Parsec | | | | TrueSocks | | |
 | | Pulseway | | | | Wstunnel | | |
-| | RemotePC | | | | | | |
-| | RPort | | | | | | |
-| | RSAT | | | | | | |
-| | RustDesk | | | | | | |
+| | RemotePC | | | | Pinggy | | |
+| | RPort | | | | Teleport | | |
+| | RSAT | | | | Chisel | | |
+| | RustDesk | | | | TryCloudflare | | |
 | | ScreenConnect | | | | | | |
 | | Sorillus | | | | | | |
 | | Splashtop | | | | | | |
@@ -35,6 +35,7 @@
 #### Sources
 | Date Published | Report |
 |---|---|
+| 2 July 2025 | https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ |
 | 8 March 2024 | https://unit42.paloaltonetworks.com/muddled-libra |
 | 22 February 2024 | https://blog.sekoia.io/scattered-spider-laying-new-eggs |
 | 16 November 2023 | https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-320a |
