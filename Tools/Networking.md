@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt |
+| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt, Scattered Spider* |
 | Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
 | FRP | Medusa |
 | GOST | Cicada3301 |
@@ -18,6 +18,7 @@
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NPS | RA World |
 | NSOCKS | Scattered Spider* |
+| Pinggy | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
 | Powercat | Fog |
 | Proxychains | Vice Society, Qilin, Fog |
@@ -29,6 +30,8 @@
 | Sshimpanzee | Scattered Spider* |
 | Stowaway | RansomHub |
 | Tailscale | Scattered Spider* |
+| Teleport | Scattered Spider* |
 | Termite | Cuba |
 | TrueSocks | Scattered Spider* |
+| TryCloudflare | Scattered Spider* |
 | Windscribe (Wstunnel) | Scattered Spider* |
