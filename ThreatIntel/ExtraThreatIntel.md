@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 2 July 2025 | Scattered Spider* | https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ |
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
 | 24 April 2025 | IMN Crew | https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-imn-crew |
 | 16 April 2025 | CrazyHunter | https://www.trendmicro.com/en_us/research/25/d/crazyhunter-campaign.html |
