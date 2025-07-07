@@ -19,6 +19,7 @@
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
 | Everything.exe | NightSpire |
+| Get-ADUser | Scattered Spider* |
 | Lansweeper | EvilCorp* |
 | Navicat | Medusa |
 | Nbtscan | Dagon Locker | 
