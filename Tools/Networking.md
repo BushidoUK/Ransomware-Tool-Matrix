@@ -35,3 +35,4 @@
 | TrueSocks | Scattered Spider* |
 | TryCloudflare | Scattered Spider* |
 | Windscribe (Wstunnel) | Scattered Spider* |
+| xd | Storm-2603 |
