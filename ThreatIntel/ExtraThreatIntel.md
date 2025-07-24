@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 23 July 2025 | Storm-2603 | https://www.microsoft.com/en-us/security/blog/2025/07/22/disrupting-active-exploitation-of-on-premises-sharepoint-vulnerabilities/ |
 | 2 July 2025 | Scattered Spider* | https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ |
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
 | 24 April 2025 | IMN Crew | https://www.s-rminform.com/latest-thinking/ransomware-in-focus-meet-imn-crew |
