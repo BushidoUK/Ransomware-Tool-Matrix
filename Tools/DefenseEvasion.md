@@ -34,12 +34,12 @@
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
-| ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker |
+| ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
-| ThreatFire System Monitor driver (BYOVD) | RansomHub |
+| ThreatFire System Monitor driver (BYOVD) | RansomHub, Interlock |
 | ThrottleStop driver | Medusa |
 | Toshiba power management driver (BYOVD) | Qilin |
 | Universal Virus Sniffer | Phobos |
