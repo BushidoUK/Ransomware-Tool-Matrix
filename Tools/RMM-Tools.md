@@ -43,7 +43,7 @@
 | RPort | Scattered Spider*, DarkBit+ |
 | RSAT | Quantum, Scattered Spider* |
 | RustDesk | Akira, Scattered Spider* |
-| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub, Medusa, Qilin, BianLian |
+| ScreenConnect | Black Basta, BlackCat, LockBit, Scattered Spider*, Hive, Trigona, Medusa, Yanluowang, RansomHub, Medusa, Qilin, BianLian, Interlock |
 | SimpleHelp | BlackCat, Medusa |
 | Sorillus | Scattered Spider* |
 | Splashtop | Black Basta, LockBit, AvosLocker, BianLian, Scattered Spider*, Hive, Quantum, Conti, Trigona, RansomHub, Cactus, Everest, Medusa |
