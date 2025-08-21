@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa, BianLian, Fog |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa, BianLian, Fog, Interlock |
 | AmmyyAdmin | BianLian |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa, RansomHub |
 | ASG Remote Desktop | Scattered Spider* |
