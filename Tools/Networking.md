@@ -23,7 +23,7 @@
 | Powercat | Fog |
 | Proxychains | Vice Society, Qilin, Fog |
 | Proxifier | Scattered Spider*, Proxifier |
-| PuTTY | Medusa |
+| PuTTY | Medusa, Interlock |
 | Rsocks | Scattered Spider* |
 | RevSocks | Medusa |
 | Socat | Scattered Spider* |
