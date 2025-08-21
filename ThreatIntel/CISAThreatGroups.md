@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | #StopRansomware Report |
 |---|---|---|
+| 22 July 2025 | Interlock | [CISA Alert aa25-203a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-203a) |
 | 12 March 2025 | Medusa | [CISA Alert aa25-071a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-071a) |
 | 19 February 2025 | Ghost/Cring | [CISA Alert aa25-050a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa25-050a) |
 | 29 August 2024 | RansomHub | [CISA Alert aa24-242a](https://www.cisa.gov/news-events/cybersecurity-advisories/aa24-242a) |
