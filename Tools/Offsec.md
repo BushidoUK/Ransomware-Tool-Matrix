@@ -14,7 +14,7 @@
 | Certipy | Fog |
 | Chashell | PYSA |
 | CIMplant | Scattered Spider* |
-| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501, Ghost/Cring |
+| Cobalt Strike | MAZE, BlackSuit, Royal, Black Basta, Phobos, BlackCat, PLAY, Cuba, Karakurt, AvosLocker, Snatch, LockBit, CL0P, Vice Society, Trigona, Conti, Dagon Locker, Nokoyawa, Hive, Quantum, Diavol, XingLocker, REvil, Ryuk, NetWalker, RansomEXX, RagnarLocker, BlackByte, Qilin, Cactus, EvilCorp*, Yanluowang, DarkSide, RansomHub, Everest, Lockean*, OnePercent*, FiveHands, Storm-0501, Ghost/Cring, Interlock |
 | ConPtyShell | *Prophet Spider |
 | Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
