@@ -38,4 +38,4 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society, Hunters International, NightSpire |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society, Hunters International, NightSpire, Interlock |
