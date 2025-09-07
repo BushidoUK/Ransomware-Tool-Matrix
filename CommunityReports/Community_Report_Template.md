@@ -1,3 +1,3 @@
-# Community Report
+# Community Report Template
 
 TBD
