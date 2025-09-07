@@ -19,6 +19,7 @@
 | Commando VM | FiveHands |
 | CrackMapExec | RansomHub, DarkSide |
 | Evilginx | BlackCat, Qilin |
+| Evil-WinRM | Embargo |
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt, Fog |
