@@ -38,6 +38,7 @@
 - [List of Ransomware Group Profiles](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/GroupProfiles)
 - [List of All Tools by Type](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/Tools/AllTools.csv)
 - [Ransomware Tool Matrix Threat Hunt Checklist](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/RTM_ThreatHunt_Checklist.csv)
+- [Community Reports](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/CommunityReports)
 
 ## Types of Ransomware Adversaries
 > [!TIP]
