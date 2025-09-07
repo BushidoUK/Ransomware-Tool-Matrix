@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Anonfiles | Avaddon, LockBit |
-| AZCopy | Interlock |
+| AZCopy | Interlock, Storm-0501* |
 | Azure Blob Storage | EvilCorp* |
 | Bashupload | DarkSide |
 | Bublup | BlackSuit |
