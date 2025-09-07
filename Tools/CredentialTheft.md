@@ -14,7 +14,7 @@
 | BetterSafetyKatz | OnePercent* |
 | CQTools CQHashDump | NailaoLocker |
 | DonPAPI | Akira, Fog |
-| Find-KeePassConfig | Storm-0501 |
+| Find-KeePassConfig | Storm-0501* |
 | GitGuardian | Scattered Spider* |
 | Gosecretsdump | Lockbit |
 | GrabChrome | Yanluowang |
