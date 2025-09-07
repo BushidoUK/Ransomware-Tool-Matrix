@@ -24,7 +24,7 @@
 ### Community Reports
 - Individuals can now share what tools they have seen various ransomware groups/affiliates/IABs use via the Community Report Template.
 - The Community Report Template allows individuals who would like to contribute their observations to it, but do not have public links they can cite (such as a formal blog post etc).
-- Please add your observations to the following **Community Report Folder** using the **Community Report Template**.
+- Please add your observations to the following [Community Report Folder](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/CommunityReports) using the [Community Report Template](https://github.com/BushidoUK/Ransomware-Tool-Matrix/blob/main/CommunityReports/Community_Report_Template.md).
 
 > [!IMPORTANT]
 > Community Reports will vary depending on the reliability and credibility of the submitter. The decision to consume the info from these reports should be investigated more carefully.
