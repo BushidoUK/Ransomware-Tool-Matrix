@@ -20,10 +20,12 @@
 - Time of Incident (e.g. January 2025)
 - Victim Sector (e.g. Retails, Manufacturing, Legal, Healthcare)
 - Victim Country (e.g. US, UK, Canada, France, Italy)
-- Victim Size (e.g. number of employees is 10-100, 100-1000, 1000-10,000, 10,000+)
+- Victim Size (e.g. Number of employees is 10-100, 100-1,000, 1,000-10,000, 10,000+)
 ```
 ---
 ### Observed Tools
+- Use the [RTM categories](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/Tools) as a guide of where to list tools in the table below
+ 
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
