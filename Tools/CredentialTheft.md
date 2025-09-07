@@ -8,7 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
-| AADInternals | DarkBit+, Storm-0501 |
+| AADInternals | DarkBit+, Storm-0501* |
 | AccountRestore | Blacksuit |
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
