@@ -34,8 +34,7 @@
 #### Any Related Sources
 
 - icardagt.exe DLL sideloading of version.dll - https://hijacklibs.net/entries/microsoft/built-in/version.html
-- ThrottleStop driver (rwdrv.sys) - https://www.guidepointsecurity.com/blog/gritrep-akira-sonicwall/
 
 | Date Published | Report |
-|---|---|
-| DD Month YYYY | https:// |
+|---|---|---|
+| 2025/08/05 | https://www.guidepointsecurity.com/blog/gritrep-akira-sonicwall/ |
