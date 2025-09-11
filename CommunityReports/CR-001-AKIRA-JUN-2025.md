@@ -29,7 +29,7 @@
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
 | ShareFinder |  | icardagt.exe (version.dll) |  |  | Cloudflared |  |  |
-| Advanced IP Scanner |  |  |  |  |  |  |  |
+| Advanced IP Scanner |  | ThrottleStop driver (rwdrv.sys) |  |  |  |  |  |
 ---
 #### Any Related Sources
 
