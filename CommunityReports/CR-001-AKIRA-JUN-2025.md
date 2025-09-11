@@ -16,12 +16,12 @@
 
 ---
 ### Incident Details
-```
+
 - Time of Incident: January 2025
 - Victim Sector: Construction
 - Victim Country: Canada
 - Victim Size: 100-1000
-```
+
 ---
 ### Observed Tools
 - Use the [RTM categories](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/Tools) as a guide of where to list tools in the table below
