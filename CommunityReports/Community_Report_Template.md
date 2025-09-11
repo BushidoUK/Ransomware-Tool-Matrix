@@ -1,5 +1,6 @@
 # Community Report Template
 - Please copy the template, add your information to the following fields
+- Use a naming scheme like `CR-001-AKIRA-JUN-2025.md` of your file
 > [!NOTE]
 > The level of detail provided is the contributor's choice. The more verifiable information shared, the increased level of reliability and credibility.
 ### Contributor Details
