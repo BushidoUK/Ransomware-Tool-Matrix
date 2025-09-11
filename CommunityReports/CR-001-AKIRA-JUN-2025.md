@@ -1,7 +1,5 @@
 # Community Report Template
-- Please copy the template, add your information to the following fields
-> [!NOTE]
-> The level of detail provided is the contributor's choice. The more verifiable information shared, the increased level of reliability and credibility.
+
 ### Contributor Details
 
 - Real Name: N/A
