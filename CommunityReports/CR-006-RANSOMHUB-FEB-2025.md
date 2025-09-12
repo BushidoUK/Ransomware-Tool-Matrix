@@ -1,4 +1,4 @@
-# Community Report Template
+# Community Report 006 - RansomHub February 2025
 
 ### Contributor Details
 
