@@ -1,4 +1,4 @@
-# Community Report 001 - Akira June 2025 
+# Community Report Template
 
 ### Contributor Details
 
@@ -10,13 +10,13 @@
 ---
 ### Adversary
 
-- Named adversary: Akira
+- Named adversary: RansomHub
 
 ---
 ### Incident Details
 
-- Time of Incident: June 2025
-- Victim Sector: Construction
+- Time of Incident: March 2025
+- Victim Sector: Logistics
 - Victim Country: Canada
 - Victim Size: 100-1000
 
@@ -25,13 +25,10 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| ShareFinder |  | icardagt.exe (version.dll) |  |  | Cloudflared |  |  |
-| Advanced IP Scanner |  | ThrottleStop driver (rwdrv.sys) |  |  |  |  |  |
+|  |  | ThreatFire System Monitor driver (BYOVD) |  |  | Cloudflared |  | rclone |
 ---
 #### Any Related Sources
 
-- icardagt.exe DLL sideloading of version.dll - https://hijacklibs.net/entries/microsoft/built-in/version.html
-
 | Date Published | Report |
 |---|---|
-| 2025/08/05 | https://www.guidepointsecurity.com/blog/gritrep-akira-sonicwall/ |
+| N/A | N/A |

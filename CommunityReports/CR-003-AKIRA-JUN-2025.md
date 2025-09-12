@@ -1,4 +1,4 @@
-# Community Report 001 - Akira June 2025 
+# Community Report Template
 
 ### Contributor Details
 
@@ -16,7 +16,7 @@
 ### Incident Details
 
 - Time of Incident: June 2025
-- Victim Sector: Construction
+- Victim Sector: Manufacturing
 - Victim Country: Canada
 - Victim Size: 100-1000
 
@@ -25,12 +25,13 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| ShareFinder |  | icardagt.exe (version.dll) |  |  | Cloudflared |  |  |
-| Advanced IP Scanner |  | ThrottleStop driver (rwdrv.sys) |  |  |  |  |  |
+|  |  | icardagt.exe (version.dll) |  |  |  |  | WinRAR |
+|  |  | mfpmp.exe (rtworkq.dll) |  |  |  |  | FileZilla |
 ---
 #### Any Related Sources
 
 - icardagt.exe DLL sideloading of version.dll - https://hijacklibs.net/entries/microsoft/built-in/version.html
+- mfpmp.exe DLL sideloading of rtworkq.dll - https://hijacklibs.net/entries/microsoft/built-in/rtworkq.html
 
 | Date Published | Report |
 |---|---|
