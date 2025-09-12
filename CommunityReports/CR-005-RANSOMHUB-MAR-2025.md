@@ -18,7 +18,7 @@
 - Time of Incident: March 2025
 - Victim Sector: Education
 - Victim Country: Canada
-- Victim Size: 
+- Victim Size: 1-100
 
 ---
 ### Observed Tools
