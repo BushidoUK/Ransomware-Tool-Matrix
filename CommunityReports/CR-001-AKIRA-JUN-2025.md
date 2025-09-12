@@ -15,7 +15,7 @@
 ---
 ### Incident Details
 
-- Time of Incident: January 2025
+- Time of Incident: June 2025
 - Victim Sector: Construction
 - Victim Country: Canada
 - Victim Size: 100-1000
