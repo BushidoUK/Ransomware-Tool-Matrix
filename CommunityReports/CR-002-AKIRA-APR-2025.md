@@ -26,7 +26,6 @@
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
 |  | MobaXterm |  |  |  |  |  | WinSCP |
-|  |  |  |  |  |  |  |  |
 ---
 #### Any Related Sources
 
