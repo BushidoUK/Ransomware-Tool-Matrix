@@ -18,14 +18,14 @@
 | | RPort | | | | Teleport | | |
 | | RSAT | | | | Chisel | | |
 | | RustDesk | | | | TryCloudflare | | |
-| | ScreenConnect | | | | | | |
+| | ScreenConnect | | | | Twingate | | |
 | | Sorillus | | | | | | |
 | | Splashtop | | | | | | |
 | | TacticalRMM | | | | | | |
 | | TeamViewer | | | | | | |
 | | TightVNC | | | | | | |
 | | TrendMicro Basecamp | | | | | | |
-| | Twingate | | | | | | |
+| | Xeox | | | | | | |
 | | ZeroTier | | | | | | |
 | | ZohoAssist | | | | | | |
 
@@ -42,3 +42,4 @@
 | 20 September 2023 | https://permiso.io/blog/lucr-3-scattered-spider-getting-saas-y-in-the-cloud |
 | 14 September 2023 | https://cloud.google.com/blog/topics/threat-intelligence/unc3944-sms-phishing-sim-swapping-ransomware |
 | 2 December 2022 | https://www.crowdstrike.com/blog/analysis-of-intrusion-campaign-targeting-telecom-and-bpo-companies |
+| 23 April 2024 | https://redcanary.com/threat-detection-report/trends/rmm-tools/ |

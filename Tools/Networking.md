@@ -34,4 +34,5 @@
 | Termite | Cuba |
 | TrueSocks | Scattered Spider* |
 | TryCloudflare | Scattered Spider* |
+| Twingate | Scattered Spider* |
 | Windscribe (Wstunnel) | Scattered Spider* |
