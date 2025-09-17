@@ -101,6 +101,7 @@
 | 6 May 2021 | FiveHands | https://www.cisa.gov/news-events/analysis-reports/ar21-126a |
 | 29 April 2021 | FiveHands | https://cloud.google.com/blog/topics/threat-intelligence/unc2447-sombrat-and-fivehands-ransomware-sophisticated-financial-threat |
 | 5 July 2020 | MAZE | https://cloud.google.com/blog/topics/threat-intelligence/tactics-techniques-procedures-associated-with-maze-ransomware-incidents |
+| 23 April 2024 | Scattered Spider | https://redcanary.com/threat-detection-report/trends/rmm-tools/ |
 
 > [!NOTE]
 > This list will also be used by others to contribute additional threat intelligence about tools used by ransomware gangs to the repo.

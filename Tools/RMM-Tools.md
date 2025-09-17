@@ -54,6 +54,6 @@
 | TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang, Helldown |
 | TightVNC | Scattered Spider*, DarkSide, RansomHub |
 | TrendMicro Basecamp | Scattered Spider* |
-| Twingate | Scattered Spider* |
+| Xeox | Scattered Spider* |
 | ZeroTier | Scattered Spider* |
 | ZohoAssist | LockBit, Scattered Spider* |
