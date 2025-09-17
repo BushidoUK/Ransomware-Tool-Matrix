@@ -31,6 +31,9 @@
 |---|---|---|---|---|---|---|---|
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 ---
+### Indicators of Compromise (IOCs)
+- Use this section to share any IOCs (Domains, Hashes, IPs, URLs), FileNames, Commands, Scripts, or Process Trees.
+---
 #### Any Related Sources
 - e.g. VirusTotal Collections, AnyRun Sandbox Detonations, etc
 
