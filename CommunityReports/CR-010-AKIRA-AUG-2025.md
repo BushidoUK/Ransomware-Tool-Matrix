@@ -46,8 +46,7 @@ Ransomware Binary:
 - w.exe -p=\\[REDDACTED].local\C$ -n=1
 ```
 ---
- 
----
+#### Any Related Sources
 | Date Published | Report |
 |---|---|
 | 04/08/2025 | https://www.huntress.com/blog/exploitation-of-sonicwall-vpn |
