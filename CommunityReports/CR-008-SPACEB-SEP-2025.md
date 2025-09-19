@@ -57,6 +57,7 @@ Ransomware Binary:
 - C:\driver\mkp_visual.exe
 ```
 ---
+#### Any Related Sources
 | Date Published | Report |
 |---|---|
 | N/A | N/A |
