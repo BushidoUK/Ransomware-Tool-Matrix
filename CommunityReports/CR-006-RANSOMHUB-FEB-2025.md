@@ -33,3 +33,20 @@
 | Date Published | Report |
 |---|---|
 | N/A | N/A |
+
+---
+#### Summary Diagram
+```mermaid
+flowchart TD
+    A[RansomHub] -->|target| B(Geo: Canada
+    Sector: Manufacturing
+    Size: 1-100 Employees)
+    B --> C{Tools}
+    C -->|Discovery| D[SoftPerfect NetScan]
+    C -->|OffSec| E[NetExec]
+    C -->|Networking| F[Ngrok]
+    C -->|LOLBAS| G[WMIC
+    PsExec]
+    C -->|Exfiltration| H[WinSCP
+    Rclone]
+```
