@@ -42,3 +42,25 @@
 | Date Published | Report |
 |---|---|
 | DD Month YYYY | https:// |
+
+---
+#### Summary Diagram
+- Add Adversary Name
+- Add Targeting Info (if any)
+- Only include types of Tools used and remove categories with none observed
+
+```mermaid
+flowchart TD;
+    A[Adversary Name] -->|target| B(Geo: ABC
+Sector: ABC
+Size: X-XXX Employees);
+    B --> C{Tools};
+    C -->|Discovery| D[1];
+    C -->|RMM Tools| E[2];
+    C -->|Defense Evasion| F[3];
+    C -->|Credential Theft| G[4];
+    C -->|OffSec| H[5];
+    C -->|Networking| I[6];
+    C -->|LOLBAS| J[5];
+    C -->|Exfiltration| K[6];
+```
