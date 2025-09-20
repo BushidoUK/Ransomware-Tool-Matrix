@@ -61,3 +61,17 @@ Ransomware Binary:
 | Date Published | Report |
 |---|---|
 | N/A | N/A |
+---
+#### Summary Diagram
+```mermaid
+flowchart TD;
+    A[Space Bear] -->|target| B(Geo: USA);
+    B --> C{Tools};
+    C -->|Defense Evasion| D[Defender Control];
+    C -->|LOLBAS| E[bcedit
+    fsutil
+    netsh
+    WMIC
+    VmConnect
+    Vssadmin];
+```
