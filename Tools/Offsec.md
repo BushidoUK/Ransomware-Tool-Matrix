@@ -33,7 +33,7 @@
 | MicroBurst | Scattered Spider* |
 | mitm6 | BlackCat |
 | Mythic | EvilCorp* |
-| NetExec | Qilin, Fog |
+| NetExec | Qilin, Fog, Akira |
 | Orpheus | Fog |
 | OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
