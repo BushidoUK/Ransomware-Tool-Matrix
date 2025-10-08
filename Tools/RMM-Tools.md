@@ -26,7 +26,7 @@
 | Level.io | Scattered Spider*, Storm-0501 |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
 | ManageEngineRMM | Scattered Spider* |
-| MeshAgent | *Br0k3r, MeshAgent |
+| MeshAgent | *Br0k3r, Akira |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider*, RansomHub, Medusa |
 | NetSupport | Cuba, EvilCorp*, Black Basta |
