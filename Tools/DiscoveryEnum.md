@@ -17,7 +17,7 @@
 | AWS Systems Manager Inventory | Scattered Spider* |
 | Azure Storage Explorer | Interlock |
 | AzureHound | Storm-0501* |
-| Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands |
+| Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands, Akira |
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
 | Everything.exe | NightSpire |
