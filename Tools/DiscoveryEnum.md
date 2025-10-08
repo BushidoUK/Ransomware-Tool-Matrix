@@ -23,6 +23,7 @@
 | Everything.exe | NightSpire |
 | Get-ADUser | Scattered Spider* |
 | Lansweeper | EvilCorp* |
+| ldapdomaindump | Akira |
 | Navicat | Medusa |
 | Nbtscan | Dagon Locker | 
 | NirSoft WinLister | AvosLocker |
@@ -46,7 +47,7 @@
 | SharpNBTScan | Ghost/Cring |
 | SharpHound | Scattered Spider*, Akira, BlackSuit |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
-| SharpShares | BlackSuit, Royal, BianLian, Fog, Ghost/Cring |
+| SharpShares | BlackSuit, Royal, BianLian, Fog, Ghost/Cring, Akira |
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa |
