@@ -51,7 +51,7 @@
 | Supremo | Black Basta |
 | Syncro | Royal |
 | TacticalRMM | AvosLocker, Scattered Spider* |
-| TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang, Helldown |
+| TeamViewer | LockBit, BianLian, Scattered Spider*, Trigona, Yanluowang, Helldown, Akira |
 | TightVNC | Scattered Spider*, DarkSide, RansomHub |
 | TrendMicro Basecamp | Scattered Spider* |
 | Xeox | Scattered Spider* |
