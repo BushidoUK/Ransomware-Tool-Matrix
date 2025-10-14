@@ -67,12 +67,7 @@ flowchart TD;
 Sector: Healthcare
 Size: 5000-8000 Employees);
     B --> C{Tools};
-    C -->|Discovery| D[0];
-    C -->|RMM Tools| E[0];
     C -->|Defense Evasion| F[4];
-    C -->|Credential Theft| G[0];
     C -->|OffSec| H[4];
-    C -->|Networking| I[0];
-    C -->|LOLBAS| J[0];
     C -->|Exfiltration| K[1];
 ```
