@@ -52,12 +52,7 @@ flowchart TD;
 Sector: Manufacturing
 Size: Unknown);
     B --> C{Tools};
-    C -->|Discovery| D[0];
-    C -->|RMM Tools| E[0];
-    C -->|Defense Evasion| F[0];
-    C -->|Credential Theft| G[0];
     C -->|OffSec| H[1];
     C -->|Networking| I[3];
-    C -->|LOLBAS| J[0];
     C -->|Exfiltration| K[1];
 ```
