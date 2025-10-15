@@ -55,4 +55,5 @@ Size: Unknown);
     B --> C{Tools};
     C -->|OffSec| H[3];
     C -->|Networking| I[3];
+    C -->|Exfiltration| J[1];
 ```
