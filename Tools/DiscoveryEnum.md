@@ -44,6 +44,7 @@
 | RVTools | Scattered Spider* |
 | S3 Browser | FiveHands, Yanluowang |
 | Seatbelt | LockBit, Conti, Dagon Locker |
+| SecurityCheck | Warlock |
 | SharpNBTScan | Ghost/Cring |
 | SharpHound | Scattered Spider*, Akira, BlackSuit |
 | ShareFinder | MAZE, Conti, Dagon Locker, Diavol, XingLocker |
