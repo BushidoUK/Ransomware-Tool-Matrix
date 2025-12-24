@@ -5,6 +5,10 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 18 December 2025 | Qilin | https://www.sophos.com/en-us/blog/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin |
+| 11 December 2025 | Warlock | https://www.sophos.com/en-us/blog/gold-salem-tradecraft-for-deploying-warlock-ransomware |
+| 13 November 2025 | Kraken | https://blog.talosintelligence.com/kraken-ransomware-group/ |
+| 11 November 2025 | Ymir | https://securelist.com/new-ymir-ransomware-found-in-colombia/114493/ |
 | 26 September 2025 | Akira | https://arcticwolf.com/resources/blog/smash-and-grab-aggressive-akira-campaign-targets-sonicwall-vpns/ |
 | 27 August 2025 | Storm-0501* (Embargo) | https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/ |
 | 2 July 2025 | Scattered Spider* | https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ |
