@@ -18,6 +18,7 @@
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NPS | RA World |
 | NSOCKS | Scattered Spider* |
+| MinIO | Warlock |
 | Pinggy | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
 | Powercat | Fog |
@@ -35,4 +36,5 @@
 | TrueSocks | Scattered Spider* |
 | TryCloudflare | Scattered Spider* |
 | Twingate | Scattered Spider* |
+| VS Code Tunnel | Warlock |
 | Windscribe (Wstunnel) | Scattered Spider* |
