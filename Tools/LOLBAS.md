@@ -14,7 +14,7 @@
 | Curl | QWCrypt |
 | fsutil | Qilin |
 | Logger | NailaoLocker |
-| Minidump | *Prophet Spider, Vice Society |
+| Minidump | *Prophet Spider, Vice Society, Warlock |
 | NTDS Utility (ntdsutil) | Rhysida, Conti, Yanluowang, Lapsus$, Vice Society |
 | PAExec | *Prophet Spider, FiveHands  |
 | Program Compatibility Assistant utility (pcalua) | QWCrypt |
