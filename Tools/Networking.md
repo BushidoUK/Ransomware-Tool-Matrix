@@ -9,11 +9,11 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt, Scattered Spider* |
-| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa |
+| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa, Warlock |
 | FRP | Medusa |
 | GOST | Cicada3301 |
 | IOX | Ghost/Cring |
-| OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+ |
+| OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+, Warlock |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NPS | RA World |
