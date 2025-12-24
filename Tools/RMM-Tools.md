@@ -29,13 +29,13 @@
 | MeshAgent | *Br0k3r, Akira |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider*, RansomHub, Medusa |
-| NetSupport | Cuba, EvilCorp*, Black Basta |
+| NetSupport | Cuba, EvilCorp*, Black Basta, Qilin |
 | NinjaOne | Storm-0501 |
 | Parsec | Scattered Spider* |
 | PDQ Deploy | AvosLocker, Medusa |
 | PowerAdmin | Vice Society |
 | Pulseway | Scattered Spider* |
-| Radmin | Akira |
+| Radmin | Akira, Warlock |
 | Remote Desktop Plus (RDP+) | Medusa Locker |
 | Remote Manipulator System (RMS) | RagnarLocker |
 | RemotePC | Scattered Spider* |
