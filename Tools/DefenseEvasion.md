@@ -45,5 +45,6 @@
 | Universal Virus Sniffer | Phobos |
 | Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
 | VirtualBox | RagnarLocker |
+| VMTools AV Killer (BYOVD) | Warlock |
 | YDArk | Qilin |
 | Zemana Anti-Rootkit driver | Qilin, Akira, BlackByte, CrazyHunter |
