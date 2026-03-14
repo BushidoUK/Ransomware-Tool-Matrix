@@ -12,6 +12,7 @@
 | BCDEdit | LockBit, Snatch, Hive, Zola, BlackCat, Cicada3301, Embargo, RansomEXX |
 | BITSAdmin | Black Basta, Hive, REvil, Conti, Medusa, RansomHub, Lockean* |
 | Curl | QWCrypt |
+| Finger | INC Ransom |
 | fsutil | Qilin |
 | Logger | NailaoLocker |
 | Minidump | *Prophet Spider, Vice Society, Warlock |
