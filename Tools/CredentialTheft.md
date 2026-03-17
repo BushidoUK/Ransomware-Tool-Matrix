@@ -10,6 +10,7 @@
 |---|---|
 | AADInternals | DarkBit+, Storm-0501* |
 | AccountRestore | Blacksuit |
+| Automim | Beast |
 | aws_consoler | Scattered Spider* |
 | BetterSafetyKatz | OnePercent* |
 | CQTools CQHashDump | NailaoLocker |
@@ -23,10 +24,10 @@
 | Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp*, Yanluowang |
 | Kerbrute | BlackCat |
-| LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat, IMN Crew |
+| LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat, IMN Crew, Beast |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
-| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub, OnePercent*, *Prophet Spider, DarkSide, FiveHands, Medusa Locker, DragonForce, Sphinx, Medusa, Ghost/Cring, Qilin, Helldown, Warlock |
+| Mimikatz | MAZE, BlackSuit, Royal, Black Basta, Akira, Phobos, PLAY, Karakurt, Scattered Spider*, AvosLocker, LockBit, Conti, Bassterlord*, Quantum, PYSA, NetWalker, GoGoogle, 8BASE, Trigona, Cuba, RansomEXX, EvilCorp*, Avaddon, Yanluowang, Lapsus$, Zola, MONTI, BlackCat, RansomHub, OnePercent*, *Prophet Spider, DarkSide, FiveHands, Medusa Locker, DragonForce, Sphinx, Medusa, Ghost/Cring, Qilin, Helldown, Warlock, Beast |
 | MIT Kerberos Ticket Manager | Scattered Spider* |
 | NirSoft BulletsPassView | GoGoogle |
 | NirSoft ChromePass | GoGoogle, Loki |
