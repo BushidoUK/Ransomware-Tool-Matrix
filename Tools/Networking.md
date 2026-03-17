@@ -13,7 +13,8 @@
 | FRP | Medusa |
 | GOST | Cicada3301 |
 | IOX | Ghost/Cring |
-| OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+, Warlock |
+| Klink | Beast |
+| OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+, Warlock, Beast |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NPS | RA World |
