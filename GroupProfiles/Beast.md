@@ -14,4 +14,4 @@
 
 | Date Published | Report        |
 |----------------|---------------|
-| TBD March 2026 | [placeholder] |
+| 18 March 2026 | https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis |
