@@ -5,7 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
-| TBD March 2026 | Beast | [placeholder] |
+| 18 March 2026 | Beast | https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis |
 | 12 March 2026 | INC Ransom | https://www.huntress.com/blog/data-exfiltration-threat-actor-infrastructure-exposed |
 | 18 December 2025 | Qilin | https://www.sophos.com/en-us/blog/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin |
 | 11 December 2025 | Warlock | https://www.sophos.com/en-us/blog/gold-salem-tradecraft-for-deploying-warlock-ransomware |
