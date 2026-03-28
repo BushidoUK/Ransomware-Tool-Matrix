@@ -26,7 +26,8 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| SoftPerfect Network Scanner | 2 | 3 | 4 | NetExec (NXC) | cloudflared | 7 | 8 |
+| Advanced Port Scanner | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
 ---
 #### Any Related Sources
 - e.g. VirusTotal Collections, AnyRun Sandbox Detonations, etc
