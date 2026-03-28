@@ -10,7 +10,7 @@
 ---
 ### Adversary
 
-- Named adversary: Akira
+- Named adversary: INC Ransom
 
 ---
 ### Incident Details
