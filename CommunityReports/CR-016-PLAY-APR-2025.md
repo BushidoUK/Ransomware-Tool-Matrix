@@ -26,10 +26,13 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| 1 | 2 | icardagt.exe | Mimikatz | 5 | Fast Reverse Proxy Client (FRPC) | 7 | 8 |
+| 1 | 2 | PCHunter | Nanodump | 5 | 6 | 7 | 8 |
+| 1 | 2 | EDRKill (echo_driver.sys + DBUtil 2.3) | HandleKatz | 5 | 6 | 7 | 8 |
 ---
 #### Any Related Sources
-- e.g. VirusTotal Collections, AnyRun Sandbox Detonations, etc
+
+- icardagt.exe DLL sideloading of version.dll - https://hijacklibs.net/entries/microsoft/built-in/version.html
 
 | Date Published | Report |
 |---|---|
