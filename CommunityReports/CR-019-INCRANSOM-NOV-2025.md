@@ -26,7 +26,7 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
+| SoftPerfect Network Scanner | AnyDesk | 3 | Mimikatz | 5 | Bitvise SSH Client | 7 | rclone |
 ---
 #### Any Related Sources
 - e.g. VirusTotal Collections, AnyRun Sandbox Detonations, etc
