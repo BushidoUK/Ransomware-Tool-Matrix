@@ -1,27 +1,25 @@
-# Community Report Template
-- Please copy the template, add your information to the following fields
-> [!NOTE]
-> The level of detail provided is the contributor's choice. The more verifiable information shared, the increased level of reliability and credibility.
+# Community Report Template 020 - INC Ransom January 2026
+
 ### Contributor Details
-```
-- Real Name
-- Online Handle / Links to profiles e.g. X/Twitter, BlueSky, or LinkedIn
-- Employer / Affiliations e.g. Trust Groups, ISACs, etc
-```
+
+- Real Name: N/A
+- Online Handle / Links to profiles: https://x.com/SecurityAura
+- Employer: Private, DFIR role
+- Affiliations: Curated Intelligence
+
 ---
 ### Adversary
-```
-- Named adversary (e.g. Qilin, Akira, etc)
-- Unknown adversary (e.g. no ransomware deployed by highly likely to be a ransomware affiliate or initial access broker)
-```
+
+- Named adversary: INC Ransom
+
 ---
 ### Incident Details
-```
-- Time of Incident (e.g. January 2025)
-- Victim Sector (e.g. Retails, Manufacturing, Legal, Healthcare)
-- Victim Country (e.g. US, UK, Canada, France, Italy)
-- Victim Size (e.g. Number of employees is 10-100, 100-1,000, 1,000-10,000, 10,000+)
-```
+
+- Time of Incident: January 2026
+- Victim Sector: Construction
+- Victim Country: Canada
+- Victim Size: 50-200
+
 ---
 ### Observed Tools
 - Use the [RTM categories](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/Tools) as a guide of where to list tools in the table below
