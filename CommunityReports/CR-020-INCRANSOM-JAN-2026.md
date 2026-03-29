@@ -25,6 +25,6 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| Advanced IP Scanner | 2 | 3 | 4 | 5 | 6 | 7 | WinRAR |
-| 1 | 2 | 3 | 4 | 5 | 6 | 7 | 7-Zip |
+| Advanced IP Scanner |  |  |  |  |  |  | WinRAR |
+|  |  |  |  |  |  |  | 7-Zip |
 ---
