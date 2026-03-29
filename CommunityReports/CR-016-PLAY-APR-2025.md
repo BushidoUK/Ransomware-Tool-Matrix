@@ -22,7 +22,6 @@
 
 ---
 ### Observed Tools
-- Use the [RTM categories](https://github.com/BushidoUK/Ransomware-Tool-Matrix/tree/main/Tools) as a guide of where to list tools in the table below
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
@@ -36,4 +35,4 @@
 
 | Date Published | Report |
 |---|---|
-| DD Month YYYY | https:// |
+| 2025/08/05 | https://www.guidepointsecurity.com/blog/gritrep-akira-sonicwall/ |
