@@ -25,9 +25,9 @@
  
 | Discovery | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |---|---|---|---|---|---|---|---|
-| 1 | 2 | icardagt.exe | Mimikatz | 5 | Fast Reverse Proxy Client (FRPC) | 7 | 8 |
-| 1 | 2 | PCHunter | Nanodump | 5 | 6 | 7 | 8 |
-| 1 | 2 | EDRKill (echo_driver.sys + DBUtil 2.3) | HandleKatz | 5 | 6 | 7 | 8 |
+|  |  | icardagt.exe | Mimikatz |  | Fast Reverse Proxy Client (FRPC) |  |  |
+|  |  | PCHunter | Nanodump |  |  |  |  |
+|  |  | EDRKill (echo_driver.sys + DBUtil 2.3) | HandleKatz |  |  |  |  |
 ---
 #### Any Related Sources
 
