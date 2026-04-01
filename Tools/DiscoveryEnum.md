@@ -20,7 +20,7 @@
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands, Akira |
 | Cent Browser | Yanluowang |
 | Dsquery | RagnarLocker |
-| Everything.exe | NightSpire, Beast |
+| Everything.exe | NightSpire, Beast, Yurei |
 | Get-ADUser | Scattered Spider* |
 | Lansweeper | EvilCorp* |
 | ldapdomaindump | Akira |
@@ -51,7 +51,7 @@
 | SharpShares | BlackSuit, Royal, BianLian, Fog, Ghost/Cring, Akira |
 | SharpView | Conti |
 | SoftPerfect LanSearchPro | RagnarLocker |
-| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa, Beast |
+| SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa, Beast, Yurei |
 | TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
 | WKTools | RansomHub, PLAY, BianLian |
