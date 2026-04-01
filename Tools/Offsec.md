@@ -22,6 +22,7 @@
 | Evil-WinRM | Storm-0501* |
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
+| Invoke-TheHash | Yurei |
 | Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt, Fog |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
@@ -33,7 +34,7 @@
 | MicroBurst | Scattered Spider* |
 | mitm6 | BlackCat |
 | Mythic | EvilCorp* |
-| NetExec | Qilin, Fog, Akira |
+| NetExec | Qilin, Fog, Akira, Yurei |
 | Orpheus | Fog |
 | OWASP ZAP | FiveHands |
 | Pacu | Scattered Spider* |
@@ -42,7 +43,7 @@
 | PwnTools | *Prophet Spider |
 | Responder | *Prophet Spider, BlackCat |
 | ReverseSSH Shell | BlackCat |
-| Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301 |
+| Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301, Yurei |
 | SharpGPOAbuse | CrazyHunter |
 | SharpGPPPass | Ghost/Cring |
 | SharpSploit | OnePercent* |
@@ -51,5 +52,5 @@
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
 | Velociraptor | Warlock |
-| WinPEAS | PLAY |
+| WinPEAS | PLAY, Yurei |
 | Zer0dump | Fog |
