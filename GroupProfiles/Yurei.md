@@ -3,7 +3,7 @@
 | Discovery            | RMM Tools | Defense Evasion | Credential Theft | OffSec | Networking | LOLBAS | Exfiltration |
 |----------------------|-----------|-----------------|------------------|--------|------------|--------|--------------|
 | Everything.exe  | AnyDesk   |                 | Rubeus          | Invoke-TheHash       |       | PsExec |          |
-| SoftPerfect NetScan |           |                 |           | winPEAS       |     |        |        |
+| SoftPerfect NetScan |           |                 |           | winPEAS       |     | SDelete       |        |
 |       |           |                 |          | NetExec       |            |        |              |
 
 > [!NOTE]
