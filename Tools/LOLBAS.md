@@ -20,8 +20,9 @@
 | PAExec | *Prophet Spider, FiveHands  |
 | Program Compatibility Assistant utility (pcalua) | QWCrypt |
 | Process Explorer | Zola, Medusa |
-| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit, Cicada3301, Medusa Locker, Qilin, RA World, Helldown, Interlock, Beast |
+| PsExec | MAZE, BlackSuit, Royal, Black Basta, PLAY, Cuba, Rhysida, AvosLocker, BianLian, Bassterlord*, Conti, Nokoyawa, Quantum, PYSA, NetWalker, 8BASE, INC Ransom, RansomHub, EvilCorp*, Fog, Medusa, Yanluowang, Scattered Spider*, FiveHands, DarkSide, RagnarLocker, Vice Society, BlackCat, LockBit, Cicada3301, Medusa Locker, Qilin, RA World, Helldown, Interlock, Beast, Yurei |
 | Quick Assist | Black Basta |
+| SDelete | Yurei |
 | ServiceControl (sc.exe) | Snatch, Embargo |
 | Windows Event Utility (wevtutil) | Rhysida, Hive, GoGoogle, Yanluowang, BlackCat, RansomEXX |
 | WinExe | *Prophet Spider |
