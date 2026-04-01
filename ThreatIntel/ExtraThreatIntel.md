@@ -5,6 +5,7 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 1 April 2026 | Yurei | https://www.team-cymru.com/post/yurei-double-extortion-ransomware-campaign-toolkit |
 | 18 March 2026 | Beast | https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis |
 | 12 March 2026 | INC Ransom | https://www.huntress.com/blog/data-exfiltration-threat-actor-infrastructure-exposed |
 | 18 December 2025 | Qilin | https://www.sophos.com/en-us/blog/i-am-not-a-robot-clickfix-used-to-deploy-stealc-and-qilin |
