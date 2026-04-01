@@ -4,7 +4,7 @@
 |----------------------|-----------|-----------------|------------------|--------|------------|--------|--------------|
 | Everything.exe  | AnyDesk   |                 | Rubeus          | Invoke-TheHash       |       | PsExec |          |
 | SoftPerfect NetScan |           |                 |           | winPEAS       |     |        |        |
-| NetExec       |           |                 |          |        |            |        |              |
+|       |           |                 |          | NetExec       |            |        |              |
 
 > [!NOTE]
 > This is the list of tools that have been observed during various intrusions that lead to Beast ransomware deployment.
