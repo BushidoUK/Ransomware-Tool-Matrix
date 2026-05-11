@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|---|
 | Everything.exe | Radmin | Antiy System In-Depth Analysis Toolkit driver (BYOVD) | Mimikatz | Cobalt Strike | Azure Blog Storage | Minidump | RClone |
 | SecurityCheck | TightVNC | NsecSoft driver (BYOVD) | Veeam-Get-Creds | Velociraptor | Catbox[.]moe | Msiexec | |
-| | | Rising Antivirus driver (BYOVD) | | | Cloudflared | PsExec | |
+| | | Rising Antivirus driver (BYOVD) | | Impacket | Cloudflared | PsExec | |
 | | | VMTools AV Killer (BYOVD) | | | OpenSSH | PowerShell Remoting (PSRemoting) | |
 | | | | | | MinIO | RDP Patcher | |
 | | | | | | Supabase | | |
