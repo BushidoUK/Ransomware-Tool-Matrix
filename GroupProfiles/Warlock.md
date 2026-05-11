@@ -20,3 +20,4 @@
 |---|---|
 | 16 March 2026 | https://www.trendmicro.com/en_us/research/26/c/dissecting-a-warlock-attack.html |
 | 11 December 2025 | https://www.sophos.com/en-us/blog/gold-salem-tradecraft-for-deploying-warlock-ransomware |
+| 9 October 2025 | https://blog.talosintelligence.com/velociraptor-leveraged-in-ransomware-attacks/ |
