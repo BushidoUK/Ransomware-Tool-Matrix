@@ -33,6 +33,7 @@
 | Nmap | Qilin, Cactus, AvosLocker, RansomHub, TheGentlemen |
 | Nping | Qilin |
 | ManageEngine LANDESK | Scattered Spider* |
+| MANSPIDER | TheGentlemen |
 | Masscan | Akira, BlackCat |
 | ossec-win32 | Storm-0501 |
 | OSQuery | Storm-0501 |
