@@ -40,6 +40,7 @@
 | Pacu | Scattered Spider* |
 | PowerShell Empire | Vice Society, Conti, PYSA, Hive, CL0P, BlackByte, LockBit, BlackCat, Avaddon |
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide, Cicada3301 |
+| PowerZure | TheGentlemen |
 | PwnTools | *Prophet Spider |
 | Responder | *Prophet Spider, BlackCat, TheGentlemen |
 | ReverseSSH Shell | BlackCat |
