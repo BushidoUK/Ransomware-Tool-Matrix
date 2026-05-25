@@ -25,6 +25,7 @@
 | Jecretz | Scattered Spider* |
 | KeeThief | EvilCorp*, Yanluowang |
 | Kerbrute | BlackCat |
+| KslKatz | TheGentlemen |
 | LaZagne | Akira, AvosLocker, LockBit, GoGoogle, 8BASE, RansomEXX, BlackCat, IMN Crew, Beast |
 | LostMyPassword | LockBit |
 | MAGNET RAM Capture | Scattered Spider* |
