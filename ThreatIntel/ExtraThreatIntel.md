@@ -16,6 +16,7 @@
 | 11 December 2025 | Warlock | https://www.sophos.com/en-us/blog/gold-salem-tradecraft-for-deploying-warlock-ransomware |
 | 13 November 2025 | Kraken | https://blog.talosintelligence.com/kraken-ransomware-group/ |
 | 11 November 2025 | Ymir | https://securelist.com/new-ymir-ransomware-found-in-colombia/114493/ |
+| 29 October 2025 | DragonForce | https://www.trendmicro.com/vinfo/us/security/news/ransomware-spotlight/ransomware-spotlight-dragonforce |
 | 9 October 2025 | Warlock | https://blog.talosintelligence.com/velociraptor-leveraged-in-ransomware-attacks/ |
 | 26 September 2025 | Akira | https://arcticwolf.com/resources/blog/smash-and-grab-aggressive-akira-campaign-targets-sonicwall-vpns/ |
 | 9 September 2025 | TheGentlemen | https://www.trendmicro.com/en_us/research/25/i/unmasking-the-gentlemen-ransomware.html | 
@@ -46,6 +47,7 @@
 | 26 September 2024 | Storm-0501* (Sabbath/54bb47h, Hive, BlackCat, Hunters International, LockBit, Embargo) | https://www.microsoft.com/en-us/security/blog/2024/09/26/storm-0501-ransomware-attacks-expanding-to-hybrid-cloud-environments/ |
 | 10 September 2024 | CosmicBeetle* (Scarab, ScRansom, NONAME, RansomHub) | https://www.welivesecurity.com/en/eset-research/cosmicbeetle-steps-up-probation-period-ransomhub/ |
 | 10 September 2024 | Cicada3301 | https://unit42.paloaltonetworks.com/repellent-scorpius-cicada3301-ransomware/ |
+| 24 September 2024 | DragonForce | https://www.group-ib.com/blog/dragonforce-ransomware/ |
 | 3 September 2024 | Cicada3301 | https://blog.morphisec.com/cicada3301-ransomware-threat-analysis |
 | 28 August 2024 | BlackByte | https://blog.talosintelligence.com/blackbyte-blends-tried-and-true-tradecraft-with-newly-disclosed-vulnerabilities-to-support-ongoing-attacks/ |
 | 20 August 2024 | Everest | https://www.aha.org/system/files/media/file/2024/08/hc3-tlp-clear-threat-actor-profile-everest-ransomware-group-august-20-2024.pdf |
