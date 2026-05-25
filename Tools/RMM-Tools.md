@@ -9,7 +9,7 @@
 | Tool Name | Threat Group Usage |
 |---|---|
 | Action1 | LockBit, MONTI |
-| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa, BianLian, Fog, Interlock, Beast, Yurei |
+| AnyDesk | BlackSuit, Royal, Akira, BlackCat, Karakurt, LockBit, Rhysida, AvosLocker, Conti, Dagon Locker, Nokoyawa, Quantum, Diavol, Trigona, BlackByte, Cactus, Lapsus$, Black Basta, MONTI, DarkSide, RagnarLocker, RansomHub, Everest, *Br0k3r, Storm-0501, Medusa, BianLian, Fog, Interlock, Beast, Yurei, TheGentlemen |
 | AmmyyAdmin | BianLian |
 | Atera | BlackSuit, Royal, AvosLocker, BianLian, Conti, Hive, Quantum, RansomHub, Black Basta, Everest, BlackCat, Medusa, RansomHub |
 | ASG Remote Desktop | Scattered Spider* |
@@ -20,13 +20,14 @@
 | eHorus | DarkBit+, Medusa |
 | FixMeIt | LockBit |
 | Fleetdeck | Scattered Spider* |
+| FreeRDP | TheGentlemen |
 | GoToAssist | DarkSide |
 | HCL BigFix | Medusa |
 | ITarian | Scattered Spider* |
 | Level.io | Scattered Spider*, Storm-0501 |
 | LogMeIn | BlackSuit, Royal, Trigona, Yanluowang |
 | ManageEngineRMM | Scattered Spider* |
-| MeshAgent | *Br0k3r, Akira |
+| MeshAgent | *Br0k3r, Akira, TheGentlemen |
 | MobaXterm | BlackSuit, Royal, Akira, Scattered Spider* |
 | N-Able | Scattered Spider*, RansomHub, Medusa |
 | NetSupport | Cuba, EvilCorp*, Black Basta, Qilin |
