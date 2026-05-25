@@ -31,6 +31,7 @@
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
 | KAV Removal Tool | LokiLocker/BlackBit |
 | KillAV | Medusa |
+| KslDump | TheGentlemen |
 | McAfee OEM Info Copy Files (mcoemcpy.exe) | NailaoLocker | 
 | MSI Afterburner driver (BYOVD) | BlackByte |
 | NsecSoft driver (BYOVD) | Warlock | 
