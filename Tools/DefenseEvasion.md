@@ -10,7 +10,7 @@
 |---|---|
 | Antiy System In-Depth Analysis Toolkit driver (BYOVD) | Warlock |
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
-| Backstab (Process Explorer driver) | Black Basta, LockBit | 
+| Backstab/Process Explorer driver (BYOVD) | Black Basta, LockBit | 
 | BadRentdrv2 | RansomHub |
 | Bedevil | Scattered Spider* |
 | BEST_uninstallTool | BabLock |
