@@ -19,6 +19,7 @@
 | Defender Control | LockBit, Zola |
 | Dell Client driver (BYOVD) | BlackByte |
 | EDRSandBlast | Cicada3301, Qilin, Medusa |
+| EDRStartupHinder | TheGentlemen |
 | EMCO UnLock IT | Zola | 
 | Eraser | BlackSuit, Royal |
 | FileShredder | BlackCat |
@@ -40,6 +41,7 @@
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
+| RedSun | TheGentlemen |
 | Rising Antivirus driver (BYOVD) | Warlock | 
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
