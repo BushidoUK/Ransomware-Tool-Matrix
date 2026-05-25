@@ -5,6 +5,9 @@
 
 | Date Published | Ransomware/Extortionist | Report |
 |---|---|---|
+| 15 May 2026 | TheGentlemen | https://ransom-isac.com/blog/the-gentlemen-leak-analysis/ |
+| 14 May 2026 | TheGentlemen | https://www.kelacyber.com/blog/the-gentlemen-ransomware-internal-chat-leak-analysis-2026/ |
+| 13 May 2026 | TheGentlemen | https://research.checkpoint.com/2026/thus-spoke-the-gentlemen/ | 
 | 1 April 2026 | Yurei | https://www.team-cymru.com/post/yurei-double-extortion-ransomware-campaign-toolkit |
 | 18 March 2026 | Beast | https://www.team-cymru.com/post/beast-ransomware-server-toolkit-analysis |
 | 16 March 2026 | Warlock | https://www.trendmicro.com/en_us/research/26/c/dissecting-a-warlock-attack.html | 
@@ -15,6 +18,7 @@
 | 11 November 2025 | Ymir | https://securelist.com/new-ymir-ransomware-found-in-colombia/114493/ |
 | 9 October 2025 | Warlock | https://blog.talosintelligence.com/velociraptor-leveraged-in-ransomware-attacks/ |
 | 26 September 2025 | Akira | https://arcticwolf.com/resources/blog/smash-and-grab-aggressive-akira-campaign-targets-sonicwall-vpns/ |
+| 9 September 2025 | TheGentlemen | https://www.trendmicro.com/en_us/research/25/i/unmasking-the-gentlemen-ransomware.html | 
 | 27 August 2025 | Storm-0501* (Embargo) | https://www.microsoft.com/en-us/security/blog/2025/08/27/storm-0501s-evolving-techniques-lead-to-cloud-based-ransomware/ |
 | 2 July 2025 | Scattered Spider* | https://www.crowdstrike.com/en-us/blog/crowdstrike-services-observes-scattered-spider-escalate-attacks/ |
 | 25 April 2025 | Qilin | https://redpiranha.net/news/qilin-ransomware-all-you-need-know  |
