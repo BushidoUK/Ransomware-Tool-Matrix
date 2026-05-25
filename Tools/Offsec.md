@@ -42,6 +42,7 @@
 | PowerSploit | MAZE, Conti, PYSA, Avaddon, Black Basta, Vice Society, DarkSide, Cicada3301 |
 | PowerZure | TheGentlemen |
 | PwnTools | *Prophet Spider |
+| RegPwn | TheGentlemen |
 | Responder | *Prophet Spider, BlackCat, TheGentlemen |
 | ReverseSSH Shell | BlackCat |
 | Rubeus | Conti, Diavol, Ryuk, BlackSuit, Cicada3301, Yurei |
