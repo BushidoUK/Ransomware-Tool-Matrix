@@ -23,7 +23,7 @@
 | GodPotato | Ghost/Cring |
 | Godzilla Web Shell | *Prophet Spider |
 | Invoke-TheHash | Yurei |
-| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt, Fog, Warlock |
+| Impacket | LockBit, Rhysida, BianLian, Bassterlord*, Hive, RansomHub, Scattered Spider*, Akira, Yanluowang, Vice Society, DarkSide, BlackCat, Storm-0501, Medusa Locker, RA World, NailaoLocker, QWCrypt, Fog, Warlock, TheGentlemen |
 | Kerbrute | RansomHub |
 | Koadic | PYSA, BlackCat, LockBit |
 | Ladon911 | Ghost/Cring |
