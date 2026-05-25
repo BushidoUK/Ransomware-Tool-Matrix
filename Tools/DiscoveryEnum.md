@@ -20,9 +20,11 @@
 | Bloodhound | MAZE, LockBit, Conti, XingLocker, REvil, Hive, Black Basta, Lockean*, FiveHands, Akira |
 | Cent Browser | Yanluowang |
 | Censys | TheGentlemen |
+| CertiHound | TheGentlemen | 
 | Dsquery | RagnarLocker |
 | Everything.exe | NightSpire, Beast, Yurei, Warlock |
 | Get-ADUser | Scattered Spider* |
+| Gogo | TheGentlemen |
 | Lansweeper | EvilCorp* |
 | ldapdomaindump | Akira |
 | Navicat | Medusa |
@@ -37,9 +39,11 @@
 | PDQ Inventory | Scattered Spider*, Medusa |
 | PingCastle | MAZE, BianLian, Scattered Spider*, DragonForce |
 | PowerView | MAZE, Conti, XingLocker, Rhysida, BlackByte, Black Basta, Cicada3301 |
+| PrivHound | TheGentlemen |
 | PsInfo | RagnarLocker |
 | PSNmap | Black Basta |
 | ReconFTW | Akira |
+| RelayKing-Depth | TheGentlemen |
 | RoboCopy | Medusa |
 | RustScan | Scattered Spider* |
 | RVTools | Scattered Spider* |
@@ -54,6 +58,7 @@
 | Shodan | TheGentlemen |
 | SoftPerfect LanSearchPro | RagnarLocker |
 | SoftPerfect NetScan | BlackSuit, Royal, Black Basta, Akira, LockBit, BianLian, Conti, BlackCat, Dagon Locker, Nokoyawa, Trigona, Hive, BlackByte, RansomHub, Cactus, Fog, Medusa, Avaddon, AvosLocker, FiveHands, Yanluowang, MONTI, DarkSide, Everest, Cicada3301, MedusaLocker, DragonForce, Phobos, Lynx, Medusa, Beast, Yurei |
+| TaskHound | TheGentlemen |
 | TXPortMap | *Prophet Spider  |
 | VMware PowerCLI | Scattered Spider* |
 | WKTools | RansomHub, PLAY, BianLian |
