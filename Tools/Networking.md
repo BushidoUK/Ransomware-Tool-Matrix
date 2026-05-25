@@ -8,15 +8,17 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| Amnezia VPN | TheGentlemen |
 | Azure Blog Storage | Warlock |
 | Catbox[.]moe | Warlock |
-| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt, Scattered Spider* |
-| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa, Warlock |
+| Chisel | BlackSuit, Royal, AvosLocker, Cactus, Yanluowang, QWCrypt, Scattered Spider*, TheGentlemen |
+| Cloudflared | BlackSuit, Royal, Akira, Scattered Spider*, Medusa, Warlock, TheGentlemen |
 | FRP | Medusa |
 | GOST | Cicada3301 |
 | IOX | Ghost/Cring |
 | Klink | Beast |
 | OpenSSH | BlackSuit, Royal, Akira, Scattered Spider*, DarkBit+, Warlock, Beast |
+| OpenVPN | TheGentlemen |
 | Ligolo | AvosLocker, LockBit, *Br0k3r, DarkBit+, Medusa |
 | Ngrok | Akira, BlackCat, Karakurt, Scattered Spider*, LockBit, *Br0k3r |
 | NPS | RA World |
@@ -25,9 +27,9 @@
 | Pinggy | Scattered Spider* |
 | Plink | BlackCat, PLAY, LockBit, Scattered Spider*, DarkSide, Cicada3301 |
 | Powercat | Fog |
-| Proxychains | Vice Society, Qilin, Fog |
+| Proxychains | Vice Society, Qilin, Fog, TheGentlemen |
 | Proxifier | Scattered Spider*, Proxifier |
-| PuTTY | Medusa, Interlock |
+| PuTTY | Medusa, Interlock, TheGentlemen |
 | Rsocks | Scattered Spider* |
 | RevSocks | Medusa |
 | Socat | Scattered Spider* |
@@ -42,4 +44,5 @@
 | Twingate | Scattered Spider* |
 | VS Code Tunnel | Warlock |
 | Windscribe (Wstunnel) | Scattered Spider* |
+| Wireguard VPN | TheGentlemen |
 | Yuze | Warlock | 
