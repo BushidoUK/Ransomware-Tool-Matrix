@@ -31,7 +31,7 @@
 | pCloud | DarkSide, FiveHands |
 | Qaz[.]im | Conti, BlackBasta |
 | Restic | INC Ransom, Lynx, IMN Crew |
-| RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501, Medusa, Hunters International, Warlock |
+| RClone | BlackSuit, Royal, Black Basta, BlackCat, Akira, Karakurt, AvosLocker, LockBit, BianLian, Hive, Daixin, Conti, Dagon Locker, Trigona, Quantum, REvil, 8BASE, INC Ransom, Cactus, EvilCorp*, Scattered Spider*, FiveHands, DarkSide, RansomHub, Lockean*, OnePercent*, Vice Society, Cicada3301, Storm-0501, Medusa, Hunters International, Warlock, TheGentlemen |
 | s5cmd | INC Ransom |
 | Sendspace | Hive, LockBit, Avaddon, Conti, Darkside, Mallox, REvil |
 | share[.]riseup[.]net | AvosLocker | 
@@ -40,4 +40,4 @@
 | Transfert-my-files | LockBit |
 | Transfer[.]sh | LockBit |
 | UFile | Hive, Ranzy |
-| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society, Hunters International, NightSpire, Interlock, Beast |
+| WinSCP | MAZE, Akira, Phobos, PLAY, LockBit, Conti, MONTI, PYSA, RansomHub, Rhysida, Vice Society, Hunters International, NightSpire, Interlock, Beast, TheGentlemen |
