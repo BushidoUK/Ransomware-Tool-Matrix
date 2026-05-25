@@ -15,6 +15,7 @@
 | BetterSafetyKatz | OnePercent* |
 | CQTools CQHashDump | NailaoLocker |
 | DonPAPI | Akira, Fog |
+| DumpBrowserSecrets | TheGentlemen |
 | Find-KeePassConfig | Storm-0501* |
 | GitGuardian | Scattered Spider* |
 | Gosecretsdump | Lockbit |
