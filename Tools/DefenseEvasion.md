@@ -36,6 +36,7 @@
 | NSudo | Royal |
 | PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
+| PowerRun | TheGentlemen |
 | ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
