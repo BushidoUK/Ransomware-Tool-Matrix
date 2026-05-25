@@ -8,6 +8,7 @@
 
 | Tool Name | Threat Group Usage |
 |---|---|
+| ADVobfuscator | DragonForce |
 | Antiy System In-Depth Analysis Toolkit driver (BYOVD) | Warlock |
 | Avast Anti-Rootkit driver | Cuba, AvosLocker, MONTI |
 | Backstab/Process Explorer driver (BYOVD) | Black Basta, LockBit | 
@@ -15,7 +16,7 @@
 | Bedevil | Scattered Spider* |
 | BEST_uninstallTool | BabLock |
 | Bluetooth Stack for Windows by Toshiba (toshdpdb.exe) | RA World |
-| Darkside/TrueSight driver (BYOVD) | CosmicBeetle* |
+| Darkside/TrueSight driver (BYOVD) | CosmicBeetle*, DragonForce |
 | Defender Control | LockBit, Zola |
 | Dell Client driver (BYOVD) | BlackByte |
 | EDRSandBlast | Cicada3301, Qilin, Medusa |
@@ -26,6 +27,7 @@
 | GIGABYTE Motherboard driver (BYOVD) | RobbinHood, BlackByte |
 | GMER | BlackSuit, Royal, PLAY, LockBit, Bassterlord*, Conti, 8BASE, TargetCompany, Hive, Avaddon, MONTI |
 | HRSword | Medusa Locker, Helldown |
+| Hangzhou Shunwang Technology driver (BYOVD) | DragonForce |
 | Inno Setup | BlackSuit |
 | IOBit | PLAY |
 | Intel Ethernet driver (BYOVD) | Scattered Spider* |
