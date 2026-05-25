@@ -38,10 +38,10 @@
 | MSI Afterburner driver (BYOVD) | BlackByte |
 | NsecSoft driver (BYOVD) | Warlock | 
 | NSudo | Royal |
-| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker |
+| PCHunter | LockBit, Conti, 8BASE, TargetCompany, Hive, Qilin, FiveHands, Medusa Locker, DragonForce |
 | PowerTool | BlackSuit, Royal, Akira, Phobos, PLAY, LockBit, Qilin, Avaddon |
 | PowerRun | TheGentlemen |
-| ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock |
+| ProcessHacker | Phobos, LockBit, 8BASE, Zola, Medusa Locker, Interlock, DragonForce |
 | RealBlindingEDR | CosmicBeetle* |
 | Reaper | CosmicBeetle* |
 | RedSun | TheGentlemen |
