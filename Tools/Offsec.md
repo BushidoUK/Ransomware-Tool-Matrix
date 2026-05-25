@@ -50,6 +50,7 @@
 | SharpZeroLogon | Ghost/Cring |
 | Sliver | AvosLocker, RansomHub, Fog |
 | TinyMet | CL0P |
+| Titanis | TheGentlemen |
 | ThunderShell | LockBit |
 | Velociraptor | Warlock, TheGentlemen |
 | WinPEAS | PLAY, Yurei |
