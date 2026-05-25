@@ -15,7 +15,7 @@
 | Bedevil | Scattered Spider* |
 | BEST_uninstallTool | BabLock |
 | Bluetooth Stack for Windows by Toshiba (toshdpdb.exe) | RA World |
-| Darkside (TrueSight driver) | CosmicBeetle* |
+| Darkside/TrueSight driver (BYOVD) | CosmicBeetle* |
 | Defender Control | LockBit, Zola |
 | Dell Client driver (BYOVD) | BlackByte |
 | EDRSandBlast | Cicada3301, Qilin, Medusa |
@@ -43,7 +43,7 @@
 | s4killer (Minifilter Driver) | Embargo |
 | TDSSKiller | LockBit, Avaddon |
 | ThreatFire System Monitor driver (BYOVD) | RansomHub, Interlock |
-| ThrottleStop driver | Medusa |
+| ThrottleStop driver (BYOVD) | Medusa, TheGentlemen |
 | Toshiba power management driver (BYOVD) | Qilin |
 | Universal Virus Sniffer | Phobos |
 | Updater for Carbon Black’s Cloud Sensor AV (upd.exe) | Qilin | 
