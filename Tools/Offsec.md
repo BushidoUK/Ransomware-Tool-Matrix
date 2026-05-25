@@ -51,6 +51,7 @@
 | Sliver | AvosLocker, RansomHub, Fog |
 | TinyMet | CL0P |
 | ThunderShell | LockBit |
-| Velociraptor | Warlock |
+| Velociraptor | Warlock, TheGentlemen |
 | WinPEAS | PLAY, Yurei |
 | Zer0dump | Fog |
+| ZeroPulse | TheGentlemen |
