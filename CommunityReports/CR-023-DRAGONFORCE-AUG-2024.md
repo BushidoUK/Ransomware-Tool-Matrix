@@ -54,6 +54,7 @@ Notable Commands:
 
 Initial Access:
 - Internet-facing RDP Gateway, brute-force / credential compromise
+```
 
 ---
 #### Any Related Sources
