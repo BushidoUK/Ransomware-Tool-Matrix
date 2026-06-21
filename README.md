@@ -63,3 +63,8 @@
 #### Integrations
 - [Ransomware.live](https://x.com/JMousqueton/status/1824434279251665259)
 - [eCrime.ch](https://x.com/ecrime_ch/status/1824469830613021070)
+
+## License
+- This project is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+- You are free to share and adapt the material for any purpose, including commercial use, provided appropriate attribution is given and any modifications are indicated.
+- For the full license text, see the LICENSE file or visit: https://creativecommons.org/licenses/by/4.0/
